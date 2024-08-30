@@ -184,7 +184,7 @@ http://181.78.8.90:16123/play/ch19
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn6.png",92-ESPN 6 HD
 http://45.166.92.22:58001/play/a05x/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn7.png",93-ESPN 7 HD
-http://38.41.8.1:8000/play/a01d
+http://200.60.124.19:29000/play/a01e/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/clarosports.png",94-Claro Sports HD
 http://200.59.188.3:8000/play/a05j
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/winsports.png",95-Win Sports
