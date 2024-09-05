@@ -438,7 +438,7 @@ http://45.166.92.22:58001/play/a05p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/universalcrime.png",219-Universal Crime HD
 http://170.82.37.21:8000/play/a03i/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/universalcomedy.png",220-Universal Comedy HD
-http://170.82.37.21:8000/play/a03g/index.m3u8
+http://177.93.46.163:8000/play/a00v
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/usa.png",221-USA
 http://200.59.188.3:8000/play/a05q
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/warner.png",222-Warner TV 
