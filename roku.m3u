@@ -46,7 +46,7 @@ http://181.78.27.128:8000/play/a04k/index.m3u
 #EXTINF:0 tvg-logo="https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd",23-IP Noticias
 http://181.78.27.128:8000/play/a055/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png",24-Diputados TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725319418/ei/mvTVZoCWG-Of-LAP-7L8wAw/ip/45.5.0.198/id/f_srUjabZRA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgX3Wxve5pWXorWS7wAB6YYtp3Z1rdf7voNiJnObfOt5QCIDJfK8V0Ee_rcRsy83qZkppbvsp1eH5AXzlp2WFhZs1i/file/index.m3u8
+https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest/scale-to-width-down/1200?cb=20210315130131&path-prefix=es",25-Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://mediakit.perfil.com/img/canal-e-logo.png",26-Canal E
