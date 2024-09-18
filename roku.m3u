@@ -12,9 +12,9 @@ http://45.5.151.151:8000/play/a0cp/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png",6-Canal 13 HD
 http://181.209.114.13:8000/play/a06d/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",7-TV Publica
-http://181.209.114.13:8000/play/a056/index.m3u8
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/49978
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",8-TV Publica HD
-http://163660254960776759.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/776759.ts
+http://181.209.114.13:8000/play/a056/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/elnueve.png",9-Canal 9
 http://181.209.114.13:8000/play/a04h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/elnueve.png",10-Canal 9 HD
@@ -22,23 +22,23 @@ http://45.5.151.151:8000/play/a0ll/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png",11-C5N
 http://181.209.114.13:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png",12-C5N HD
-http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/164876
+http://cord-cutter.net:8080/X5xRz0/944877/164876
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png",13-TN
-http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/324.m3u8
+http://cord-cutter.net:8080/X5xRz0/944877/164873
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png",14-TN HD
 http://mytvstream.net:8080/9WyJhq/960780/164873
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png",15-LN+
 http://181.209.114.13:8000/play/a01s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png",16-LN+ HD
-http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/331.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8758
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/a24.png",17-A24
 http://181.209.114.13:8000/play/a01o/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/a24.png",18-A24 HD
-http://163660254960776617.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/776617.ts
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3197
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canal26.png",19-Canal 26
 http://181.209.114.13:8000/play/a01r/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canal26.png",20-Canal 26 HD
-http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/341.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3190
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cronicatv.png",21-Cronica TV
 http://mytvstream.net:8080/9WyJhq/960780/164875
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cronica.png",22-Cronica TV HD
@@ -87,62 +87,62 @@ http://45.5.151.151:8000/play/a002/index.m3u8
 http://181.209.114.13:8000/play/a02u/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnn.png",44-CNN Esp
 http://181.209.114.13:8000/play/a054/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnnchile.png",45-CNN CHile
-http://mytvstream.net:8080/9WyJhq/960780/164892
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hispantv.png",46-Hispan TV
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hispantv.png",45-Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telesur.png",47-Telesur HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telesur.png",46-Telesur HD
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/russiatoday.png",48-RT HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/russiatoday.png",47-RT HD
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dw.png",49-DW
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dw.png",48-DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/france24.png",50-France 24
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/france24.png",49-France 24
 http://45.166.92.22:58001/play/a057/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/americasports.png",51-America Sports
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/americasports.png",50-America Sports
 http://181.209.114.13:8000/play/a01v/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/garagetv.png",52-Garage TV
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/garagetv.png",51-Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/deportv.png",53-DeporTV
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/deportv.png",52-DeporTV
 http://181.209.114.13:8000/play/a06h/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",54-TyC Sports
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",53-TyC Sports
 http://181.78.27.128:8000/play/a063/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",55-TyC Sports HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",54-TyC Sports HD
 http://181.209.114.13:8000/play/a02s/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",56-TyC Sports Internacional
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",55-TyC Sports Internacional
 http://38.41.8.1:8000/play/a02i
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",57-TyC Sports Internacional HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",56-TyC Sports Internacional HD
 http://200.59.188.3:8000/play/a02n
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",58-TyC Sports Play 1
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",57-TyC Sports Play 1
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",59-TyC Sports Play 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",58-TyC Sports Play 2
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",60-TyC Sports Play 3
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",59-TyC Sports Play 3
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",61-TyC Sports Play 4
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",60-TyC Sports Play 4
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",62-TyC Sports Play 5
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",61-TyC Sports Play 5
 https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",63-TyC Sports Play 6
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",62-TyC Sports Play 6
 https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",64-TyC Sports Play 7
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",63-TyC Sports Play 7
 https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",65-TyC Sports Play 8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",64-TyC Sports Play 8
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",66-DSports
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/67721
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",67-DSports HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",65-DSports
+http://181.78.27.128:8000/play/a006/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",66-DSports HD
 http://nxt.plus:8080/karinajp/331042/116424
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/beinsports.png",68-beIN Sports n
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/beinsports.png",67-beIN Sports n
 http://mag.1da.tv:8080/play/live.php?mac=00:1A:79:50:6F:36&stream=86146&extension=ts
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/beinsportsxtra.png",69-beIN Sports Xtra n
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/beinsportsxtra.png",68-beIN Sports Xtra n
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/beinsportsxtra.png",70-beIN Sports Xtra n HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/beinsportsxtra.png",69-beIN Sports Xtra n HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports2.png",71-Dsports 2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports2.png",70-Dsports 2
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/48306
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports2.png",72-Dsports 2 SD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports2.png",71-Dsports 2 SD
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/31645
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports+.png",72-Directv + 
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/67721
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports+.png",73-Directv + HD
 http://nxt.plus:8080/jesus01/jesus01/68830
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports.png",74-Fox Sports
