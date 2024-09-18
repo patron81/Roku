@@ -218,23 +218,25 @@ http://163660254960228384.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/228384.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",109-DAZN 1 HD
 http://628102028954320792.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/320792.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn2.png",110-DAZN 2
-http://163660254960228385.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/228385.ts
+http://628102028954320792.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/228385.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn3.png",111-DAZN 3
-http://163660254960228393.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/228393.ts
+http://628102028954320792.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/228393.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn4.png",112-DAZN 4
-http://163660254960228397.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/228397.ts
+http://628102028954320792.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/228397.ts
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/daznf1.png",113-DAZN F1
+http://628102028954165257.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/165257.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/daznf1.png",113-DAZN F1 HD
-http://163660254960165257.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/165257.ts
+http://628102028954165419.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/165419.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/daznlaliga.png",114-DAZN LA LIGA
 http://181.78.105.146:2000/play/a08m/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/daznlaliga.png",115-DAZN LA LIGA HD
-http://163660254960320781.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/320781.ts
+http://628102028954320792.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/320792.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eurosport1.png",116-Eurosport 1 HD
-http://163660254960290348.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/290348.ts
+http://628102028954320792.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/290348.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eurosport2.png",117-Eurosport 2 HD
-http://163660254960290351.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/290351.ts
+http://628102028954320792.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/290351.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/mls.png",118-MLS
-http://163660254960585369.ofx508.xyz:80/live/mi215345/kk8pdKj65t7/585369.ts
+http://628102028954320792.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/585369.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/nba.png",119-NBA
 http://tv14s.xyz:8080/9WyJhq/960780/22995
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/redbulltv.png",120-Red Bull TV (USA)
