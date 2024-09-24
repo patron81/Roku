@@ -340,7 +340,7 @@ http://38.41.8.1:8000/play/a028
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",170-HBO
 http://38.41.8.1:8000/play/a01u
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",171-HBO Este
-http://181.78.27.128:8000/play/a030/index.m3u8
+http://200.59.188.3:8000/play/a03r
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",172-HBO Oeste
 http://45.228.234.167:8000/play/a00u/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",173-HBO Oeste HD
@@ -349,8 +349,8 @@ http://204.157.251.250:8000/play/a06t
 http://204.157.251.250:8000/play/a06u
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboplus.png",175-HBO+
 http://204.157.251.250:8000/play/a06v/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbomundi.png",176-HBO Mundi
-http://181.209.114.13:8000/play/a02a/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbopop.png",176-HBO POP
+http://200.59.188.3:8000/play/a00m
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbosignature.png",177-HBO Signature
 http://181.209.114.13:8000/play/a02c/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboxtreme.png",178-HBO Xtreme HD
