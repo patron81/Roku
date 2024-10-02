@@ -298,7 +298,7 @@ http://45.4.85.214:58001/play/a02s
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinecanal.png",149-Cinecanal SUR
 http://181.205.77.118:4849/play/CH33
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es",150-DHE HD
-http://38.41.8.1:8000/play/a02x
+http://181.205.77.118:4849/play/CH138
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/europaeuropa.png",151-Europa Europa
 http://45.5.151.151:8000/play/a0lq/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/europaeuropa.png",152-EuroChannel
