@@ -258,7 +258,7 @@ http://181.205.77.118:4849/play/CH83
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/lovenature.png",129-Love Nature
 http://200.59.188.3:8000/play/a02t
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sunchannel.png",130-Sun Channel HD
-http://200.59.188.3:8000/play/a01c
+http://45.4.85.214:58001/play/a022
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/e.png",131-E!
 http://45.5.151.151:8000/play/a0c2/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/discovery.png",132-Discovery Channel
