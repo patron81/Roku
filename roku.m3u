@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",1-Telefe
-http://45.5.151.151:8000/play/a0kf/index.m3u8
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png",2-America TV 
 http://45.5.151.151:8000/play/a0c7/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png",3-Canal 13 
