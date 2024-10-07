@@ -216,7 +216,7 @@ http://181.78.8.90:16123/play/ch44
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telenovelas.png",108-Telenovelas
 http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4130.ts
 #EXTINF:0 tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_whi_516x287.jpg",109-Azteca Internacional HD
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4055.ts
+http://181.78.109.49:8000/play/a04f/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/pasiones.png",110-Pasiones HD
 http://181.205.77.118:4849/play/a0fr
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/azcorazon.png",111-Corazon
