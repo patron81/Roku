@@ -384,9 +384,9 @@ http://38.41.8.1:8000/play/a05p
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s",192-Universal Reality HD
 http://45.166.92.22:58001/play/a05p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&s",193-Universal Crime HD
-http://170.82.37.21:8000/play/a03i/index.m3u8
+http://200.125.170.120:8000/play/a04r/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s",194-Universal Comedy HD
-http://38.41.8.1:8000/play/a05r
+http://200.125.170.120:8000/play/a04s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/usa.png",195-USA
 http://200.59.188.3:8000/play/a05q
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/warner.png",196-Warner TV 
