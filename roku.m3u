@@ -216,7 +216,7 @@ http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4046.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/lasestrellas.png",108-Las Estrellas HD
 http://181.78.8.90:16123/play/ch44
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telenovelas.png",109-Telenovelas
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4130.ts
+http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:0 tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_whi_516x287.jpg",110-Azteca Internacional HD
 http://181.78.109.49:8000/play/a04f/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/pasiones.png",111-Pasiones HD
@@ -260,7 +260,7 @@ http://181.209.114.13:8000/play/a06n/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/history.png",130-History
 http://181.205.77.118:4849/play/CH1
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/h2.png",131-H2
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4005.ts
+http://181.205.77.118:4849/play/CH78
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeo.png",132-Nat Geo
 http://45.5.151.151:8000/play/a0jx/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeowild.png",133-Nat Geo Wild
@@ -322,35 +322,35 @@ http://181.209.114.13:8000/play/a02v/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/golden.png",161-Golden 
 http://200.125.170.120:8000/play/a04a
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier.png",162-Golden Premier
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4091.ts
+http://181.78.105.146:2000/play/a08k/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier.png",163-Golden Premier HD
 http://204.157.251.250:8000/play/a06g
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier.png",164-Golden Premier 2
 http://204.157.251.250:8000/play/a06h
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenplus.png",165-Golden Plus
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3051
+http://38.41.8.1:8000/play/a028
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",166-HBO
-http://204.157.251.250:8000/play/a06t
+http://181.205.77.118:4849/play/CH146
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png",167-HBO2 Este
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3056
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png",168-HBO2 Oeste
-http://204.157.251.250:8000/play/a06u
+http://181.205.77.118:4849/play/CH41
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboplus.png",169-HBO+
-http://204.157.251.250:8000/play/a06v/index.m3u8
+http://45.5.151.151:8000/play/a0ji/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbomundi.png",170-HBO Mundi
 http://181.209.114.13:8000/play/a02a/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbosignature.png",171-HBO Signature
 http://181.209.114.13:8000/play/a02c/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboxtreme.png",172-HBO Xtreme
-http://204.157.251.250:8000/play/a06x
+http://181.205.77.118:4849/play/CH37
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbofamily.png",173-HBO Family
-http://204.157.251.250:8000/play/a06w
+http://181.205.77.118:4849/play/CH44
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/paramountnetwork.png",174-Paramount Network
 http://181.205.77.118:4849/play/CH64
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png",175-Sony Channel
 http://181.205.77.118:4849/play/CH48
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png",176-Sony Channel HD
-http://204.157.251.250:8000/play/a07u
+http://181.209.114.13:8000/play/a05d/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png",177-Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png",178-Sony Movies
@@ -366,7 +366,7 @@ http://181.205.77.118:4849/play/CH36
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tcm.png",183-TCM
 http://45.5.151.151:8000/play/a0o6/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tnt.png",184-TNT
-http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4010.ts
+http://181.209.114.13:8000/play/a07d/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tnt.png",185-TNT HD
 http://181.205.77.118:4849/play/CH39
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png",186-TNT Novelas
