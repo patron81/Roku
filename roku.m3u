@@ -80,7 +80,7 @@ http://181.209.114.13:8000/play/a06h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",40-TyC Sports
 http://181.78.27.128:8000/play/a063/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",41-TyC Sports Internacional
-http://181.205.77.118:4849/play/a0ah
+http://38.51.233.85:8000/play/a01z/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",42-TyC Sports Play 1
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",43-TyC Sports Play 2
@@ -132,7 +132,7 @@ http://181.78.27.128:8000/play/a02d/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn3.png",66-ESPN 3
 http://45.5.151.151:8000/play/a0hx/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn3.png",67-ESPN 3 LAT 
-http://181.78.27.128:8000/play/a03f/index.m3u8
+http://38.51.233.85:8000/play/a00z/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn4.png",68-ESPN 4
 http://38.41.8.1:8000/play/a01t
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn4.png",69-ESPN 4 LAT
@@ -140,11 +140,11 @@ http://45.4.85.214:58001/play/a03z
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn5.png",70-ESPN 5
 http://45.4.85.214:58001/play/a018
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn5.png",71-ESPN 5 LAT
-http://181.78.27.128:8000/play/a04b/index.m3u8
+http://38.51.233.85:8000/play/a04e/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn6.png",72-ESPN 6 
 http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/18233.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg",73-ESPN 7 
-http://181.78.27.128:8000/play/a03x/index.m3u8
+http://38.51.233.85:8000/play/a04f/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espndeportes.png",74-ESPN Deportes
 http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/18852.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/clarosports.png",75-Claro Sports
@@ -348,7 +348,7 @@ http://181.209.114.13:8000/play/a02a/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbosignature.png",174-HBO Signature
 http://181.209.114.13:8000/play/a02c/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboxtreme.png",175-HBO Xtreme
-http://181.205.77.118:4849/play/CH37
+http://38.51.233.85:8000/play/a02x/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbofamily.png",176-HBO Family
 http://181.205.77.118:4849/play/CH44
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/paramountnetwork.png",177-Paramount Network
