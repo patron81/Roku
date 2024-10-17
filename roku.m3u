@@ -168,7 +168,7 @@ http://191.52.214.5:8000/play/a026/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg",84-ESPN 7 
 http://38.51.233.85:8000/play/a04f/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espndeportes.png",85-ESPN Deportes
-http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/18852.ts
+http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/clarosports.png",86-Claro Sports
 http://45.5.151.151:8000/play/a0ls/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/winsports.png",87-Win Sports
