@@ -135,6 +135,8 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png",68-Fox Sports
 http://45.5.151.151:8000/play/a0nw/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png",68-Fox Sports HD
+http://181.209.114.13:8000/play/a07j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports2.png",69-Fox Sports 2
 http://45.5.151.151:8000/play/a0o1/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports3.png",70-Fox Sports 3
