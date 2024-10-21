@@ -14,9 +14,9 @@ http://181.78.27.128:8000/play/a05y/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",7-TV Publica
 http://181.209.114.13:8000/play/a056/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",8-TV Publica HD
-http://45.5.151.151:8000/play/a0ny/index.m3u8
+http://181.209.114.13:8000/play/a056/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/elnueve.png",9-Canal 9 
-http://45.5.151.151:8000/play/a0ll/index.m3u8
+http://181.209.114.13:8000/play/a04h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/elnueve.png",10-Canal 9  HD
 http://tvmate.icu:8080/vNay0H/219352/164869
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png",11-C5N
@@ -26,21 +26,21 @@ http://tvmate.icu:8080/vNay0H/219352/164876
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png",13-TN
 http://tvmate.icu:8080/clauderichard00@gmail.com/SE8ezAC7Nm/164873
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png",14-TN HD
-http://45.5.151.151:8000/play/a0nz/index.m3u8
+http://mytvstream.net:8080/9WyJhq/960780/164873
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png",15-LN+
 http://181.209.114.13:8000/play/a01s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png",16-LN+ HD
 http://45.5.151.151:8000/play/a0e2/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/a24.png",17-A24
-http://45.5.151.151:8000/play/a0dy/index.m3u8
+http://181.209.114.13:8000/play/a01o/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/a24.png",18-A24 HD
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3197
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canal26.png",19-Canal 26
-http://45.5.151.151:8000/play/a0e1/index.m3u8
+http://181.209.114.13:8000/play/a01r/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canal26.png",20-Canal 26 HD
 http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3190
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cronicatv.png",21-Cronica TV
-http://45.5.151.151:8000/play/a0kq/index.m3u8
+http://181.78.27.128:8000/play/a04k/index.m3u
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cronicatv.png",22-Cronica TV HD
 http://tvmate.icu:8080/vNay0H/219352/164875
 #EXTINF:0 tvg-logo="https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd",23-IP Noticias
@@ -58,19 +58,19 @@ https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ9Uus19PsmDsO0dZLJMnXkQGLeDTcXd9HQA&s",29-Canal 7 Neuquen
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/encuentro.png",30-Canal Encuentro
-http://45.5.151.151:8000/play/a0ln/index.m3u8
+http://181.209.114.13:8000/play/a01m/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/argentinisimasatelital.png",31-Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ciudadmagazine.png",32-Ciudad Magazine
 http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/3787.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canalrural.png",33-Canal Rural
-http://45.5.151.151:8000/play/a0o5/index.m3u8
+http://181.209.114.13:8000/play/a02f/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/metro.png",34-Metro
 http://181.209.114.13:8000/play/a02g/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canala.png",35-Canal (a)
 http://181.209.114.13:8000/play/a09j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canaldelaciudad.png",36-Canal de la Ciudad
-http://45.5.151.151:8000/play/a0lf/index.m3u8
+http://181.209.114.13:8000/play/a06e/index.m3u8
 #EXTINF:0 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png",37-TVU Universidad Nacional de La Plata
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:0 tvg-logo="https://relacionesdeltrabajo.sociales.uba.ar/wp-content/uploads/sites/21/2019/06/logo-canal22.gif",38-Canal 22
@@ -82,7 +82,7 @@ http://181.209.114.13:8000/play/a078/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",41-TNT Sports
 http://181.209.114.13:8000/play/a02u/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnn.png",42-CNN Esp
-http://45.5.151.151:8000/play/a0lz/index.m3u8
+http://181.209.114.13:8000/play/a054/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hispantv.png",43-Hispan TV
 https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telesur.png",44-Telesur HD
@@ -134,11 +134,11 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/beinsportsxtra.png",67-beIN Sports Xtra n HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png",68-Fox Sports
-http://45.5.151.151:8000/play/a0nw/index.m3u8
+http://181.78.27.128:8000/play/a062/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png",69-Fox Sports HD
 http://181.209.114.13:8000/play/a07j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports2.png",70-Fox Sports 2
-http://45.5.151.151:8000/play/a0o1/index.m3u8
+http://181.209.114.13:8000/play/a05c/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports3.png",71-Fox Sports 3
 http://181.209.114.13:8000/play/a02t/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png",72-ESPN
