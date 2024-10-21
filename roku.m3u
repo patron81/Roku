@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",1-Telefe
-http://45.5.151.151:8000/play/a0kf/index.m3u8
+http://181.78.27.128:8000/play/a05x/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",2-Telefe HD
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png",3-America TV 
-http://45.5.151.151:8000/play/a0c7/index.m3u8
+http://181.78.27.128:8000/play/a05z/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png",4-America TV HD
 http://tvmate.icu:8080/vNay0H/219352/164881
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png",5-Canal 13 
 http://181.209.114.13:8000/play/a06d/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png",6-Canal 13 HD
-http://45.5.151.151:8000/play/a0cp/index.m3u8
+http://181.78.27.128:8000/play/a05y/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",7-TV Publica
 http://181.209.114.13:8000/play/a056/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",8-TV Publica HD
@@ -20,7 +20,7 @@ http://45.5.151.151:8000/play/a0ll/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/elnueve.png",10-Canal 9  HD
 http://tvmate.icu:8080/vNay0H/219352/164869
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png",11-C5N
-http://45.5.151.151:8000/play/a018/index.m3u8
+http://181.78.27.128:8000/play/a009/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png",12-C5N HD
 http://tvmate.icu:8080/vNay0H/219352/164876
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png",13-TN
