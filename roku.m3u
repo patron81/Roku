@@ -30,7 +30,7 @@ http://mytvstream.net:8080/9WyJhq/960780/164873
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png",15-LN+
 http://181.209.114.13:8000/play/a01s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png",16-LN+ HD
-http://45.5.151.151:8000/play/a0e2/index.m3u8
+https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/a24.png",17-A24
 http://181.209.114.13:8000/play/a01o/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/a24.png",18-A24 HD
