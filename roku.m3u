@@ -149,287 +149,287 @@ http://181.209.114.13:8000/play/a02t/index.m3u8
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/522
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png",75-ESPN HD
 http://181.209.114.13:8000/play/a05a/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png",76-ESPN COL
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png",76-ESPN Chile
+http://191.52.214.5:8000/play/a02s/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png",77-ESPN COL
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/15262
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es",77-ESPN Premium
-http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/545
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",78-TNT Sports
-http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/459
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn2.png",79-ESPN 2 
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es",78-ESPN Premium
+http://181.209.114.13:8000/play/a078/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",79-TNT Sports
+http://181.209.114.13:8000/play/a02u/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn2.png",80-ESPN 2 
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/506
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn2.png",80-ESPN 2 SUR
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn2.png",81-ESPN 2 SUR
 http://181.209.114.13:8000/play/a059/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn2.png",81-ESPN 2 LAT
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn2.png",82-ESPN 2 LAT
 http://181.78.109.49:8000/play/a05z/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn3.png",82-ESPN 3
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn3.png",83-ESPN 3
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/513
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn3.png",83-ESPN 3 LAT 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn3.png",84-ESPN 3 LAT 
 http://38.51.233.85:8000/play/a00z/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn4.png",84-ESPN 4
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn4.png",85-ESPN 4
 http://38.41.8.1:8000/play/a01t
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn4.png",85-ESPN 4 LAT
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn4.png",86-ESPN 4 LAT
 http://45.4.85.214:58001/play/a03z
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn5.png",86-ESPN 5
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn5.png",87-ESPN 5
 http://45.4.85.214:58001/play/a018
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn5.png",87-ESPN 5 LAT
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn5.png",88-ESPN 5 LAT
 http://38.51.233.85:8000/play/a04e/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn6.png",88-ESPN 6 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn6.png",89-ESPN 6 
 http://191.52.214.5:8000/play/a026/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg",89-ESPN 7 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg",90-ESPN 7 
 http://38.51.233.85:8000/play/a04f/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg",90-ESPN 7 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg",91-ESPN 7 HD
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/54411
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espndeportes.png",91-ESPN Deportes
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espndeportes.png",92-ESPN Deportes
 http://190.92.10.66:4000/play/a003/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/premiere.png",92-Premiere Brasil
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/premiere.png",93-Premiere Brasil
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/568
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/premiere.png",93-Premiere 2 Brasil
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/premiere.png",94-Premiere 2 Brasil
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/562
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/clarosports.png",94-Claro Sports
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/clarosports.png",95-Claro Sports
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/463
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/winsports.png",95-Win Sports
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/winsports.png",96-Win Sports
 http://38.41.8.1:8000/play/a061
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/winsports+.png",96-Win Sports +
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/winsports+.png",97-Win Sports +
 http://38.41.8.1:8000/play/a022
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tigosports.png",97-Tigo Sports
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tigosports.png",98-Tigo Sports
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",98-Sky Sports La Liga
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",99-Sky Sports La Liga
 http://181.78.109.49:8000/play/a06r/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",99-Sky Sports La Liga HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",100-Sky Sports La Liga HD
 http://190.92.10.66:4000/play/a001/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",100-Sky Sports Premier League
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",101-Sky Sports Premier League
 http://watchindia.net:8880/live/30631/24314/2092.ts
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",101-Sky Sports Calcio
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",102-Sky Sports Calcio
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/257706
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistardeportes.png",102-Movistar Deportes HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistardeportes.png",103-Movistar Deportes HD
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/12470
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",103-Champions League 1
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",104-Champions League 1
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/12404
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",104-Champions League 2 (Eventos)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",105-Champions League 2 (Eventos)
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/499
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",105-Champions League 3 (Eventos)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",106-Champions League 3 (Eventos)
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60291
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",106-Champions League 4 (Eventos)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",107-Champions League 4 (Eventos)
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60293
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",107-Champions League 5 (Eventos)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",108-Champions League 5 (Eventos)
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60297
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",108-Champions League 6 (Eventos)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",109-Champions League 6 (Eventos)
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60301
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",109-Champions League 7 (Eventos)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",110-Champions League 7 (Eventos)
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60303
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",110-Champions League 8 (Eventos)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/movistarligadecampeones.png",111-Champions League 8 (Eventos)
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60304
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s",111-Movistar La Liga
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s",112-Movistar La Liga
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/495
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s",112-Movistar La Liga 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s",113-Movistar La Liga 2
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/493
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",113-DAZN La Liga
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",114-DAZN La Liga
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60265
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGghCES3FWs4QHO25ggNv5MyXiWDPs58oRKKThHcHyMfwjtsnOatC-cqTcyVCsYnZgQQzVV6zfKIzwwuh8-dVBsRLKeMK8AhI8Ai2-KRLLcDSQ3Feo4apKP2sOV4bWK8NxVj2r03xAsaSLcYDmGjlKq4721UqUYFOvUpWbiVzGeoyjJeTj9cdv_Bxt-GM/s256/LaLiga%20Hypermotion%20V256x.png",114-La Liga Hypermotion
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGghCES3FWs4QHO25ggNv5MyXiWDPs58oRKKThHcHyMfwjtsnOatC-cqTcyVCsYnZgQQzVV6zfKIzwwuh8-dVBsRLKeMK8AhI8Ai2-KRLLcDSQ3Feo4apKP2sOV4bWK8NxVj2r03xAsaSLcYDmGjlKq4721UqUYFOvUpWbiVzGeoyjJeTj9cdv_Bxt-GM/s256/LaLiga%20Hypermotion%20V256x.png",115-La Liga Hypermotion
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60310
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tudn.png",115-TUDN MX
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tudn.png",116-TUDN MX
 http://181.78.109.49:8000/play/a06i/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",116-Sky Sports (Bundesliga)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",117-Sky Sports (Bundesliga)
 http://190.92.10.66:4000/play/a006/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",117-Sky Sports UK
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",118-Sky Sports UK
 http://tvmate.icu:8080/vNay0H/219352/35238
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",118-Sky Sports Main Event
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",119-Sky Sports Main Event
 http://tvmate.icu:8080/vNay0H/219352/35243
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",119-TNT Sports 1 UK
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",120-TNT Sports 1 UK
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/254230
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",120-TNT Sports 2 UK
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",121-TNT Sports 2 UK
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/254231
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",121-TNT Sports 3 UK
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",122-TNT Sports 3 UK
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/256393
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",122-TNT Sports 4 UK
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",123-TNT Sports 4 UK
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/256394
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",123-TNT Sports 5 UK
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",124-TNT Sports 5 UK
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/256395
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",124-DAZN DE
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",125-DAZN DE
 http://abcnew.site:8880/JH12M3D196/fRV363z8kz/2659
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",125-DAZN DE 2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",126-DAZN DE 2
 http://abcnew.site:8880/JH12M3D196/fRV363z8kz/2654
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",126-DAZN DE 3
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",127-DAZN DE 3
 http://34mix.com:8080/orhande/b3UQARhBNuuZ/28472
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",127-DAZN 1
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",128-DAZN 1
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60356
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn2.png",128-DAZN 2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn2.png",129-DAZN 2
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60358
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn3.png",129-DAZN 3
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn3.png",130-DAZN 3
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60361
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn4.png",130-DAZN 4
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn4.png",131-DAZN 4
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/60363
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/daznf1.png",131-DAZN F1
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/daznf1.png",132-DAZN F1
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/12397
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",132-Sky Sports F1
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/skysports.png",133-Sky Sports F1
 http://watchindia.net:8880/live/30631/24314/2094.ts
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/eurosport1.png",133-Eurosport 1 HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/eurosport1.png",134-Eurosport 1 HD
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/247838
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/eurosport2.png",134-Eurosport 2 HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/eurosport2.png",135-Eurosport 2 HD
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/247837
-#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/1015/130/png-transparent-2017-major-league-soccer-season-2015-major-league-soccer-season-2018-major-league-soccer-season-2016-mls-cup-playoffs-logo-mls-logo-text-trademark-sport-thumbnail.png",135-MLS
+#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/1015/130/png-transparent-2017-major-league-soccer-season-2015-major-league-soccer-season-2018-major-league-soccer-season-2016-mls-cup-playoffs-logo-mls-logo-text-trademark-sport-thumbnail.png",136-MLS
 http://628102028954165257.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/585364.ts
-#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/1015/130/png-transparent-2017-major-league-soccer-season-2015-major-league-soccer-season-2018-major-league-soccer-season-2016-mls-cup-playoffs-logo-mls-logo-text-trademark-sport-thumbnail.png",136-MLS 2
+#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/1015/130/png-transparent-2017-major-league-soccer-season-2015-major-league-soccer-season-2018-major-league-soccer-season-2016-mls-cup-playoffs-logo-mls-logo-text-trademark-sport-thumbnail.png",137-MLS 2
 http://628102028954165257.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/585369.ts
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/nba.png",137-NBA
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/nba.png",138-NBA
 http://tvmate.icu:8080/vNay0H/219352/22995
-#EXTINF:0 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/z/caza-pesca.jpg",138-Caza y Pesca
+#EXTINF:0 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/z/caza-pesca.jpg",139-Caza y Pesca
 http://f1.millenium-ott.com:25443/live/V5c45t469mHL/kNgOPP6ZS3/59860.ts
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/golf.png",139-Golf Channel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/golf.png",140-Golf Channel
 http://181.78.109.49:8000/play/a02t/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/24h.png",140-24h
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/24h.png",141-24h
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telemundointernacional.png",141-Telemundo
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telemundointernacional.png",142-Telemundo
 http://nxt.plus:8080/jesus01/jesus01/116275
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telemundointernacional.png",142-Telemundo Internacional
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telemundointernacional.png",143-Telemundo Internacional
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/605
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Large.VTV-2016.png.19c40a29ffa87b697dd3b20327bace7d.png/revision/latest/scale-to-width-down/250?cb=20211003003101&path-prefix=es",143-Venezolana de television
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Large.VTV-2016.png.19c40a29ffa87b697dd3b20327bace7d.png/revision/latest/scale-to-width-down/250?cb=20211003003101&path-prefix=es",144-Venezolana de television
 http://38.41.8.1:8000/play/a03i
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/galavision.png",144-Galavision
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/galavision.png",145-Galavision
 http://tvmate.icu:8080/vNay0H/219352/58770
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/univision.png",145-Univision
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/univision.png",146-Univision
 http://200.125.170.120:8000/play/a065/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/rcn.png",146-RCN Colombia
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/rcn.png",147-RCN Colombia
 http://200.59.188.3:8000/play/a01q
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/holatv.png",147-Hola TV
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/holatv.png",148-Hola TV
 http://tv.nousiptv.com:8080/live/MarceloRandolph/07190265/4046.ts
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lasestrellas.png",148-Las Estrellas HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lasestrellas.png",149-Las Estrellas HD
 http://181.78.109.49:8000/play/a06g/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telenovelas.png",149-Telenovelas
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telenovelas.png",150-Telenovelas
 http://181.78.105.146:2000/play/a08d/index.m3u8
-#EXTINF:0 tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_whi_516x287.jpg",150-Azteca Internacional HD
+#EXTINF:0 tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_whi_516x287.jpg",151-Azteca Internacional HD
 http://181.78.109.49:8000/play/a04f/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/pasiones.png",151-Pasiones HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/pasiones.png",152-Pasiones HD
 http://181.205.77.118:4849/play/a0fr
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/azcorazon.png",152-Corazon
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/azcorazon.png",153-Corazon
 http://45.4.85.214:58001/play/a00t
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/tve-2010.png",153-TVE
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/tve-2010.png",154-TVE
 http://181.78.109.49:8000/play/a05s/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/antena3.png",154-Antena 3
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/antena3.png",155-Antena 3
 http://200.125.170.120:8000/play/a005/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfPzOL2eI_RIzMJVOLzXwRC2c40F1wOjazDA&s",155-La Resistencia
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfPzOL2eI_RIzMJVOLzXwRC2c40F1wOjazDA&s",156-La Resistencia
 http://628102028954165419.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/321286.ts
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/mega.png",156-Mega
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/mega.png",157-Mega
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/35249
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la1.png",157-La 1
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la1.png",158-La 1
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la1.png",158-La 1 HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la1.png",159-La 1 HD
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/12334
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la2.png",159-La 2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la2.png",160-La 2
 https://eu1.servers10.com:8081/8228/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la2.png",160-La 2 HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la2.png",161-La 2 HD
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/12333
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cuatro.png",161-Cuatro
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cuatro.png",162-Cuatro
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/12331
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telecinco.png",162-Telecinco
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telecinco.png",163-Telecinco
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/12330
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lasexta.png",163-La Sexta HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lasexta.png",164-La Sexta HD
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/35228
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",164-TVE Star
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",165-TVE Star
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-rL0kaTrRF4Q/X8-4dBU62UI/AAAAAAAA7js/XNBF3OuJa-kQQ67tuYSGgfhlNiWCPdaXwCLcBGAsYHQ/s120/a3series-2020.png",165-A3 Series
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-rL0kaTrRF4Q/X8-4dBU62UI/AAAAAAAA7js/XNBF3OuJa-kQQ67tuYSGgfhlNiWCPdaXwCLcBGAsYHQ/s120/a3series-2020.png",166-A3 Series
+http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/12369
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-rL0kaTrRF4Q/X8-4dBU62UI/AAAAAAAA7js/XNBF3OuJa-kQQ67tuYSGgfhlNiWCPdaXwCLcBGAsYHQ/s120/a3series-2020.png",167-A3 Series Internacional
 http://181.78.109.49:8000/play/a00l/index.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-rL0kaTrRF4Q/X8-4dBU62UI/AAAAAAAA7js/XNBF3OuJa-kQQ67tuYSGgfhlNiWCPdaXwCLcBGAsYHQ/s120/a3series-2020.png",166-A3 Series Internacional
-http://200.125.170.120:8000/play/a00b
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/gourmet.png",167-El Gourmet
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/gourmet.png",168-El Gourmet
 http://181.209.114.13:8000/play/a06w/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hgtv.png",168-HGTV
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hgtv.png",169-HGTV
 http://181.209.114.13:8000/play/a02j/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/nbc.png",169-NBC Home
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/nbc.png",170-NBC Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/maschic.png",170-Mas Chic
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/maschic.png",171-Mas Chic
 http://45.4.85.214:58001/play/a007
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lifetime.png",171-Lifetime
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lifetime.png",172-Lifetime
 http://181.209.114.13:8000/play/a06n/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/history.png",172-History
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/history.png",173-History
 http://181.205.77.118:4849/play/CH1
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/h2.png",173-H2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/h2.png",174-H2
 http://181.205.77.118:4849/play/CH78
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeo.png",174-Nat Geo
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeo.png",175-Nat Geo
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/440
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeowild.png",175-Nat Geo Wild
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeowild.png",176-Nat Geo Wild
 http://directo.ddns.me:2082/stkalval/7409/2466
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeomundo.png",176-Nat Geo Mundo
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeomundo.png",177-Nat Geo Mundo
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/444
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/animalplanet.png",177-Animal Planet
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/animalplanet.png",178-Animal Planet
 http://181.205.77.118:4849/play/CH83
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lovenature.png",178-Love Nature
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lovenature.png",179-Love Nature
 http://181.205.77.118:4849/play/CH82
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/sunchannel.png",179-Sun Channel HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/sunchannel.png",180-Sun Channel HD
 http://45.4.85.214:58001/play/a022
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/e.png",180-E!
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/e.png",181-E!
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/627
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discovery.png",181-Discovery Channel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discovery.png",182-Discovery Channel
 http://181.209.114.13:8000/play/a07i/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discovery.png",182-Discovery LA
-http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/18599.ts
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryscience.png",183-Discovery Science
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discovery.png",183-Discovery LA
+http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/54486
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryscience.png",184-Discovery Science
 http://45.4.85.214:58001/play/a00c
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryh&h.png",184-Discovery H&H
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryh&h.png",185-Discovery H&H
 http://181.205.77.118:4849/play/CH79
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryworld.png",185-Discovery World
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryworld.png",186-Discovery World
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/423
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoverytheater.png",186-Discovery Theather
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoverytheater.png",187-Discovery Theather
 http://191.52.214.5:8000/play/a02j/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryid.png",187-Discovery ID
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryid.png",188-Discovery ID
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/438
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryid.png",188-Discovery ID HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryid.png",189-Discovery ID HD
 http://directo.ddns.me:2082/stkalval/7409/2458
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryturbo.png",189-Discovery Turbo
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryturbo.png",190-Discovery Turbo
 http://181.209.114.13:8000/play/a01w/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/comedycentral.png",190-Comedy Central
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/comedycentral.png",191-Comedy Central
 http://181.205.77.118:4849/play/CH50
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/amchd.png",191-AMC
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/amchd.png",192-AMC
 http://38.41.8.1:8000/play/a01s
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/a&e.png",192-A&E Oeste
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/a&e.png",193-A&E Oeste
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/101
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/a&e.png",193-A&E Este
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/a&e.png",194-A&E Este
 http://181.205.77.118:4849/play/CH67
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/axn.png",194-AXN
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/axn.png",195-AXN
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/236400
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/axn.png",195-AXN HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/axn.png",196-AXN HD
 http://181.205.77.118:4849/play/CH34
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinelatino.png",196-Cine Latino
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinelatino.png",197-Cine Latino
 http://45.166.92.22:58001/play/a02c/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinemax.png",197-Cinemax
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinemax.png",198-Cinemax
 http://181.205.77.118:4849/play/CH57
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinear.png",198-Cine AR
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinear.png",199-Cine AR
 http://45.5.151.151:8000/play/a0o3/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinecanal.png",199-Cinecanal
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinecanal.png",200-Cinecanal
 http://45.4.85.214:58001/play/a02s
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinecanal.png",200-Cinecanal SUR
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinecanal.png",201-Cinecanal SUR
 http://181.205.77.118:4849/play/CH33
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es",201-DHE HD
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es",202-DHE HD
 http://181.205.77.118:4849/play/CH138
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/europaeuropa.png",202-Europa Europa
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/europaeuropa.png",203-Europa Europa
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/187
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/eurochannel.png",203-EuroChannel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/eurochannel.png",204-EuroChannel
 http://200.125.170.120:8000/play/a03y
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/film&arts.png",204-Film & Arts
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/film&arts.png",205-Film & Arts
 http://181.205.77.118:4849/play/a0fj
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/fx.png",205-FX HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/fx.png",206-FX HD
 http://181.209.114.13:8000/play/a02v/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/golden.png",206-Golden 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/golden.png",207-Golden 
 http://200.125.170.120:8000/play/a04a
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenedge.png",207-Golden Edge
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenedge.png",208-Golden Edge
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/65218
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier.png",208-Golden Premier
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier.png",209-Golden Premier
 http://181.78.105.146:2000/play/a08k/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier2.png",209-Golden Premier 2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier2.png",210-Golden Premier 2
 http://181.78.109.49:8000/play/a00v/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenplus.png",210-Golden Plus
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenplus.png",211-Golden Plus
 http://38.41.8.1:8000/play/a028
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",211-HBO Este
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",212-HBO Este
 http://181.205.77.118:4849/play/CH146
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",212-HBO Este HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",213-HBO Este HD
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/139
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",213-HBO Oeste
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",214-HBO Oeste
 http://45.5.151.151:8000/play/a0m4/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png",214-HBO2
-http://45.5.151.151:8000/play/a0jh/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png",215-HBO2 Este
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/3056
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png",216-HBO2 Oeste
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png",215-HBO 2
+http://191.52.214.5:8000/play/a06o/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png",216-HBO 2 Oeste
 http://181.205.77.118:4849/play/CH41
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboplus.png",217-HBO+
 http://ultra-premium-pro.xyz:8080/cpizarro409745/T5049784064v/145
@@ -641,7 +641,7 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/817.mkv
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/72559.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",321-VOD: Agente Cinturon Negro 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/253145.mp4
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",322-VOD: Agente Fortune: El gran engaÃƒÆ’Ã‚Â±o 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",322-VOD: Agente Fortune: El gran engaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/989.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",323-VOD: Agente Stone 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/63788.mkv
@@ -665,7 +665,7 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/990.mp4
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/819.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",333-VOD: Alien: Romulus 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/256448.mp4
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",334-VOD: Amame hasta con las uÃƒÆ’Ã‚Â±as 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",334-VOD: Amame hasta con las uÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±as 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/72920.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",335-VOD: Amigos de las vacaciones 2 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/66456.mkv
@@ -779,7 +779,7 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/828.mkv
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/243261.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",390-VOD: Como el mar 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/252747.mp4
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",391-VOD: Complices del engaÃƒÆ’Ã‚Â±o 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",391-VOD: Complices del engaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/245623.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",392-VOD: Confesiones 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/245649.mp4
@@ -885,7 +885,7 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/260369.mp4
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/840.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",443-VOD: El atraco 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/257182.mp4
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",444-VOD: El baÃƒÆ’Ã‚Â±o del Diablo 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",444-VOD: El baÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o del Diablo 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/250780.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",445-VOD: El biblia de Clarence 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/252748.mp4
@@ -949,7 +949,7 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/71255.mkv
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/72526.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",475-VOD: El Pacto (The Covenant) 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/55022.mkv
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",476-VOD: El pequeÃƒÆ’Ã‚Â±o golpe del Gran Nunu 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",476-VOD: El pequeÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o golpe del Gran Nunu 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/61270.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",477-VOD: El piloto 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/873.mkv
@@ -1207,9 +1207,9 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/239418.mp4
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/72826.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",604-VOD: La monja II 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/71254.mkv
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",605-VOD: La niÃƒÆ’Ã‚Â±a de la comunion 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",605-VOD: La niÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±a de la comunion 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/1084.mkv
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",606-VOD: La NiÃƒÆ’Ã‚Â±a Del Mar 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",606-VOD: La NiÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±a Del Mar 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/250102.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",607-VOD: La otra cara de la Luna 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/250781.mp4
@@ -1285,9 +1285,9 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/233792.mp4
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/243176.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",643-VOD: Los dos amores de mi vida 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/60954.mkv
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",644-VOD: Los extraÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±os 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",644-VOD: Los extraÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±os 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/891.mkv
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",645-VOD: Los ExtraÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±os Capitulo 1 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",645-VOD: Los ExtraÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±os Capitulo 1 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/244756.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",646-VOD: Los feos 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/253142.mp4
@@ -1337,7 +1337,7 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/906.mkv
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/860.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",669-VOD: Megalodon 2: El gran abismo 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/66520.mkv
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",670-VOD: Mejor viuda que mal acompaÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±ada 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",670-VOD: Mejor viuda que mal acompaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±ada 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/253103.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",671-VOD: Mercy 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/69184.mkv
@@ -1393,7 +1393,7 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/249186.mp4
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/55021.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",697-VOD: Ninja Turtles: Caos mutante 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/69463.mkv
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",698-VOD: No hables con extraÃƒÆ’Ã‚Â±os 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",698-VOD: No hables con extraÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±os 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/254352.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",699-VOD: No la Abras 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/74445.mkv
@@ -1685,13 +1685,13 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/896.mkv
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/73816.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",843-VOD: Ultraman: El ascenso 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/243988.mp4
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",844-VOD: Un Afortunado SoÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±ador 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",844-VOD: Un Afortunado SoÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±ador 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/252819.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",845-VOD: Un asunto familiar 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/244978.mp4
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",846-VOD: Un autentico caballero 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/254087.mp4
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",847-VOD: Un aÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o inolvidable: Primavera 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",847-VOD: Un aÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±o inolvidable: Primavera 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/55012.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",848-VOD: Un deseo irlandes 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/253352.mp4
@@ -1707,7 +1707,7 @@ http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/247540.mp4
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/248807.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",854-VOD: Un lugar por el que luchar 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/56777.mkv
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",855-VOD: Un sueÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â±o 
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",855-VOD: Un sueÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â±o 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/60956.mkv
 #EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/icono-vod-video-demand-vector-icon-eps-archivo-f%C3%A1cil-de-editar-251051501.jpg",856-VOD: Una antigua conocida 
 http://ultra-premium-pro.xyz:8080/movie/cpizarro409745/T5049784064v/816.mkv
