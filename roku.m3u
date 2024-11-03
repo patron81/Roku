@@ -1767,3 +1767,5 @@ https://vasoc88.pricesaskeloadsc.com:443/global/starplus06/index.m3u8?token=f314
 https://14c5.pricesaskeloadsc.com:443/global/starplus07/index.m3u8?token=52abc64e0a08251e890bd77fb28f962d331ead34-68-1730709640-1730673640
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espndeportes.png",67-ESPN Deportes (Eventos)
 https://14c5.pricesaskeloadsc.com:443/global/espn_deportes/index.m3u8?token=4b9eb70cc7c5c52fa560a08150d57b14aa520f38-a8-1730709641-1730673641
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/espndeportes.png",67-TNT SPORTS
+https://cdn8.en-vivo.info/tntsports/tracks-v1a1/mono.m3u8?remote=170.81.229.254&token=f1154713f17e449c375c0ce04f30c61fbcfa5d36-e5992c17caa259c31596e6f4e042d9be-1730685241-1730674441
