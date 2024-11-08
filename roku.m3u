@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://www.infisport.com/media/amasty/blog/SprintDeportesEquipo1_2.jpg",Agenda Deportiva
+https://raw.githubusercontent.com/patron81/Roku/main/agenda%20(1).mp4
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",1-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",2-Telefe HD
