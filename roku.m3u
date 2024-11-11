@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://www.infisport.com/media/amasty/blog/SprintDeportesEquipo1_2.jpg",Agenda Deportiva
-https://raw.githubusercontent.com/patron81/Roku/main/agenda%20(1).mp4
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",1-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",2-Telefe HD
@@ -88,9 +86,9 @@ http://181.209.114.13:8000/play/a078/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es",43-ESPN Premium HD
 http://45.5.151.151:8000/play/a0fe/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",44-TNT Sports
-http://45.5.151.151:8000/play/a0pm/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",45-TNT Sports HD
 http://181.78.27.128:8000/play/a064/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",45-TNT Sports HD
+http://45.5.151.151:8000/play/a0pm/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",46-TyC Sports
 http://45.5.151.151:8000/play/a0eo/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",47-TyC Sports Internacional
@@ -259,9 +257,9 @@ http://abcnew.site:8880/JH12M3D196/fRV363z8kz/2659
 http://abcnew.site:8880/JH12M3D196/fRV363z8kz/2654
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/dazn1.png",129-DAZN DE 3
 http://34mix.com:8080/orhande/b3UQARhBNuuZ/28472
-#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/1015/130/png-transparent-2017-major-league-soccer-season-2015-major-league-soccer-season-2018-major-league-soccer-season-2016-mls-cup-playoffs-logo-mls-logo-text-trademark-sport-thumbnail.png",130-Apple TV MLS
+#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/1015/130/png-transparent-2017-major-league-soccer-season-2015-major-league-soccer-season-2018-major-league-soccer-season-2016-mls-cup-playoffs-logo-mls-logo-text-trademark-sport-thumbnail.png",130-MLS
 http://628102028954165257.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/585364.ts
-#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/1015/130/png-transparent-2017-major-league-soccer-season-2015-major-league-soccer-season-2018-major-league-soccer-season-2016-mls-cup-playoffs-logo-mls-logo-text-trademark-sport-thumbnail.png",131-Apple TV MLS 2
+#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/1015/130/png-transparent-2017-major-league-soccer-season-2015-major-league-soccer-season-2018-major-league-soccer-season-2016-mls-cup-playoffs-logo-mls-logo-text-trademark-sport-thumbnail.png",131-MLS 2
 http://628102028954165257.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/585369.ts
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/nba.png",132-NBA
 http://tvmate.icu:8080/vNay0H/219352/22995
