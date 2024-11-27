@@ -93,6 +93,10 @@ http://45.5.151.151:8000/play/a0pm/index.m3u8
 http://181.209.114.13:8000/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",47-TyC Sports HD
 http://45.5.151.151:8000/play/a0eo/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",47a-TyC Sports2
+http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/16048
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",47b-TyC Sports2 HD
+http://directo.ddns.me:2082/stkalval/7409/3110
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",48-TyC Sports Internacional
 http://181.205.77.118:4849/play/a0ah
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",49-TyC Sports Internacional bk
