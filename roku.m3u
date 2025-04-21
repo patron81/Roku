@@ -54,11 +54,11 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/deportv.png",27-DeporTV
 http://181.209.114.13:8000/play/a06h/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es",28-ESPN Premium
-http://181.209.114.13:8000/play/a078/index.m3u8
+http://181.209.95.29:8000/play/a078/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es",29-ESPN Premium HD
 http://ultra-premium-pro.xyz:8080/1311rominacortezUP/1311cortez@@@2022/542
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",30-TNT Sports
-http://181.209.114.13:8000/play/a02u/index.m3u8
+http://181.209.95.29:8000/play/a02u/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",31-TNT Sports HD
 http://ultra-premium-pro.xyz:8080/1311rominacortezUP/1311cortez@@@2022/461
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",32-TyC Sports
