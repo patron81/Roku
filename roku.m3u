@@ -54,9 +54,8 @@ http://181.209.114.13:8000/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",27-TyC Sports HD
 http://181.209.95.29:8000/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",28-DSports
-http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513296
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",29-DSports HD
 http://ultra-premium-pro.xyz:8080/1311rominacortezUP/1311cortez@@@2022/484
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",29-DSports HD
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513868
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports2.png",30-DSports 2
 http://ultra-premium-pro.xyz:8080/1311rominacortezUP/1311cortez@@@2022/473
