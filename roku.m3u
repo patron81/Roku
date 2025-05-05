@@ -2,31 +2,31 @@
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",1-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",2-Telefe HD
-http://181.209.95.29:8000/play/a06c/index.m3u8
+http://181.209.114.13:8000/play/a06c/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png",3-America TV
 http://181.209.114.13:8000/play/a055/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png",4-America TV HD
-http://181.209.95.29:8000/play/a0a7/index.m3u8
+http://ultra-premium-pro.xyz:8080/14089039526wspzero/230221zero/61553
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png",5-Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png",6-Canal 13 HD
-http://181.209.95.29:8000/play/a06d/index.m3u8
+http://181.209.114.13:8000/play/a06d/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",7-TV Publica
 http://181.209.114.13:8000/play/a056/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",8-TV Publica HD
-http://181.209.95.29:8000/play/a0a8/index.m3u8
+http://ultra-premium-pro.xyz:8080/14089039526wspzero/230221zero/61567
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/elnueve.png",9-Canal 9 
 http://181.209.114.13:8000/play/a04h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/elnueve.png",10-Canal 9 HD
-http://181.209.95.29:8000/play/a0a9/index.m3u8
+http://ultra-premium-pro.xyz:8080/14089039526wspzero/230221zero/61568
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png",11-C5N
 http://181.209.114.13:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png",12-C5N HD
-http://181.209.95.29:8000/play/a01p/index.m3u8
+http://ultra-premium-pro.xyz:8080/14089039526wspzero/230221zero/15817
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png",13-TN 
 http://181.209.114.13:8000/play/a058/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png",14-TN HD
-http://181.209.95.29:8000/play/a0a6/index.m3u8
+http://ultra-premium-pro.xyz:8080/14089039526wspzero/230221zero/61565
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png",15-LN+
 http://181.209.114.13:8000/play/a01s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png",16-LN+ HD
@@ -62,7 +62,7 @@ http://ultra-premium-pro.xyz:8080/14089039526wspzero/230221zero/473
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports+.png",31-Dsports +
 http://ultra-premium-pro.xyz:8080/14089039526wspzero/230221zero/468
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png",32-Fox Sports
-http://181.209.95.29:8000/play/a07j/index.m3u8
+http://181.209.114.13:8000/play/a07j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png",33-Fox Sports HD
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513260
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports2.png",34-Fox Sports 2
