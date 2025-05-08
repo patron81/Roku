@@ -41,8 +41,10 @@ http://181.78.27.128:8000/play/a04k/index.m3u
 http://181.78.27.128:8000/play/a055/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es",21-ESPN Premium
 http://181.209.114.13:8000/play/a078/index.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es",21-ESPN Premium Delay
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9549
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",22-TNT Sports
-http://181.209.95.29:8000/play/a02u/index.m3u8
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/7950
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",23-TNT Sports HD
 http://ultra-premium-pro.xyz:8080/14089039526wspzero/230221zero/461
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",24-TyC Sports
@@ -50,7 +52,7 @@ http://181.209.114.13:8000/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",25-TyC Sports HD
 http://181.78.27.128:8000/play/a04n/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",26-DSports
-http://ultra-premium-pro.xyz:8080/14089039526wspzero/230221zero/484
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9560
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",27-DSports HD
 http://tvlatino.club:2082/leon100/A6x2eAr33xcf/513868
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports2.png",28-DSports 2
@@ -389,10 +391,12 @@ http://200.125.170.120:8000/play/a05t
 http://181.78.27.128:8000/play/a03o/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/star.png",195-Star Channel
 http://181.78.27.128:8000/play/a03r/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starz.png",195-Starz
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9729
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tcm.png",196-TCM
 http://181.209.114.13:8000/play/a020/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tlc.png",197-TLC
-http://181.78.27.128:8000/play/a03t/index.m3u8
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9825
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tnt.png",198-TNT
 http://181.209.114.13:8000/play/a07d/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png",199-TNT Novelas
@@ -435,6 +439,8 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 http://190.102.246.93:9005/play/a02t
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s",218-Karaoke Stingray
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telehit.png",220-Telehit
+http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/8317
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F_ZpRdMQr1k4ZsY3Iwdxy-7WEquKzwylDTS91uei9rFJsUNo3HcYKSQ7zO8LylRTVi5MJ5qDOEoD9dc33hEcmQjHsUrw-ObgtRzCW39YKmym_ksW08YbRQ3917fKFo5Ap_kzDT9c4azPbn_4xDEy7PHWFVDRJbaL4M6-4BhAE6B57vKVHkUiTGax/s314/q.png",219-Quiero Musica
 http://181.209.114.13:8000/play/a02n/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnn.png",220-CNN Esp
