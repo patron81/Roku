@@ -260,7 +260,7 @@ http://181.209.114.13:8000/play/a02c/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboxtreme.png",130-HBO Xtreme
 http://ultra-premium-pro.xyz:8080/14089039526wspzero/230221zero/156
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbofamily.png",131-HBO Family
-http://181.205.77.118:4849/play/CH44
+http://181.209.114.13:8000/play/a06r/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/paramountnetwork.png",132-Paramount Network
 http://181.78.27.128:8000/play/a03a/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png",133-Sony Channel
