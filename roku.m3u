@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",Mundial de Clubes (Dsports)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",Mundial de Clubes (Dsports 2)
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/473
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/televen.png",Mundial de Clubes (Televen)
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/251011
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sportv.png",Mundial de Clubes (Sportv)
 http://xpaneltv.com:8080/ArtuDamb/63815850/319895
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tudn.png",Mundial de Clubes (TUDN)
-http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/552
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/winsports.png",Mundial de Clubes (Win Sports)
+http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/362
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",1-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",2-Telefe HD
