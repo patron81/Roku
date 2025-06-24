@@ -20,7 +20,7 @@ http://xpaneltv.com:8080/ArtuDamb/63815850/319895
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/winsports.png",Mundial de Clubes (Win Sports)
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/362
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",Mundial de Clubes (Telefe)
-http://190.123.90.146:8000/play/a03c/index.m3u8
+http://181.78.27.128:8000/play/a04h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",1-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",2-Telefe HD
@@ -32,7 +32,7 @@ http://190.123.90.146:8000/play/a00l/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png",5-Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png",6-Canal 13 HD
-http://181.209.114.13:8000/play/a06d/index.m3u8
+http://181.78.27.128:8000/play/a04v/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",7-TV Publica
 http://190.123.90.146:8000/play/a00q/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",8-TV Publica HD
@@ -78,7 +78,7 @@ http://181.209.114.13:8000/play/a09z/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntsports.png",28-TNT Sports HD
 http://190.123.90.146:8000/play/a00j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",29-TyC Sports
-http://181.209.114.13:8000/play/a02s/index.m3u8
+http://181.78.27.128:8000/play/a04n/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",30-TyC Sports HD
 http://190.123.90.146:8000/play/a00k/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",31-TyC Sports Internacional
@@ -98,9 +98,9 @@ http://181.209.114.13:8000/play/a07j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png",38-Fox Sports HD
 http://181.78.27.128:8000/play/a02t/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports2.png",39-Fox Sports 2
-http://181.209.114.13:8000/play/a05c/index.m3u8
+http://181.78.27.128:8000/play/a02r/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports3.png",40-Fox Sports 3
-http://181.209.114.13:8000/play/a02t/index.m3u8
+http://181.78.27.128:8000/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxdeportes.png",41-Fox Deportes
 http://xpaneltv.com:8080/ArtuDamb/63815850/172152
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png",42-ESPN
@@ -276,7 +276,7 @@ http://200.125.170.120:8000/play/a03y
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/film&arts.png",127-Film & Arts
 http://181.209.114.13:8000/play/a030/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/fx.png",128-FX HD
-http://181.209.114.13:8000/play/a02v/index.m3u8
+http://181.78.27.128:8000/play/a02q/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/golden.png",129-Golden 
 http://200.125.170.120:8000/play/a04a
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/golden.png",130-Golden HD
@@ -314,9 +314,9 @@ http://181.78.27.128:8000/play/a03a/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png",146-Sony Channel
 http://181.78.27.128:8000/play/a03h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png",147-Sony Channel HD
-http://181.209.114.13:8000/play/a05d/index.m3u8
+http://181.78.27.128:8000/play/a03h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png",148-Sony Movies
-http://181.209.114.13:8000/play/a05k/index.m3u8
+http://181.78.27.128:8000/play/a03i/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/space.png",149-Space
 http://200.125.170.120:8000/play/a05t
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/space.png",150-Space HD
@@ -328,11 +328,11 @@ http://181.209.114.13:8000/play/a020/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tlc.png",153-TLC
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9825
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tnt.png",154-TNT
-http://181.209.114.13:8000/play/a07d/index.m3u8
+http://181.78.27.128:8000/play/a043/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png",155-TNT Novelas
 http://181.209.114.13:8000/play/a07g/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntseries.png",156-TNT Series
-http://181.209.114.13:8000/play/a07e/index.m3u8
+http://181.78.27.128:8000/play/a04c/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/universaltv.png",157-Universal TV HD
 http://181.209.114.13:8000/play/a05j/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s",158-Universal Cinema Este
@@ -366,7 +366,7 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://mediakit.perfil.com/img/canal-e-logo.png",172-Canal E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/encuentro.png",173-Canal Encuentro
-http://181.209.114.13:8000/play/a01m/index.m3u8
+http://181.78.27.128:8000/play/a04t/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/argentinisimasatelital.png",174-Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ciudadmagazine.png",175-Ciudad Magazine
@@ -424,7 +424,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-rL0kaTrRF4Q/X8-4dBU62UI/AAAAAAAA7js/XNBF3OuJa-kQQ67tuYSGgfhlNiWCPdaXwCLcBGAsYHQ/s120/a3series-2020.png",201-A3 Series
 http://190.102.246.93:9005/play/a00p
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/gourmet.png",202-El Gourmet
-http://181.209.114.13:8000/play/a06w/index.m3u8
+http://181.78.27.128:8000/play/a04w/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hgtv.png",203-HGTV
 http://181.209.114.13:8000/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/nbc.png",204-NBC Home
@@ -434,7 +434,7 @@ http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/623
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/lifetime.png",206-Lifetime
 http://181.209.114.13:8000/play/a06n/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/history.png",207-History
-http://181.209.114.13:8000/play/a05h/index.m3u8
+http://181.78.27.128:8000/play/a04j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/history.png",208-History LAT
 http://190.102.246.93:9005/play/a047
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/h2.png",209-H2
@@ -454,11 +454,11 @@ http://190.102.246.93:9005/play/a01j
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/e.png",216-E!
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/627
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/discovery.png",217-Discovery Channel
-http://181.209.114.13:8000/play/a07i/index.m3u8
+http://181.78.27.128:8000/play/a05y/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryscience.png",218-Discovery Science
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/414
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryh&h.png",219-Discovery H&H
-http://181.209.114.13:8000/play/a07h/index.m3u8
+http://181.78.27.128:8000/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryworld.png",220-Discovery World
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/423
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoverytheater.png",221-Discovery Theather
@@ -466,11 +466,11 @@ http://191.52.214.5:8000/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryid.png",222-Discovery ID
 http://190.102.246.93:9005/play/a02s
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryturbo.png",223-Discovery Turbo
-http://181.209.114.13:8000/play/a01w/index.m3u8
+http://181.78.27.128:8000/play/a05x/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/comedycentral.png",224-Comedy Central
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/242
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/mtv.png",225-MTV
-http://181.209.114.13:8000/play/a02m/index.m3u8
+http://181.78.27.128:8000/play/a02y/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/htv.png",226-HTV
 http://tv.iprotv.live:80//live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149973.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/oldmusic.png",227-Old Music
@@ -486,9 +486,9 @@ http://user.tvcluboficial.com/live/m/m/154.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F_ZpRdMQr1k4ZsY3Iwdxy-7WEquKzwylDTS91uei9rFJsUNo3HcYKSQ7zO8LylRTVi5MJ5qDOEoD9dc33hEcmQjHsUrw-ObgtRzCW39YKmym_ksW08YbRQ3917fKFo5Ap_kzDT9c4azPbn_4xDEy7PHWFVDRJbaL4M6-4BhAE6B57vKVHkUiTGax/s314/q.png",232-Quiero Musica
 http://181.209.114.13:8000/play/a02n/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnn.png",233-CNN Esp
-http://181.209.114.13:8000/play/a054/index.m3u8
+http://181.78.27.128:8000/play/a022/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telesur.png",234-Telesur HD
-http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/35007
+http://181.78.27.128:8000/play/a04z/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/russiatoday.png",235-RT HD
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/dw.png",236-DW
