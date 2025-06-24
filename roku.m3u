@@ -21,6 +21,8 @@ http://xpaneltv.com:8080/ArtuDamb/63815850/319895
 http://177.93.46.163:8000/play/a026
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/winsports.png",Mundial de Clubes OP2 (Win Sports)
 http://tv14s.xyz:8080/A1Jay5/362586/78717
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tudn.png",Mundial de Clubes (TUDN)
+http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",Mundial de Clubes (Telefe)
 http://181.78.27.128:8000/play/a04h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",1-Telefe
