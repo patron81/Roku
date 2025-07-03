@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",Mundial de Clubes OP1 (Dsports)
-http://stklatino.dynns.com:2082/VicTorC/Victo423/47580
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",Mundial de Clubes OP2 (Dsports)
-http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/8625
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",Mundial de Clubes OP3 (Dsports)
 http://xpaneltv.com:8080/ArtuDamb/63815850/49705
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",Mundial de Clubes OP4 (Dsports)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",Mundial de Clubes OP2 (Dsports)
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/480
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/winsports.png",Mundial de Clubes (Win Sports)
 http://177.93.46.163:8000/play/a026
@@ -482,15 +478,17 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/aljazeera.png",233-Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/playboy.png",234-Playboy TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG",234-La 100
+https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/playboy.png",235-Playboy TV
 http://200.125.170.120:8000/play/a02c
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/venus.png",235-Venus
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/venus.png",236-Venus
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14151
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",236-Porn
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",237-Porn
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14136
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",237-Erotic
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",238-Erotic
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14141
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",238-XXX
-http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14158
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",239-XXX
+http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14158
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",240-XXX
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14179
