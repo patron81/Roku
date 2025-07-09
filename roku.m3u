@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",1-Mundial de Clubes OP1 (Dsports)
-http://offera.top:8080/2441745574996727/eeb0a2475305/10083
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",2-Mundial de Clubes OP2 (Dsports)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",1-Mundial de Clubes (TUDN)
+http://212.102.60.231:80/TUDN/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",2-Mundial de Clubes OP1 (Dsports)
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/480
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",3-Mundial de Clubes OP3 (Dsports)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",3-Mundial de Clubes OP2 (Dsports)
 http://xpaneltv.com:8080/ArtuDamb/63815850/49705
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/televen.png",4-Mundial de Clubes (Televen)
 http://cord-cutter.net:8080/Y3DvY8/934867/164931
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/univision.png",5-Mundial de Clubes (Univision)
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/68658
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",6-Mundial de Clubes (Telefe)
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",6--Mundial de Clubes (TUDN)
 http://181.78.27.128:8000/play/a04h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",7-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
