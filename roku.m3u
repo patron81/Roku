@@ -4,7 +4,7 @@ http://212.102.60.231:80/TUDN/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",2-Mundial de Clubes (Telefe)
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",3-Mundial de Clubes (Dsports)
-http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/480
+http://netlevel.online:8080/AURELIO933/AQBWS/608265.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",4-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",5-Telefe HD
