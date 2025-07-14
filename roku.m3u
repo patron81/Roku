@@ -4,7 +4,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png",2-Telefe HD
 http://190.123.90.146:8000/play/a00p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png",3-America TV
-http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/7928
+http://138.121.114.50:8000/play/a09y/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png",4-America TV HD
 http://190.123.90.146:8000/play/a00l/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png",5-Canal 13
@@ -72,7 +72,7 @@ http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9565
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports+.png",36-Dsports +
 http://38.211.242.128:8001/play/a05h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png",37-Fox Sports
-http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/457
+http://138.121.114.50:8000/play/a07j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png",38-Fox Sports HD
 http://181.78.27.128:8000/play/a02t/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports2.png",39-Fox Sports 2
@@ -437,55 +437,57 @@ https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-10004
 http://181.78.27.128:8000/play/a022/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telesur.png",219-Telesur HD
 http://181.78.27.128:8000/play/a04z/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/russiatoday.png",220-RT HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hispantv.png",220-HispanTV
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/russiatoday.png",221-RT HD
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dw.png",221-DW
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dw.png",222-DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/rai.png",222-Rai
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/rai.png",223-Rai
 http://181.209.114.13:8000/play/a02p/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnn.png",223-CNN USA HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnn.png",224-CNN USA HD
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxnews.png",224-Fox News Channel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxnews.png",225-Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/abcnews.png",225-ABC News
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/abcnews.png",226-ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/aljazeera.png",226-Al Jazeera
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/aljazeera.png",227-Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG",227-La 100
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG",228-La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",228-TyC Sports Play 1
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",229-TyC Sports Play 1
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",229-TyC Sports Play 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",230-TyC Sports Play 2
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",230-TyC Sports Play 3
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",231-TyC Sports Play 3
 https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",231-TyC Sports Play 4
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",232-TyC Sports Play 4
 https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",232-TyC Sports Play 5
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",233-TyC Sports Play 5
 https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",233-TyC Sports Play 6
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",234-TyC Sports Play 6
 https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",234-TyC Sports Play 7
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",235-TyC Sports Play 7
 https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",235-TyC Sports Play 8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s",236-TyC Sports Play 8
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/playboy.png",236-Playboy TV
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/playboy.png",237-Playboy TV
 http://200.125.170.120:8000/play/a02c
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/venus.png",237-Venus
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/venus.png",238-Venus
 http://200.115.96.66:4000/play/a02x/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",238-Porn
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",239-Porn
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14136
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",239-Erotic
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",240-Erotic
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14141
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",240-XXX
-http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14158
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",241-XXX
-http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14194
+http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14158
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",242-XXX
-http://hardcoremedia.xyz:80/zHjaK8N5xJ/9sVkMT05GrhY/248844
+http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14194
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",243-XXX
-http://hardcoremedia.xyz:80/zHjaK8N5xJ/9sVkMT05GrhY/248863
+http://hardcoremedia.xyz:80/zHjaK8N5xJ/9sVkMT05GrhY/248844
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",244-XXX
-http://hardcoremedia.xyz:80/zHjaK8N5xJ/9sVkMT05GrhY/248869
+http://hardcoremedia.xyz:80/zHjaK8N5xJ/9sVkMT05GrhY/248863
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",245-XXX
+http://hardcoremedia.xyz:80/zHjaK8N5xJ/9sVkMT05GrhY/248869
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png",246-XXX
 http://hardcoremedia.xyz:80/zHjaK8N5xJ/9sVkMT05GrhY/248886
