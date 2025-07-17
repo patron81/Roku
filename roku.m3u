@@ -60,7 +60,9 @@ http://190.123.90.146:8000/play/a00k/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",30-TyC Sports HD
 http://186.125.218.199:13000/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png",31-TyC Sports Internacional
-http://45.235.37.254/tyc/index.m3u8
+http://179.63.6.17:9000/play/a07y
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",32-DSports AR
+http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/480
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",32-DSports
 http://179.63.6.17:9000/play/a08e
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png",33-DSports HD
@@ -232,7 +234,7 @@ http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/65218
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier.png",116-Golden Premier
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/65223
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier2.png",117-Golden Premier 2
-http://200.125.170.120:8000/play/a00m
+http://179.63.6.17:9000/play/a08r
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenplus.png",118-Golden Plus
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/65219
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png",119-HBO Este
