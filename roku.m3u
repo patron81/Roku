@@ -106,7 +106,7 @@ http://190.102.246.93:9005/play/a01r
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg",53-ESPN 7
 http://200.60.124.19:29000/play/a01e/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg",54-ESPN 7 HD
-http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9574
+http://38.211.242.128:8001/play/a08n/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/garagetv.png",55-Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/deportv.png",56-DeporTV
