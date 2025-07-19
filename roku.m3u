@@ -120,7 +120,9 @@ http://xpaneltv.com:8080/ArtuDamb/63815850/287750
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tigosports.png",60-Tigo Sports
 http://190.92.10.66:4000/play/a00b/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/mls.png",61-MLS
-https://mae1.dbcast.live/hFey_iKgQoSbBVIdcl-kfA/1752737960/3137302e38312e3232392e313732/ff413/playlist.m3u8
+http://netlevel.online:8080/AURELIO933/AQBWS/588144.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/mls.png",61-MLS OP2
+https://mzr2.dbcast.live/UrKUrA0EMNXRc462tqxeTA/1752984957/3137302e38312e3232392e313732/ff720/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports1.png",62-FS1 (MLS)
 http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/59491
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxdeportes.png",63-Fox Deportes (MLS)
