@@ -45,8 +45,6 @@ http://201.217.246.177:8000/play/a01q/index.m3u8
 http://190.123.90.146:8000/play/a01u/index.m3u8
 #EXTINF:0 tvg-logo="https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd",23-IP Noticias HD
 https://val04.ride.com.ar/tvmia/an54/playlist.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/bravotv.png",23-Bravo TV
-https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es",24-ESPN Premium
 http://190.123.90.146:8000/play/a00f/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es",25-ESPN Premium HD
