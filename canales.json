@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Canal Deportes",
+    "stream_url": "http://example.com/deportes.m3u8",
+    "logo": "http://example.com/logos/deportes.png"
+  },
+  {
+    "id": "2",
+    "title": "Canal Noticias",
+    "stream_url": "http://example.com/noticias.m3u8",
+    "logo": "http://example.com/logos/noticias.png"
+  }
+]
