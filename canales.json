@@ -1,14 +1,1472 @@
 [
-  {
-    "id": "1",
-    "title": "Canal Deportes",
-    "stream_url": "http://example.com/deportes.m3u8",
-    "logo": "http://example.com/logos/deportes.png"
-  },
-  {
-    "id": "2",
-    "title": "Canal Noticias",
-    "stream_url": "http://example.com/noticias.m3u8",
-    "logo": "http://example.com/logos/noticias.png"
-  }
+{
+"id": "1",
+"title": "Evento Roku",
+"stream_url": "EventoRoku",
+"logo": "https://logo.iptveditor.com/evento.png"
+},
+{
+"id": "2",
+"title": "Telefe",
+"stream_url": "https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8",
+"logo": "https://logo.iptveditor.com/telefe.png"
+},
+{
+"id": "3",
+"title": "Telefe HD",
+"stream_url": "http://190.123.90.146:8000/play/a00p/index.m3u8",
+"logo": "https://logo.iptveditor.com/telefe.png"
+},
+{
+"id": "4",
+"title": "America TV",
+"stream_url": "http://138.121.114.50:8000/play/a09y/index.m3u8",
+"logo": "https://logo.iptveditor.com/america.png"
+},
+{
+"id": "5",
+"title": "America TV HD",
+"stream_url": "http://190.123.90.146:8000/play/a00l/index.m3u8",
+"logo": "https://logo.iptveditor.com/america.png"
+},
+{
+"id": "6",
+"title": "Canal 13",
+"stream_url": "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL",
+"logo": "https://logo.iptveditor.com/eltrece.png"
+},
+{
+"id": "7",
+"title": "Canal 13 HD",
+"stream_url": "http://138.121.114.50:8000/play/a06d/index.m3u8",
+"logo": "https://logo.iptveditor.com/eltrece.png"
+},
+{
+"id": "8",
+"title": "TV Publica",
+"stream_url": "http://190.123.90.146:8000/play/a00q/index.m3u8",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"
+},
+{
+"id": "9",
+"title": "TV Publica HD",
+"stream_url": "http://138.121.114.50:8000/play/a09z/index.m3u8",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"
+},
+{
+"id": "10",
+"title": "Canal 9 ",
+"stream_url": "http://190.123.90.146:8000/play/a00m/index.m3u8",
+"logo": "https://logo.iptveditor.com/elnueve.png"
+},
+{
+"id": "11",
+"title": "Canal 9 HD",
+"stream_url": "http://138.121.114.50:8000/play/a09q/index.m3u8",
+"logo": "https://logo.iptveditor.com/elnueve.png"
+},
+{
+"id": "12",
+"title": "C5N",
+"stream_url": "http://138.121.114.50:8000/play/a01p/index.m3u8",
+"logo": "https://logo.iptveditor.com/c5n.png"
+},
+{
+"id": "13",
+"title": "C5N HD",
+"stream_url": "http://186.125.218.199:13000/play/a01p/index.m3u8",
+"logo": "https://logo.iptveditor.com/c5n.png"
+},
+{
+"id": "14",
+"title": "TN ",
+"stream_url": "http://190.123.90.146:8000/play/a032/index.m3u8",
+"logo": "https://logo.iptveditor.com/tn.png"
+},
+{
+"id": "15",
+"title": "TN HD",
+"stream_url": "http://138.121.114.50:8000/play/a0a0/index.m3u8",
+"logo": "https://logo.iptveditor.com/tn.png"
+},
+{
+"id": "16",
+"title": "LN+",
+"stream_url": "http://190.123.90.146:8000/play/a006/index.m3u8",
+"logo": "https://logo.iptveditor.com/ln.png"
+},
+{
+"id": "17",
+"title": "LN+ HD",
+"stream_url": "http://143.0.67.77:8000/play/a01s/index.m3u8",
+"logo": "https://logo.iptveditor.com/ln.png"
+},
+{
+"id": "18",
+"title": "A24",
+"stream_url": "http://190.123.90.146:8000/play/a002/index.m3u8",
+"logo": "https://logo.iptveditor.com/a24.png"
+},
+{
+"id": "19",
+"title": "A24 HD",
+"stream_url": "http://138.121.114.50:8000/play/a01o/index.m3u8",
+"logo": "https://logo.iptveditor.com/a24.png"
+},
+{
+"id": "20",
+"title": "Canal 26",
+"stream_url": "http://190.123.90.146:8000/play/a001/index.m3u8",
+"logo": "https://logo.iptveditor.com/canal26.png"
+},
+{
+"id": "21",
+"title": "Cronica TV",
+"stream_url": "http://190.123.90.146:8000/play/a005/index.m3u8",
+"logo": "https://logo.iptveditor.com/cronicatv.png"
+},
+{
+"id": "22",
+"title": "Cronica TV HD",
+"stream_url": "http://201.217.246.177:8000/play/a01q/index.m3u8",
+"logo": "https://logo.iptveditor.com/cronicatv.png"
+},
+{
+"id": "23",
+"title": "IP Noticias",
+"stream_url": "http://190.123.90.146:8000/play/a01u/index.m3u8",
+"logo": "https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd"
+},
+{
+"id": "24",
+"title": "IP Noticias HD",
+"stream_url": "https://val04.ride.com.ar/tvmia/an54/playlist.m3u8",
+"logo": "https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd"
+},
+{
+"id": "25",
+"title": "Bravo TV",
+"stream_url": "https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0",
+"logo": "https://logo.iptveditor.com/bravo.png"
+},
+{
+"id": "26",
+"title": "ESPN Premium",
+"stream_url": "http://190.123.90.146:8000/play/a00f/index.m3u8",
+"logo": "https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es"
+},
+{
+"id": "27",
+"title": "ESPN Premium HD",
+"stream_url": "http://143.0.67.77:8000/play/a078/index.m3u8",
+"logo": "https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es"
+},
+{
+"id": "28",
+"title": "TNT Sports",
+"stream_url": "http://190.123.90.146:8000/play/a00j/index.m3u8",
+"logo": "https://logo.iptveditor.com/tntsports.png"
+},
+{
+"id": "29",
+"title": "TNT Sports HD",
+"stream_url": "http://143.0.67.77:8000/play/a0bc/index.m3u8",
+"logo": "https://logo.iptveditor.com/tntsports.png"
+},
+{
+"id": "30",
+"title": "ESPN Disney",
+"stream_url": "http://190.102.246.93:9005/play/a02d",
+"logo": "https://logo.iptveditor.com/espn.png"
+},
+{
+"id": "31",
+"title": "ESPN Premium LAT",
+"stream_url": "http://179.63.6.17:9000/play/a09i",
+"logo": "https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es"
+},
+{
+"id": "32",
+"title": "TyC Sports",
+"stream_url": "http://190.123.90.146:8000/play/a00k/index.m3u8",
+"logo": "https://logo.iptveditor.com/tycsports.png"
+},
+{
+"id": "33",
+"title": "TyC Sports HD",
+"stream_url": "http://186.125.218.199:13000/play/a02s/index.m3u8",
+"logo": "https://logo.iptveditor.com/tycsports.png"
+},
+{
+"id": "34",
+"title": "TyC Sports Internacional",
+"stream_url": "http://179.63.6.17:9000/play/a07y",
+"logo": "https://logo.iptveditor.com/tycsports.png"
+},
+{
+"id": "35",
+"title": "DSports LAT",
+"stream_url": "http://179.51.136.19:8000/play/DSPORTS1/index.m3u8",
+"logo": "https://logo.iptveditor.com/directvsports.png"
+},
+{
+"id": "36",
+"title": "DSports",
+"stream_url": "http://179.63.6.17:9000/play/a08e",
+"logo": "https://logo.iptveditor.com/directvsports.png"
+},
+{
+"id": "37",
+"title": "DSports HD",
+"stream_url": "http://38.211.242.128:8001/play/a09s/index.m3u8",
+"logo": "https://logo.iptveditor.com/directvsports.png"
+},
+{
+"id": "38",
+"title": "DSports 2",
+"stream_url": "http://179.63.6.17:9000/play/a08c",
+"logo": "https://logo.iptveditor.com/directvsports2.png"
+},
+{
+"id": "39",
+"title": "DSports 2 HD",
+"stream_url": "http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9565",
+"logo": "https://logo.iptveditor.com/directvsports2.png"
+},
+{
+"id": "40",
+"title": "Dsports +",
+"stream_url": "http://38.211.242.128:8001/play/a05h/index.m3u8",
+"logo": "https://logo.iptveditor.com/directvsports+.png"
+},
+{
+"id": "41",
+"title": "Dsports + HD",
+"stream_url": "http://179.51.136.19:8000/play/a112/index.m3u8",
+"logo": "https://logo.iptveditor.com/directvsports+.png"
+},
+{
+"id": "42",
+"title": "Fox Sports",
+"stream_url": "http://138.121.114.50:8000/play/a07j/index.m3u8",
+"logo": "https://logo.iptveditor.com/foxsportshd.png"
+},
+{
+"id": "43",
+"title": "Fox Sports HD",
+"stream_url": "http://186.125.218.199:13000/play/a07j/index.m3u8",
+"logo": "https://logo.iptveditor.com/foxsportshd.png"
+},
+{
+"id": "44",
+"title": "Fox Sports 2",
+"stream_url": "http://186.125.218.199:13000/play/a05c/index.m3u8",
+"logo": "https://logo.iptveditor.com/foxsports2.png"
+},
+{
+"id": "45",
+"title": "Fox Sports 3",
+"stream_url": "http://186.125.218.199:13000/play/a02t/index.m3u8",
+"logo": "https://logo.iptveditor.com/foxsports3.png"
+},
+{
+"id": "46",
+"title": "ESPN",
+"stream_url": "http://190.102.246.93:9005/play/a02d",
+"logo": "https://logo.iptveditor.com/espn.png"
+},
+{
+"id": "47",
+"title": "ESPN SUR",
+"stream_url": "http://190.102.246.93:9005/play/a01w",
+"logo": "https://logo.iptveditor.com/espn.png"
+},
+{
+"id": "48",
+"title": "ESPN Premium Chile",
+"stream_url": "http://190.102.246.93:9005/play/a00x",
+"logo": "https://logo.iptveditor.com/espn.png"
+},
+{
+"id": "49",
+"title": "ESPN 2",
+"stream_url": "http://190.102.246.93:9005/play/a026",
+"logo": "https://logo.iptveditor.com/espn.png"
+},
+{
+"id": "50",
+"title": "ESPN 2 LAT",
+"stream_url": "http://190.102.246.93:9005/play/a02n",
+"logo": "https://logo.iptveditor.com/espn2.png"
+},
+{
+"id": "51",
+"title": "ESPN 3",
+"stream_url": "http://190.102.246.93:9005/play/a02l",
+"logo": "https://logo.iptveditor.com/espn3.png"
+},
+{
+"id": "52",
+"title": "ESPN 3 HD",
+"stream_url": "http://200.60.124.19:29000/play/a02e/index.m3u8",
+"logo": "https://logo.iptveditor.com/espn3.png"
+},
+{
+"id": "53",
+"title": "ESPN 3 LAT",
+"stream_url": "http://186.125.218.199:13000/play/a05b/index.m3u8",
+"logo": "https://logo.iptveditor.com/espn3.png"
+},
+{
+"id": "54",
+"title": "ESPN 4",
+"stream_url": "http://190.123.90.146:8000/play/a00e/index.m3u8",
+"logo": "https://logo.iptveditor.com/espn4.png"
+},
+{
+"id": "55",
+"title": "ESPN 5",
+"stream_url": "http://190.102.246.93:9005/play/a01q",
+"logo": "https://logo.iptveditor.com/espn5.png"
+},
+{
+"id": "56",
+"title": "ESPN 5 LAT",
+"stream_url": "http://200.115.96.66:4000/play/a01t/index.m3u8",
+"logo": "https://logo.iptveditor.com/espn5.png"
+},
+{
+"id": "57",
+"title": "ESPN 6 HD",
+"stream_url": "http://190.102.246.93:9005/play/a01r",
+"logo": "https://logo.iptveditor.com/espn6.png"
+},
+{
+"id": "58",
+"title": "ESPN 7",
+"stream_url": "http://200.60.124.19:29000/play/a01e/index.m3u8",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg"
+},
+{
+"id": "59",
+"title": "ESPN 7 HD",
+"stream_url": "http://38.211.242.128:8001/play/a08n/index.m3u8",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg"
+},
+{
+"id": "60",
+"title": "Garage TV",
+"stream_url": "https://stream1.sersat.com/hls/garagetv.m3u8",
+"logo": "https://logo.iptveditor.com/garagetv.png"
+},
+{
+"id": "61",
+"title": "DeporTV",
+"stream_url": "http://186.125.218.199:13000/play/a06h/index.m3u8",
+"logo": "https://logo.iptveditor.com/deportv.png"
+},
+{
+"id": "62",
+"title": "GOL TV",
+"stream_url": "http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9594",
+"logo": "https://logo.iptveditor.com/goltv.png"
+},
+{
+"id": "63",
+"title": "GOL TV Internacional",
+"stream_url": "http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9595",
+"logo": "https://logo.iptveditor.com/golplay.png"
+},
+{
+"id": "64",
+"title": "GOL Peru",
+"stream_url": "http://xpaneltv.com:8080/ArtuDamb/63815850/287750",
+"logo": "https://logo.iptveditor.com/golperu.png"
+},
+{
+"id": "65",
+"title": "Tigo Sports",
+"stream_url": "http://190.92.10.66:4000/play/a00b/index.m3u8",
+"logo": "https://logo.iptveditor.com/tigosports.png"
+},
+{
+"id": "66",
+"title": "MLS",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/254703",
+"logo": "https://logo.iptveditor.com/mls.png"
+},
+{
+"id": "67",
+"title": "MLS 2",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/254788",
+"logo": "https://logo.iptveditor.com/mls.png"
+},
+{
+"id": "68",
+"title": "MLS 3",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/254769",
+"logo": "https://logo.iptveditor.com/mls.png"
+},
+{
+"id": "69",
+"title": "FS1 (MLS)",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/23628",
+"logo": "https://logo.iptveditor.com/foxsports1.png"
+},
+{
+"id": "70",
+"title": "Fox Deportes (MLS)",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/23437",
+"logo": "https://logo.iptveditor.com/foxdeportes.png"
+},
+{
+"id": "71",
+"title": "TUDN",
+"stream_url": "http://190.92.10.66:4000/play/a002/index.m3u8",
+"logo": "https://logo.iptveditor.com/tudn.png"
+},
+{
+"id": "72",
+"title": "ESPN Deportes",
+"stream_url": "http://190.92.10.66:4000/play/a003/index.m3u8",
+"logo": "https://logo.iptveditor.com/espndeportes.png"
+},
+{
+"id": "73",
+"title": "ESPN MX",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/24815",
+"logo": "https://logo.iptveditor.com/espn.png"
+},
+{
+"id": "74",
+"title": "Fox Sports Premium MX",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/24775",
+"logo": "https://logo.iptveditor.com/foxsportspremium.png"
+},
+{
+"id": "75",
+"title": "beIN Sports n",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/23741",
+"logo": "https://logo.iptveditor.com/beinsportsn.png"
+},
+{
+"id": "76",
+"title": "beIN Sports Xtra n",
+"stream_url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8",
+"logo": "https://logo.iptveditor.com/beinsportsxtra.png"
+},
+{
+"id": "77",
+"title": "beIN Sports Xtra n HD",
+"stream_url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+"logo": "https://logo.iptveditor.com/beinsportsxtra.png"
+},
+{
+"id": "78",
+"title": "beIN Sports USA",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/23740",
+"logo": "https://logo.iptveditor.com/beinsports.png"
+},
+{
+"id": "79",
+"title": "Premiere Brasil",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/568",
+"logo": "https://logo.iptveditor.com/premiere.png"
+},
+{
+"id": "80",
+"title": "Premiere 2 Brasil",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/567",
+"logo": "https://logo.iptveditor.com/premiere.png"
+},
+{
+"id": "81",
+"title": "Sportv Brasil",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/27204",
+"logo": "https://logo.iptveditor.com/sportv.png"
+},
+{
+"id": "82",
+"title": "Sportv 2 Brasil",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/27202",
+"logo": "https://logo.iptveditor.com/sportv.png"
+},
+{
+"id": "83",
+"title": "Claro Sports",
+"stream_url": "http://200.115.96.66:4000/play/a02k/index.m3u8",
+"logo": "https://logo.iptveditor.com/clarosports.png"
+},
+{
+"id": "84",
+"title": "Claro Sports 2",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/463",
+"logo": "https://logo.iptveditor.com/clarosports.png"
+},
+{
+"id": "85",
+"title": "Win Sports",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/362",
+"logo": "https://logo.iptveditor.com/winsports.png"
+},
+{
+"id": "86",
+"title": "Win Sports +",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/359",
+"logo": "https://logo.iptveditor.com/winsports+.png"
+},
+{
+"id": "87",
+"title": "Sky Sports La Liga",
+"stream_url": "http://190.92.10.66:4000/play/a001/index.m3u8",
+"logo": "https://logo.iptveditor.com/skysports.png"
+},
+{
+"id": "88",
+"title": "Movistar Deportes HD",
+"stream_url": "http://xpaneltv.com:8080/ArtuDamb/63815850/287722",
+"logo": "https://logo.iptveditor.com/movistardeportes.png"
+},
+{
+"id": "89",
+"title": "Liga de Campeones 1",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/12404",
+"logo": "https://logo.iptveditor.com/movistarligadecampeones.png"
+},
+{
+"id": "90",
+"title": "Movistar La Liga",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/12380",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s"
+},
+{
+"id": "91",
+"title": "Movistar La Liga 2",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/493",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s"
+},
+{
+"id": "92",
+"title": "Movistar La Liga 3",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/495",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_DLJKd8hIYdC7o1-pHCeUH8eyDPsXHU36bg&s"
+},
+{
+"id": "93",
+"title": "DAZN La Liga",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/60265",
+"logo": "https://logo.iptveditor.com/dazn1.png"
+},
+{
+"id": "94",
+"title": "La Liga Hypermotion",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/60310",
+"logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGghCES3FWs4QHO25ggNv5MyXiWDPs58oRKKThHcHyMfwjtsnOatC-cqTcyVCsYnZgQQzVV6zfKIzwwuh8-dVBsRLKeMK8AhI8Ai2-KRLLcDSQ3Feo4apKP2sOV4bWK8NxVj2r03xAsaSLcYDmGjlKq4721UqUYFOvUpWbiVzGeoyjJeTj9cdv_Bxt-GM/s256/LaLiga%20Hypermotion%20V256x.png"
+},
+{
+"id": "95",
+"title": "Sky Sports Bundesliga",
+"stream_url": "http://190.92.10.66:4000/play/a006/index.m3u8",
+"logo": "https://logo.iptveditor.com/skysports.png"
+},
+{
+"id": "96",
+"title": "DAZN 1",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/60354",
+"logo": "https://logo.iptveditor.com/dazn1.png"
+},
+{
+"id": "97",
+"title": "DAZN 2",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/60359",
+"logo": "https://logo.iptveditor.com/dazn2.png"
+},
+{
+"id": "98",
+"title": "DAZN 3",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/60361",
+"logo": "https://logo.iptveditor.com/dazn3.png"
+},
+{
+"id": "99",
+"title": "DAZN 4",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/60363",
+"logo": "https://logo.iptveditor.com/dazn4.png"
+},
+{
+"id": "100",
+"title": "DAZN F1",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/12397",
+"logo": "https://logo.iptveditor.com/daznf1.png"
+},
+{
+"id": "101",
+"title": "DAZN F1 HD",
+"stream_url": "http://user.tvcluboficial.com/live/m/m/192.m3u8",
+"logo": "https://logo.iptveditor.com/daznf1.png"
+},
+{
+"id": "102",
+"title": "Eurosport 1 HD",
+"stream_url": "http://185.189.225.150:85/Eurosport1/index.m3u8",
+"logo": "https://logo.iptveditor.com/eurosport1.png"
+},
+{
+"id": "103",
+"title": "Eurosport 2 HD",
+"stream_url": "http://185.189.225.150:85/Eurosport2/index.m3u8",
+"logo": "https://logo.iptveditor.com/eurosport2.png"
+},
+{
+"id": "104",
+"title": "Sky Sports UK",
+"stream_url": "http://tvmate.icu:8080/vNay0H/219352/35238",
+"logo": "https://logo.iptveditor.com/skysports.png"
+},
+{
+"id": "105",
+"title": "Sky Sports Main Event",
+"stream_url": "http://tvmate.icu:8080/vNay0H/219352/35243",
+"logo": "https://logo.iptveditor.com/skysports.png"
+},
+{
+"id": "106",
+"title": "NBA",
+"stream_url": "http://212.102.60.231:80/NBA_TV/index.m3u8",
+"logo": "https://logo.iptveditor.com/nba.png"
+},
+{
+"id": "107",
+"title": "AMC",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54469",
+"logo": "https://logo.iptveditor.com/amchd.png"
+},
+{
+"id": "108",
+"title": "AMC Oeste",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/104",
+"logo": "https://logo.iptveditor.com/amchd.png"
+},
+{
+"id": "109",
+"title": "A&E",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/100",
+"logo": "https://logo.iptveditor.com/a&e.png"
+},
+{
+"id": "110",
+"title": "AXN Este",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/107",
+"logo": "https://logo.iptveditor.com/axn.png"
+},
+{
+"id": "111",
+"title": "AXN Oeste",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/59479",
+"logo": "https://logo.iptveditor.com/axn.png"
+},
+{
+"id": "112",
+"title": "Cine Latino",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/110",
+"logo": "https://logo.iptveditor.com/cinelatino.png"
+},
+{
+"id": "113",
+"title": "Cinemax Este",
+"stream_url": "http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9635",
+"logo": "https://logo.iptveditor.com/cinemax.png"
+},
+{
+"id": "114",
+"title": "Cinemax Oeste",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54366",
+"logo": "https://logo.iptveditor.com/cinemax.png"
+},
+{
+"id": "115",
+"title": "Cinemax Sur",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/177",
+"logo": "https://logo.iptveditor.com/cinemax.png"
+},
+{
+"id": "116",
+"title": "Cinecanal",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54468",
+"logo": "https://logo.iptveditor.com/cinecanal.png"
+},
+{
+"id": "117",
+"title": "Cine Premium",
+"stream_url": "http://190.102.246.93:9005/play/a036",
+"logo": "https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png"
+},
+{
+"id": "118",
+"title": "DHE HD",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/121",
+"logo": "https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es"
+},
+{
+"id": "119",
+"title": "Europa Europa",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/187",
+"logo": "https://logo.iptveditor.com/europaeuropa.png"
+},
+{
+"id": "120",
+"title": "EuroChannel",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/184",
+"logo": "https://logo.iptveditor.com/eurochannel.png"
+},
+{
+"id": "121",
+"title": "Film & Arts",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/246",
+"logo": "https://logo.iptveditor.com/film&arts.png"
+},
+{
+"id": "122",
+"title": "FX",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/124",
+"logo": "https://logo.iptveditor.com/fx.png"
+},
+{
+"id": "123",
+"title": "Golden ",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/127",
+"logo": "https://logo.iptveditor.com/golden.png"
+},
+{
+"id": "124",
+"title": "Golden Edge",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/65218",
+"logo": "https://logo.iptveditor.com/goldenedge.png"
+},
+{
+"id": "125",
+"title": "Golden Premier",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/65223",
+"logo": "https://logo.iptveditor.com/goldenpremier.png"
+},
+{
+"id": "126",
+"title": "Golden Premier 2",
+"stream_url": "http://179.63.6.17:9000/play/a08r",
+"logo": "https://logo.iptveditor.com/goldenpremier2.png"
+},
+{
+"id": "127",
+"title": "Golden Plus",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/65219",
+"logo": "https://logo.iptveditor.com/goldenplus.png"
+},
+{
+"id": "128",
+"title": "HBO Este",
+"stream_url": "http://200.115.96.66:4000/play/a01z/index.m3u8",
+"logo": "https://logo.iptveditor.com/hbo.png"
+},
+{
+"id": "129",
+"title": "HBO Oeste",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/139",
+"logo": "https://logo.iptveditor.com/hbo.png"
+},
+{
+"id": "130",
+"title": "HBO 2 Este",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/132",
+"logo": "https://logo.iptveditor.com/hbo2.png"
+},
+{
+"id": "131",
+"title": "HBO 2 Oeste",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/131",
+"logo": "https://logo.iptveditor.com/hbo2.png"
+},
+{
+"id": "132",
+"title": "HBO+",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/146",
+"logo": "https://logo.iptveditor.com/hboplus.png"
+},
+{
+"id": "133",
+"title": "HBO Pop",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/147",
+"logo": "https://logo.iptveditor.com/hbopop.png"
+},
+{
+"id": "134",
+"title": "HBO Mundi",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/142",
+"logo": "https://logo.iptveditor.com/hbomundi.png"
+},
+{
+"id": "135",
+"title": "HBO Signature",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54457",
+"logo": "https://logo.iptveditor.com/hbosignature.png"
+},
+{
+"id": "136",
+"title": "HBO Xtreme",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/156",
+"logo": "https://logo.iptveditor.com/hboxtreme.png"
+},
+{
+"id": "137",
+"title": "HBO Family",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/135",
+"logo": "https://logo.iptveditor.com/hbofamily.png"
+},
+{
+"id": "138",
+"title": "Paramount Network",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/191",
+"logo": "https://logo.iptveditor.com/paramountnetwork.png"
+},
+{
+"id": "139",
+"title": "Sony Channel",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/199",
+"logo": "https://logo.iptveditor.com/sonychannel.png"
+},
+{
+"id": "140",
+"title": "Space Este",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/202",
+"logo": "https://logo.iptveditor.com/space.png"
+},
+{
+"id": "141",
+"title": "Space Oeste",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/203",
+"logo": "https://logo.iptveditor.com/space.png"
+},
+{
+"id": "142",
+"title": "Star Channel",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/162",
+"logo": "https://logo.iptveditor.com/star.png"
+},
+{
+"id": "143",
+"title": "Studio Universal",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/218",
+"logo": "https://static.epg.best/us/Sudiouniversal.us.png"
+},
+{
+"id": "144",
+"title": "TCM",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/230",
+"logo": "https://logo.iptveditor.com/tcm.png"
+},
+{
+"id": "145",
+"title": "TLC",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/447",
+"logo": "https://logo.iptveditor.com/tlc.png"
+},
+{
+"id": "146",
+"title": "TNT Este",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/166",
+"logo": "https://logo.iptveditor.com/tnt.png"
+},
+{
+"id": "147",
+"title": "TNT Oeste",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/168",
+"logo": "https://logo.iptveditor.com/tnt.png"
+},
+{
+"id": "148",
+"title": "TNT Series",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/170",
+"logo": "https://logo.iptveditor.com/tntseries.png"
+},
+{
+"id": "149",
+"title": "Universal TV HD",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54462",
+"logo": "https://logo.iptveditor.com/universaltv.png"
+},
+{
+"id": "150",
+"title": "Universal Cinema Este",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54464",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s"
+},
+{
+"id": "151",
+"title": "Universal Premiere Este",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54463",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s"
+},
+{
+"id": "152",
+"title": "Universal Premiere Oeste",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/65208",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s"
+},
+{
+"id": "153",
+"title": "Universal Reality HD",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54467",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s"
+},
+{
+"id": "154",
+"title": "Universal Crime HD",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54466",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&s"
+},
+{
+"id": "155",
+"title": "Universal Comedy",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54465",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s"
+},
+{
+"id": "156",
+"title": "USA",
+"stream_url": "http://190.123.90.146:8000/play/a01f/index.m3u8",
+"logo": "https://logo.iptveditor.com/usa.png"
+},
+{
+"id": "157",
+"title": "Volver",
+"stream_url": "http://138.121.114.50:8000/play/a021/index.m3u8",
+"logo": "https://logo.iptveditor.com/volver.png"
+},
+{
+"id": "158",
+"title": "Warner TV ",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/236",
+"logo": "https://logo.iptveditor.com/warner.png"
+},
+{
+"id": "159",
+"title": "Warner TV HD ",
+"stream_url": "http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9774",
+"logo": "https://logo.iptveditor.com/warner.png"
+},
+{
+"id": "160",
+"title": "Caza y Pesca",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/12420",
+"logo": "https://sincroguia-tv.expansion.com/uploads/images/c/a/z/caza-pesca.jpg"
+},
+{
+"id": "161",
+"title": "Net TV",
+"stream_url": "https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL",
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/NETTVArgentina.png/revision/latest/scale-to-width-down/1200?cb=20210315130131&path-prefix=es"
+},
+{
+"id": "162",
+"title": "Canal Encuentro",
+"stream_url": "http://186.125.218.199:13000/play/a01m/index.m3u8",
+"logo": "https://logo.iptveditor.com/encuentro.png"
+},
+{
+"id": "163",
+"title": "Argentinisima Satelital",
+"stream_url": "https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL",
+"logo": "https://logo.iptveditor.com/argentinisimasatelital.png"
+},
+{
+"id": "164",
+"title": "Ciudad Magazine",
+"stream_url": "https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8",
+"logo": "https://logo.iptveditor.com/ciudadmagazine.png"
+},
+{
+"id": "165",
+"title": "Canal 22",
+"stream_url": "https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8",
+"logo": "https://relacionesdeltrabajo.sociales.uba.ar/wp-content/uploads/sites/21/2019/06/logo-canal22.gif"
+},
+{
+"id": "166",
+"title": "Telemundo Internacional",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/605",
+"logo": "https://logo.iptveditor.com/telemundointernacional.png"
+},
+{
+"id": "167",
+"title": "Ve Plus",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/23181",
+"logo": "https://static.wikia.nocookie.net/logopedia/images/2/2d/Large.VTV-2016.png.19c40a29ffa87b697dd3b20327bace7d.png/revision/latest/scale-to-width-down/250?cb=20211003003101&path-prefix=es"
+},
+{
+"id": "168",
+"title": "Galavision",
+"stream_url": "http://tvmate.icu:8080/vNay0H/219352/58770",
+"logo": "https://logo.iptveditor.com/galavision.png"
+},
+{
+"id": "169",
+"title": "Univision",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/68658",
+"logo": "https://logo.iptveditor.com/univision.png"
+},
+{
+"id": "170",
+"title": "Hola TV",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/630",
+"logo": "https://logo.iptveditor.com/holatv.png"
+},
+{
+"id": "171",
+"title": "Glitz",
+"stream_url": "http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9794",
+"logo": "https://logo.iptveditor.com/glitz.png"
+},
+{
+"id": "172",
+"title": "Pasiones",
+"stream_url": "http://190.102.246.93:9005/play/a01b",
+"logo": "https://logo.iptveditor.com/pasiones.png"
+},
+{
+"id": "173",
+"title": "Corazon",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/24892",
+"logo": "https://logo.iptveditor.com/azcorazon.png"
+},
+{
+"id": "174",
+"title": "Las Estrellas",
+"stream_url": "http://190.102.246.93:9005/play/a00u",
+"logo": "https://logo.iptveditor.com/lasestrellas.png"
+},
+{
+"id": "175",
+"title": "TV Azteca",
+"stream_url": "http://190.102.246.93:9005/play/a02y",
+"logo": "https://logo.iptveditor.com/tvazteca.png"
+},
+{
+"id": "176",
+"title": "TVE",
+"stream_url": "http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/8248",
+"logo": "https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/tve-2010.png"
+},
+{
+"id": "177",
+"title": "24 horas",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/12340",
+"logo": "https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/24h.png"
+},
+{
+"id": "178",
+"title": "Antena 3",
+"stream_url": "http://185.189.225.150:85/Antena3HD/index.m3u8",
+"logo": "https://logo.iptveditor.com/antena3.png"
+},
+{
+"id": "179",
+"title": "Mega",
+"stream_url": "http://185.189.225.150:85/mega/index.m3u8",
+"logo": "https://logo.iptveditor.com/mega.png"
+},
+{
+"id": "180",
+"title": "La 1",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/12334",
+"logo": "https://logo.iptveditor.com/la1.png"
+},
+{
+"id": "181",
+"title": "La 2",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/12454",
+"logo": "https://logo.iptveditor.com/la2.png"
+},
+{
+"id": "182",
+"title": "Cuatro",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/12331",
+"logo": "https://logo.iptveditor.com/cuatro.png"
+},
+{
+"id": "183",
+"title": "Telecinco",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/236487",
+"logo": "https://logo.iptveditor.com/telecinco.png"
+},
+{
+"id": "184",
+"title": "La Sexta",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/236489",
+"logo": "https://logo.iptveditor.com/lasexta.png"
+},
+{
+"id": "185",
+"title": "Star TVE",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/59556",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png"
+},
+{
+"id": "186",
+"title": "A3 Series",
+"stream_url": "http://190.102.246.93:9005/play/a00p",
+"logo": "https://1.bp.blogspot.com/-rL0kaTrRF4Q/X8-4dBU62UI/AAAAAAAA7js/XNBF3OuJa-kQQ67tuYSGgfhlNiWCPdaXwCLcBGAsYHQ/s120/a3series-2020.png"
+},
+{
+"id": "187",
+"title": "El Gourmet",
+"stream_url": "http://190.123.90.146:8000/play/a02m/index.m3u8",
+"logo": "https://logo.iptveditor.com/gourmet.png"
+},
+{
+"id": "188",
+"title": "HGTV",
+"stream_url": "http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9819",
+"logo": "https://logo.iptveditor.com/hgtv.png"
+},
+{
+"id": "189",
+"title": "Mas Chic",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/623",
+"logo": "https://logo.iptveditor.com/maschic.png"
+},
+{
+"id": "190",
+"title": "Lifetime",
+"stream_url": "http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9703",
+"logo": "https://logo.iptveditor.com/lifetime.png"
+},
+{
+"id": "191",
+"title": "History Este",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/431",
+"logo": "https://logo.iptveditor.com/history.png"
+},
+{
+"id": "192",
+"title": "History Oeste",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/435",
+"logo": "https://logo.iptveditor.com/history.png"
+},
+{
+"id": "193",
+"title": "H2",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/54482",
+"logo": "https://logo.iptveditor.com/h2.png"
+},
+{
+"id": "194",
+"title": "Nat Geo",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/440",
+"logo": "https://logo.iptveditor.com/natgeo.png"
+},
+{
+"id": "195",
+"title": "Nat Geo Wild",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/445",
+"logo": "https://logo.iptveditor.com/natgeowild.png"
+},
+{
+"id": "196",
+"title": "Nat Geo Mundo",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/444",
+"logo": "https://logo.iptveditor.com/natgeomundo.png"
+},
+{
+"id": "197",
+"title": "Animal Planet",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/402",
+"logo": "https://logo.iptveditor.com/animalplanet.png"
+},
+{
+"id": "198",
+"title": "Love Nature",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/451",
+"logo": "https://logo.iptveditor.com/lovenature.png"
+},
+{
+"id": "199",
+"title": "Sun Channel",
+"stream_url": "http://190.102.246.93:9005/play/a01j",
+"logo": "https://logo.iptveditor.com/sunchannel.png"
+},
+{
+"id": "200",
+"title": "E!",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/627",
+"logo": "https://logo.iptveditor.com/e.png"
+},
+{
+"id": "201",
+"title": "Discovery Channel",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/407",
+"logo": "https://logo.iptveditor.com/discovery.png"
+},
+{
+"id": "202",
+"title": "Discovery Science",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/414",
+"logo": "https://logo.iptveditor.com/discoveryscience.png"
+},
+{
+"id": "203",
+"title": "Discovery H&H",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/410",
+"logo": "https://logo.iptveditor.com/discoveryh&h.png"
+},
+{
+"id": "204",
+"title": "Discovery World",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/423",
+"logo": "https://logo.iptveditor.com/discoveryworld.png"
+},
+{
+"id": "205",
+"title": "Discovery Theather",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/409",
+"logo": "https://logo.iptveditor.com/discoverytheater.png"
+},
+{
+"id": "206",
+"title": "Discovery ID",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/437",
+"logo": "https://logo.iptveditor.com/discoveryid.png"
+},
+{
+"id": "207",
+"title": "Discovery Turbo",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/420",
+"logo": "https://logo.iptveditor.com/discoveryturbo.png"
+},
+{
+"id": "208",
+"title": "Discovery Familia",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/23415",
+"logo": "https://cdnimg.spectrum.net/imageserver/image/default?productId=PBSK&providerId=DISCOVERY_FAMILY&sourceType=colorHybrid"
+},
+{
+"id": "209",
+"title": "Comedy Central",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/242",
+"logo": "https://logo.iptveditor.com/comedycentral.png"
+},
+{
+"id": "210",
+"title": "HTV",
+"stream_url": "http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/8309",
+"logo": "https://logo.iptveditor.com/htv.png"
+},
+{
+"id": "211",
+"title": "Music Top",
+"stream_url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8",
+"logo": "https://logo.iptveditor.com/musictop.png"
+},
+{
+"id": "212",
+"title": "Telehit",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/59412",
+"logo": "https://logo.iptveditor.com/telehit.png"
+},
+{
+"id": "213",
+"title": "Quiero Musica",
+"stream_url": "http://190.123.90.146:8000/play/a02s/index.m3u8",
+"logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F_ZpRdMQr1k4ZsY3Iwdxy-7WEquKzwylDTS91uei9rFJsUNo3HcYKSQ7zO8LylRTVi5MJ5qDOEoD9dc33hEcmQjHsUrw-ObgtRzCW39YKmym_ksW08YbRQ3917fKFo5Ap_kzDT9c4azPbn_4xDEy7PHWFVDRJbaL4M6-4BhAE6B57vKVHkUiTGax/s314/q.png"
+},
+{
+"id": "214",
+"title": "CM Canal de la Musica",
+"stream_url": "http://186.125.218.199:13000/play/a09n/index.m3u8",
+"logo": "https://logo.iptveditor.com/cm.png"
+},
+{
+"id": "215",
+"title": "Old Music",
+"stream_url": "http://45.184.87.142:8000/play/a02y",
+"logo": "https://logo.iptveditor.com/oldmusic.png"
+},
+{
+"id": "216",
+"title": "Tierra Mia",
+"stream_url": "https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8",
+"logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7"
+},
+{
+"id": "217",
+"title": "Stingray Concerts",
+"stream_url": "http://190.102.246.93:9005/play/a02t",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s"
+},
+{
+"id": "218",
+"title": "Karaoke Stingray",
+"stream_url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s"
+},
+{
+"id": "219",
+"title": "CNN Esp",
+"stream_url": "http://190.123.90.146:8000/play/a004/index.m3u8",
+"logo": "https://logo.iptveditor.com/cnn.png"
+},
+{
+"id": "220",
+"title": "Telesur HD",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/250996",
+"logo": "https://logo.iptveditor.com/telesur.png"
+},
+{
+"id": "221",
+"title": "HispanTV",
+"stream_url": "https://live.presstv.ir/hls/hispantv_5_482/index.m3u8",
+"logo": "https://logo.iptveditor.com/hispantv.png"
+},
+{
+"id": "222",
+"title": "RT HD",
+"stream_url": "https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8",
+"logo": "https://logo.iptveditor.com/russiatoday.png"
+},
+{
+"id": "223",
+"title": "DW",
+"stream_url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+"logo": "https://logo.iptveditor.com/dw.png"
+},
+{
+"id": "224",
+"title": "Rai",
+"stream_url": "https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8",
+"logo": "https://logo.iptveditor.com/rai.png"
+},
+{
+"id": "225",
+"title": "CNN USA HD",
+"stream_url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+"logo": "https://logo.iptveditor.com/cnn.png"
+},
+{
+"id": "226",
+"title": "Fox News Channel",
+"stream_url": "http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8",
+"logo": "https://logo.iptveditor.com/foxnews.png"
+},
+{
+"id": "227",
+"title": "ABC News",
+"stream_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+"logo": "https://logo.iptveditor.com/abcnews.png"
+},
+{
+"id": "228",
+"title": "NBC News",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/23965",
+"logo": "https://logo.iptveditor.com/nbcnews.png"
+},
+{
+"id": "229",
+"title": "MSNBC",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/23637",
+"logo": "https://logo.iptveditor.com/msnbc.png"
+},
+{
+"id": "230",
+"title": "Al Jazeera",
+"stream_url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+"logo": "https://logo.iptveditor.com/aljazeera.png"
+},
+{
+"id": "231",
+"title": "La 100",
+"stream_url": "https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG"
+},
+{
+"id": "232",
+"title": "Playboy TV",
+"stream_url": "http://200.125.170.120:8000/play/a02c",
+"logo": "https://logo.iptveditor.com/playboy.png"
+},
+{
+"id": "233",
+"title": "Venus",
+"stream_url": "http://200.125.170.120:8000/play/a04e",
+"logo": "https://logo.iptveditor.com/venus.png"
+},
+{
+"id": "234",
+"title": "Porn",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14136",
+"logo": "https://logo.iptveditor.com/porn.png"
+},
+{
+"id": "235",
+"title": "Erotic",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14141",
+"logo": "https://logo.iptveditor.com/porn.png"
+},
+{
+"id": "236",
+"title": "XXX",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14158",
+"logo": "https://logo.iptveditor.com/porn.png"
+},
+{
+"id": "237",
+"title": "XXX",
+"stream_url": "http://ultra-premium-pro.xyz:8080/2309jaimepenalozaPT/2021@@@2309/14194",
+"logo": "https://logo.iptveditor.com/porn.png"
+},
+{
+"id": "238",
+"title": "TyC Sports Play 1",
+"stream_url": "https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s"
+},
+{
+"id": "239",
+"title": "TyC Sports Play 2",
+"stream_url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s"
+},
+{
+"id": "240",
+"title": "TyC Sports Play 3",
+"stream_url": "https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s"
+},
+{
+"id": "241",
+"title": "TyC Sports Play 4",
+"stream_url": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s"
+},
+{
+"id": "242",
+"title": "TyC Sports Play 5",
+"stream_url": "https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s"
+},
+{
+"id": "243",
+"title": "TyC Sports Play 6",
+"stream_url": "https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s"
+},
+{
+"id": "244",
+"title": "TyC Sports Play 7",
+"stream_url": "https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s"
+},
+{
+"id": "245",
+"title": "TyC Sports Play 8",
+"stream_url": "https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s"
+}
 ]
