@@ -1,3 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://yourserver.com/logos/cnn.png",CNN
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1  tvg-id="cnn2.us" tvg-name="CNN2" tvg-logo="https://logo.iptveditor.com/telefe.png",3-Telefe HD
+http://190.123.90.146:8000/play/a00p/index.m3u8
+#EXTINF:-1  tvg-id="cnn3.us" tvg-name="CNN3" tvg-logo="https://logo.iptveditor.com/america.png",4-America TV
+http://138.121.114.50:8000/play/a09y/index.m3u8
+
