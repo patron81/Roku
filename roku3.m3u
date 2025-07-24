@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/evento.png" group-title="varios",1-Evento Roku
+#EXTINF:0 tvg-logo='https://logo.iptveditor.com/evento.png' group-title='varios',1-Evento Roku
 http://EventoRoku
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="varios",2-Telefe
+#EXTINF:0 tvg-logo='https://logo.iptveditor.com/telefe.png' group-title='varios',2-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="varios",3-Telefe HD
+#EXTINF:0 tvg-logo='https://logo.iptveditor.com/telefe.png' group-title='varios',3-Telefe HD
 http://190.123.90.146:8000/play/a00p/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png" group-title="varios",4-America TV
+#EXTINF:0 tvg-logo='https://logo.iptveditor.com/america.png' group-title='varios',4-America TV
 http://138.121.114.50:8000/play/a09y/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png" group-title="varios",5-America TV HD
+#EXTINF:0 tvg-logo='https://logo.iptveditor.com/america.png' group-title='varios',5-America TV HD
 http://190.123.90.146:8000/play/a00l/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="varios",6-Canal 13
+#EXTINF:0 tvg-logo='https://logo.iptveditor.com/eltrece.png' group-title='varios',6-Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="varios",7-Canal 13 HD
+#EXTINF:0 tvg-logo='https://logo.iptveditor.com/eltrece.png' group-title='varios',7-Canal 13 HD
 http://138.121.114.50:8000/play/a06d/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="varios",8-TV Publica
+#EXTINF:0 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png' group-title='varios',8-TV Publica
 http://190.123.90.146:8000/play/a00q/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="varios",9-TV Publica HD
+#EXTINF:0 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png' group-title='varios',9-TV Publica HD
 http://138.121.114.50:8000/play/a09z/index.m3u8
