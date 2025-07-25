@@ -1,9 +1,7 @@
 
 evento1="https://la14hd.com/vivo/canales.php?stream=dsports"
 	
-	
-
-	m.port = CreateObject ("roMessagePort")
+		m.port = CreateObject ("roMessagePort")
 	searchRequest = CreateObject("roUrlTransfer")
 	searchRequest.setURL(evento1)
 	searchRequest.EnableEncodings(true)
