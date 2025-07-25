@@ -13,7 +13,10 @@ evento1="https://la14hd.com/vivo/canales.php?stream=dsports"
 	end if
 
 response = searchRequest.getToString()
-if response <> invalid and response <> "" 
+if response = ""
+return "Sin Datos"
+end if
+if response <> invalid 
   		texto=response
 				word="var playbackURL = "
 			if instr(1,texto,word)>= 0
