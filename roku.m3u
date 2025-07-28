@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/evento.png" group-title="varios",1-Evento Roku
-https://vivo.solumedia.com:19360/elarca/elarca.m3u8
+http://tv.zeuspro.xyz:8080/movie/jagy1490/zYlLNRlvm3/124745.mkv
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="varios",2-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="varios",3-Telefe HD
@@ -24,7 +24,7 @@ http://138.121.114.50:8000/play/a09q/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="varios",12-C5N
 http://138.121.114.50:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="varios",13-C5N HD
-http://186.125.218.199:13000/play/a01p/index.m3u8
+http://195.66.210.10:8080/AURELIO933/AQBWS/242080.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="varios",14-TN 
 http://190.123.90.146:8000/play/a032/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="varios",15-TN HD
