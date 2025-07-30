@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/evento.png" group-title="varios",1-Evento Roku
-http://ultra-premium-pro.xyz:8080/32654175/27062022/38
+https://www.youtube.com/watch?v=jTDk5CswBVk
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="varios",2-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="varios",3-Telefe HD
