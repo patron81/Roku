@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/evento.png" group-title="varios",1-Evento Roku
-https://www.youtube.com/watch?v=jTDk5CswBVk
+https://www-youtube-com.translate.goog/watch?v=jTDk5CswBVk&feature=youtu.be&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="varios",2-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="varios",3-Telefe HD
