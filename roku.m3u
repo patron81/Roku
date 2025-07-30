@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/evento.png" group-title="varios",1-Evento Roku
-https://www-youtube-com.translate.goog/watch?v=jTDk5CswBVk&feature=youtu.be&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+http://ultra-premium-pro.xyz:8080/32654175/27062022/38
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="varios",2-Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="varios",3-Telefe HD
@@ -24,7 +24,7 @@ http://138.121.114.50:8000/play/a09q/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="varios",12-C5N
 http://138.121.114.50:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="varios",13-C5N HD
-http://195.66.210.10:8080/AURELIO933/AQBWS/242080.m3u8
+https://www-youtube-com.translate.goog/watch?v=jTDk5CswBVk&feature=youtu.be&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="varios",14-TN 
 http://190.123.90.146:8000/play/a032/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="varios",15-TN HD
