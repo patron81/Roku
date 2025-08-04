@@ -23,7 +23,7 @@ http://190.123.90.146:8000/play/a00m/index.m3u8
 http://138.121.114.50:8000/play/a09q/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Nacionales",12-C5N
 http://138.121.114.50:8000/play/a01p/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Nacionales",13-C5N HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Nacionales",13-C5N HD (Roku)
 https://www-youtube-com.translate.goog/watch?v=jTDk5CswBVk&feature=youtu.be&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Nacionales",14-TN 
 http://190.123.90.146:8000/play/a032/index.m3u8
@@ -47,7 +47,7 @@ http://201.217.246.177:8000/play/a01q/index.m3u8
 http://190.123.90.146:8000/play/a01u/index.m3u8
 #EXTINF:0 tvg-logo="https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Nacionales",24-IP Noticias HD
 https://val04.ride.com.ar/tvmia/an54/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Canal_10_General_Roca_%28Logo_2016_-_2%29.png/revision/latest?cb=20210823130814&path-prefix=ess" group-title="Nacionales",25- Canal 10 Rio Negro
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Canal_10_General_Roca_%28Logo_2016_-_2%29.png/revision/latest?cb=20210823130814&path-prefix=ess" group-title="Nacionales",25- Canal 10 Rio Negro (Roku)
 https://stream.arcast.net:4443/c10rionegro/ngrp:c10rionegro_all/playlist.m3u8?wowzatokenendtime=1754269140&wowzatokenstarttime=0&wowzatokenhash=0PuMCUS2EzNCsgEK1MrO7P6t20JA80QID2HX4v1zyak=
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/bravo.png" group-title="Nacionales",26-Bravo TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
@@ -505,3 +505,4 @@ https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/in
 https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQAlRY0u62_3zRgLSxwb_gGjPQp-6W7vTB7Q&s" group-title="Deportes",253-TyC Sports Play 8
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
+
