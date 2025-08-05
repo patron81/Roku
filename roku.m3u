@@ -22,7 +22,7 @@ http://138.121.114.50:8000/play/a09q/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",11-C5N
 http://138.121.114.50:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",12-C5N HD (Roku)
-https://www.youtube.com/watch?v=jTDk5CswBVk
+https://www.youtube.com/watch?app=desktop&v=jTDk5CswBVk
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",13-TN 
 http://190.123.90.146:8000/play/a032/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",14-TN HD
@@ -505,6 +505,7 @@ https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/ind
 https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",253-FinRoku
 https://FinRoku
+
 
 
 
