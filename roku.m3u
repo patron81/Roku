@@ -22,7 +22,7 @@ http://138.121.114.50:8000/play/a09q/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",11-C5N
 http://138.121.114.50:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",12-C5N HD (Roku)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754676624/ei/MOmVaKuOEqTdlu8P7u2rqAY/ip/108.181.88.29/id/jTDk5CswBVk.1~45700902/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477231/txs/51477230%2C51477231%2C51477232/hfr/1/maudio/1/bui/AY1jyLOeQrfBAzAVlP03MLjbPxarSrJR1X1CDbt1EbzsG2ZRaX8KjMSzjPC9BDxXEsbyITh7WexIrf9u/spc/l3OVKauoDx2FNFA56GdHHIuIttVzQaM7mFPjcMS9TPigdWsNYUbS7tcG2fjc-6AoJWM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKaOysBRF86mduoqfOBQYNLd5ZutzLSmSqNFtLWSOg6zAiEApELJDT-NJccM9Ezs873U5vQTPMS8mhe9SSVG3j_qZcg%3D/file/index.m3u8
+ttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754702700/ei/DE-WaKWbNbrBsfIP9rHDuAo/ip/108.181.11.137/id/jTDk5CswBVk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539854/txs/51539853%2C51539854%2C51539855/hfr/1/maudio/1/bui/AY1jyLMZS5CiGDVBwahHzWNyqMwV_DytrrINasfI41KkTYmJbg-mhltJzivNXXsGV_XzJIlM0hIjRjzl/spc/l3OVKQCSwqmwllYtI2xSLEXOPPlwVpDaLSigu1IFEKL5QnyOtDXXfPRk_iDDFODh_v0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgc-r0uZhrcyosTOoKGaMalmsHCId4o3ynUvYbicrADm4CIE1y1ZTpHeWQcq_QzokzFebj4wZHE5GzjxfOPpZUZy5d/file/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",13-TN 
 http://190.123.90.146:8000/play/a032/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",14-TN HD
@@ -489,6 +489,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14158
 http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 #EXTINF:0 tvg-logo="" group-title="Varios",260-FinRoku
 https://FinRoku
+
 
 
 
