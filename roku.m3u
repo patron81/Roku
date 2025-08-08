@@ -472,7 +472,7 @@ https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
 #EXTINF:0 tvg-logo="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_urbana_play.jpg" group-title="Varios",236-Urbana Play (Roku)
 https://www-youtube-com.translate.goog/watch?v=SBTzZjrJWYU&feature=youtu.be&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://media.minutouno.com/p/e509861f410385310bb4ce776314394a/adjuntos/239/imagenes/040/704/0040704024/radio-megajpg.jpg" group-title="Varios",237-Radio Mega 98.3 (Roku)
-https://m.youtube.com/watch?v=1aXIxjGqs6Y
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754676624/ei/MOmVaKuOEqTdlu8P7u2rqAY/ip/108.181.88.29/id/jTDk5CswBVk.1~45700902/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477231/txs/51477230%2C51477231%2C51477232/hfr/1/maudio/1/bui/AY1jyLOeQrfBAzAVlP03MLjbPxarSrJR1X1CDbt1EbzsG2ZRaX8KjMSzjPC9BDxXEsbyITh7WexIrf9u/spc/l3OVKauoDx2FNFA56GdHHIuIttVzQaM7mFPjcMS9TPigdWsNYUbS7tcG2fjc-6AoJWM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKaOysBRF86mduoqfOBQYNLd5ZutzLSmSqNFtLWSOg6zAiEApELJDT-NJccM9Ezs873U5vQTPMS8mhe9SSVG3j_qZcg%3D/file/index.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88mhDqf2ZpFFUIcKIQ3-SCv2RoFNY79gjA-y-uO-ewnVTvBFLOrZoqzs7tzvDYb1SfWK2C9zRksuCWtFJ4ECjIBlqkXsOIesspHNPI6JRC1zC_MMgOX3YPj2XO4WFZuaB8rloHlaTHc8/s0/radio10-2020.png" group-title="Varios",238-Radio 10 (Roku)
 https://m.youtube.com/watch?v=dkEANC9Q3AY
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="Varios",239-Playboy TV
@@ -489,6 +489,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14158
 http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 #EXTINF:0 tvg-logo="" group-title="Varios",260-FinRoku
 https://FinRoku
+
 
 
 
