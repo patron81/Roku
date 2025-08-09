@@ -469,9 +469,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/23637
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG" group-title="Varios",235-La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
-#EXTINF:0 tvg-logo="https://www.enlaradio.com.ar/wp-content/uploads/2023/02/elr_urbana_play.jpg" group-title="Varios",236-Urbana Play (Roku)
-https://www-youtube-com.translate.goog/watch?v=SBTzZjrJWYU&feature=youtu.be&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
-#EXTINF:0 tvg-logo="https://media.minutouno.com/p/e509861f410385310bb4ce776314394a/adjuntos/239/imagenes/040/704/0040704024/radio-megajpg.jpg" group-title="Varios",237-Radio Mega 98.3 (Roku)
+#EXTINF:0 tvg-logo="https://media.minutouno.com/p/e509861f410385310bb4ce776314394a/adjuntos/239/imagenes/040/704/0040704024/radio-megajpg.jpg" group-title="Varios",236-Radio Mega 98.3 (Roku)
 https://www-youtube-com.translate.goog/watch?v=1aXIxjGqs6Yk&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88mhDqf2ZpFFUIcKIQ3-SCv2RoFNY79gjA-y-uO-ewnVTvBFLOrZoqzs7tzvDYb1SfWK2C9zRksuCWtFJ4ECjIBlqkXsOIesspHNPI6JRC1zC_MMgOX3YPj2XO4WFZuaB8rloHlaTHc8/s0/radio10-2020.png" group-title="Varios",238-Radio 10 (Roku)
 https://www-youtube-com.translate.goog/watch?v=dkEANC9Q3AY&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
@@ -483,7 +481,7 @@ https://www-youtube-com.translate.goog/watch?v=wVameoQY0pk&_x_tr_sl=auto&_x_tr_t
 https://www-youtube-com.translate.goog/watch?v=CDMErx5fpVI&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/LxXG-3oOpCykA27GwVGpcrWDmfe1KVvTy_69EjBBCkpUAtTjJhNGWmW0WVubfZjOEP8JQ5FO=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",237-Radio Mitre
 https://www-youtube-com.translate.goog/watch?v=jYRCKcoLNqw&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png" group-title="Varios",237-Diputados TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png" group-title="Varios",238-Diputados TV
 https://www-youtube-com.translate.goog/watch?v=YO4EAScWyQY&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="Varios",239-Playboy TV
 http://200.125.170.120:8000/play/a02c
@@ -499,6 +497,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14158
 http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 #EXTINF:0 tvg-logo="" group-title="Varios",260-FinRoku
 https://FinRoku
+
 
 
 
