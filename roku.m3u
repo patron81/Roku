@@ -5,6 +5,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 http://190.123.90.146:8000/play/a00p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png" group-title="Varios",3-America TV HD
 http://190.123.90.146:8000/play/a00l/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png" group-title="Varios",3a-America TV Web
+http://cord-cutter.net:8080/X5xRz0/944877/164881
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="Varios",4-Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Varios",5-TV Publica
@@ -469,5 +471,6 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",235-FinRoku
 https://FinRoku
+
 
 
