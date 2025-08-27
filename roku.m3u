@@ -12,7 +12,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Varios",6-TV Publica
 http://143.0.67.77:8000/play/a056/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/elnueve.png" group-title="Varios",7-Canal 9 
-http://190.123.90.146:8000/play/a00m/index.m3u8
+http://201.217.246.177:8000/play/a04h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",8-C5N
 http://143.0.67.77:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",9-C5N HD (Roku)
@@ -471,3 +471,4 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",236-FinRoku
 https://FinRoku
+
