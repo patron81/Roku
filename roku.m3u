@@ -4,21 +4,21 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="Varios",2-Telefe HD
 http://190.123.90.146:8000/play/a00p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png" group-title="Varios",3-America TV HD
-http://190.123.90.146:8000/play/a00l/index.m3u8
+http://143.0.67.77:8000/play/a055/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/america.png" group-title="Varios",4-America TV Web
 http://cord-cutter.net:8080/X5xRz0/944877/164881
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="Varios",5-Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Varios",6-TV Publica
-http://190.123.90.146:8000/play/a00q/index.m3u8
+http://143.0.67.77:8000/play/a056/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/elnueve.png" group-title="Varios",7-Canal 9 
 http://190.123.90.146:8000/play/a00m/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",8-C5N
-http://186.125.218.199:13000/play/a01p/index.m3u8
+http://143.0.67.77:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",9-C5N HD (Roku)
 https://www-youtube-com.translate.goog/watch?v=jTDk5CswBVk&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",10-TN 
-http://190.123.90.146:8000/play/a032/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",10-TN HD
+http://143.0.67.77:8000/play/a058/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png" group-title="Varios",11-LN+
 http://190.123.90.146:8000/play/a006/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png" group-title="Varios",12-LN+ HD
@@ -306,7 +306,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/54465
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/usa.png" group-title="Varios",153-USA
 http://190.123.90.146:8000/play/a01f/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/volver.png" group-title="Varios",154-Volver
-http://186.125.218.199:13000/play/a021/index.m3u8
+http://190.123.90.146:8000/play/a035/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/warner.png" group-title="Varios",155-Warner TV 
 http://ultra-premium-pro.xyz:8080/32654175/27062022/236
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/telemundointernacional.png" group-title="Varios",156-Telemundo Internacional
@@ -458,7 +458,7 @@ https://www-youtube-com.translate.goog/watch?v=YO4EAScWyQY&_x_tr_sl=auto&_x_tr_t
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="Varios",229-Playboy TV
 http://200.125.170.120:8000/play/a02c
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/venus.png" group-title="Varios",230-Venus
-http://200.125.170.120:8000/play/a04e
+http://143.0.67.77:8000/play/a033/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",231-Porn
 http://ultra-premium-pro.xyz:8080/32654175/27062022/14136
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",232-Erotic
@@ -471,5 +471,3 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",236-FinRoku
 https://FinRoku
-
-
