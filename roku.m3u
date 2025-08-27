@@ -127,10 +127,10 @@ http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9595
 http://netlevel.online:8080/AURELIO933/AQBWS/69495.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tigosports.png" group-title="Varios",64-Tigo Sports
 http://netlevel.online:8080/AURELIO933/AQBWS/56706.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports1.png" group-title="Varios",65-FS1 (MLS)
-http://ultra-premium-pro.xyz:8080/32654175/27062022/24026
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxdeportes.png" group-title="Varios",66-Fox Deportes (MLS)
-http://ultra-premium-pro.xyz:8080/32654175/27062022/243069
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports1.png" group-title="Varios",65-MLS
+https://la14hd.com/vivo/canales.php?stream=mls1es
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxdeportes.png" group-title="Varios",66-MLS 2
+https://streamtp11.com/global1.php?stream=mls1es
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="Varios",67-TUDN
 http://190.92.10.66:4000/play/a002/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="Varios",68-ESPN Deportes
@@ -471,4 +471,5 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",236-FinRoku
 https://FinRoku
+
 
