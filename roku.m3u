@@ -78,7 +78,7 @@ http://179.63.6.17:9000/play/a08c
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports2.png" group-title="Varios",39-DSports 2 HD
 http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9565
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports+.png" group-title="Varios",40-Dsports +
-http://netlevel.online:8080/AURELIO933/AQBWS/310535.m3u8
+http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports+.png" group-title="Varios",41-Dsports + HD
 http://netlevel.online:8080/AURELIO933/AQBWS/518959.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png" group-title="Varios",42-Fox Sports HD
@@ -471,3 +471,4 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",236-FinRoku
 https://FinRoku
+
