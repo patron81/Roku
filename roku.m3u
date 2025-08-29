@@ -92,11 +92,11 @@ http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports+.png" group-title="Varios",46-Dsports + HD
 http://netlevel.online:8080/AURELIO933/AQBWS/518959.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png" group-title="Varios",47-Fox Sports HD
-http://186.125.218.199:13000/play/a07j/index.m3u8
+http://143.0.67.77:8000/play/a07j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Varios",48-Fox Sports 2
-http://186.125.218.199:13000/play/a05c/index.m3u8
+http://143.0.67.77:8000/play/a05c/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="Varios",49-Fox Sports 3
-http://186.125.218.199:13000/play/a02t/index.m3u8
+http://143.0.67.77:8000/play/a02t/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Varios",50-ESPN
 http://190.102.246.93:9005/play/a02d
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Varios",51-ESPN SUR
@@ -112,7 +112,7 @@ http://190.102.246.93:9005/play/a02l
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Varios",56-ESPN 3 HD
 http://200.60.124.19:29000/play/a02e/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Varios",57-ESPN 3 LAT
-http://186.125.218.199:13000/play/a05b/index.m3u8
+http://143.0.67.77:8000/play/a05b/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="Varios",58-ESPN 4
 http://190.123.90.146:8000/play/a00e/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="Varios",59-ESPN 4 HD
@@ -130,7 +130,7 @@ http://45.175.139.194:8000/play/15
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/garagetv.png" group-title="Varios",65-Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/deportv.png" group-title="Varios",66-DeporTV
-http://186.125.218.199:13000/play/a06h/index.m3u8
+http://143.0.67.77:8000/play/a06h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/goltv.png" group-title="Varios",67-GOL TV
 http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9594
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/golplay.png" group-title="Varios",68-GOL TV Internacional
@@ -426,7 +426,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/59412
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F_ZpRdMQr1k4ZsY3Iwdxy-7WEquKzwylDTS91uei9rFJsUNo3HcYKSQ7zO8LylRTVi5MJ5qDOEoD9dc33hEcmQjHsUrw-ObgtRzCW39YKmym_ksW08YbRQ3917fKFo5Ap_kzDT9c4azPbn_4xDEy7PHWFVDRJbaL4M6-4BhAE6B57vKVHkUiTGax/s314/q.png" group-title="Varios",213-Quiero Musica
 http://190.123.90.146:8000/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cm.png" group-title="Varios",214-CM Canal de la Musica
-http://186.125.218.199:13000/play/a09n/index.m3u8
+http://143.0.67.77:8000/play/a09n/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/oldmusic.png" group-title="Varios",215-Old Music
 http://45.184.87.142:8000/play/a02y
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" group-title="Varios",216-Tierra Mia
@@ -491,7 +491,3 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",246-FinRoku
 https://FinRoku
-
-
-
-
