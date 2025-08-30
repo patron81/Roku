@@ -229,7 +229,7 @@ http://ultra-premium-pro.xyz:8080/movie/32654175/27062022/246247.mp4
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/film.png" group-title="Varios",111-Pelicula: El Justiciero 3
 http://ultra-premium-pro.xyz:8080/movie/32654175/27062022/71368.mkv
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/amchd.png" group-title="Varios",112-AMC
-http://ultra-premium-pro.xyz:8080/32654175/27062022/54469
+http://143.0.67.77:8000/play/a01z/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/amchd.png" group-title="Varios",113-AMC Oeste
 http://ultra-premium-pro.xyz:8080/32654175/27062022/104
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/a&e.png" group-title="Varios",114-A&E
@@ -237,7 +237,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/100
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/a&e.png" group-title="Varios",115-A&E HD
 http://143.0.67.77:8000/play/a05i/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/axn.png" group-title="Varios",116-AXN Este
-http://ultra-premium-pro.xyz:8080/32654175/27062022/107
+http://143.0.67.77:8000/play/a05f/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/axn.png" group-title="Varios",117-AXN Oeste
 http://ultra-premium-pro.xyz:8080/32654175/27062022/59479
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinelatino.png" group-title="Varios",118-Cine Latino
@@ -245,7 +245,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/110
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="Varios",119-Cinemax Este
 http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9635
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="Varios",120-Cinemax Oeste
-http://ultra-premium-pro.xyz:8080/32654175/27062022/54366
+http://143.0.67.77:8000/play/a04s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="Varios",121-Cinemax Sur
 http://ultra-premium-pro.xyz:8080/32654175/27062022/177
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="Varios",122-Cinecanal
@@ -261,7 +261,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/184
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/film&arts.png" group-title="Varios",127-Film & Arts
 http://ultra-premium-pro.xyz:8080/32654175/27062022/246
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/fx.png" group-title="Varios",128-FX
-http://ultra-premium-pro.xyz:8080/32654175/27062022/124
+http://143.0.67.77:8000/play/a02v/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/golden.png" group-title="Varios",129-Golden 
 http://ultra-premium-pro.xyz:8080/32654175/27062022/127
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenedge.png" group-title="Varios",130-Golden Edge
@@ -277,7 +277,7 @@ http://200.115.96.66:4000/play/a01z/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Varios",135-HBO Oeste
 http://ultra-premium-pro.xyz:8080/32654175/27062022/139
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="Varios",136-HBO 2 Este
-http://ultra-premium-pro.xyz:8080/32654175/27062022/132
+http://143.0.67.77:8000/play/a06q/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="Varios",137-HBO 2 Oeste
 http://ultra-premium-pro.xyz:8080/32654175/27062022/131
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="Varios",138-HBO+
@@ -287,17 +287,17 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/147
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="Varios",140-HBO Mundi
 http://ultra-premium-pro.xyz:8080/32654175/27062022/142
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="Varios",141-HBO Signature
-http://ultra-premium-pro.xyz:8080/32654175/27062022/54457
+http://143.0.67.77:8000/play/a02c/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="Varios",142-HBO Xtreme
-http://ultra-premium-pro.xyz:8080/32654175/27062022/156
+http://143.0.67.77:8000/play/a02b/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="Varios",143-HBO Family
 http://ultra-premium-pro.xyz:8080/32654175/27062022/135
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="Varios",144-Paramount Network
-http://ultra-premium-pro.xyz:8080/32654175/27062022/191
+http://143.0.67.77:8000/play/a02y/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png" group-title="Varios",145-Sony Channel
-http://ultra-premium-pro.xyz:8080/32654175/27062022/199
+http://143.0.67.77:8000/play/a05d/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/space.png" group-title="Varios",146-Space Este
-http://ultra-premium-pro.xyz:8080/32654175/27062022/202
+http://143.0.67.77:8000/play/a02w/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/space.png" group-title="Varios",147-Space Oeste
 http://ultra-premium-pro.xyz:8080/32654175/27062022/203
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/star.png" group-title="Varios",148-Star Channel
@@ -315,7 +315,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/170
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="Varios",154-TNT Series HD
 http://143.0.67.77:8000/play/a07e/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/universaltv.png" group-title="Varios",155-Universal TV HD
-http://ultra-premium-pro.xyz:8080/32654175/27062022/54462
+http://143.0.67.77:8000/play/a05j/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="Varios",156-Universal Cinema
 http://ultra-premium-pro.xyz:8080/32654175/27062022/54464
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Varios",157-Universal Premiere
@@ -498,4 +498,5 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",246-FinRoku
 https://FinRoku
+
 
