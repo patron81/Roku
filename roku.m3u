@@ -22,7 +22,7 @@ http://143.0.67.77:8000/play/a04h/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",11-C5N
 http://143.0.67.77:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",12-C5N HD (Roku)
-https://www-youtube-com.translate.goog/watch?v=jTDk5CswBVk&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+https://www-youtube-com.translate.goog/watch?v=Uo-ziJhrTvI&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",13-TN
 http://143.0.67.77:8000/play/a058/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",14-TN HD
@@ -493,3 +493,4 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",247-FinRoku
 https://FinRoku
+
