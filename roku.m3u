@@ -89,7 +89,7 @@ http://179.63.6.17:9000/play/a08c
 http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports+.png" group-title="Varios",45-Dsports +
 http://ultra-premium-pro.xyz:8080/32654175/27062022/468
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png" group-title="Varios",46-Fox Sports HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsportshd.png" group-title="Varios",46-Fox Sports
 http://143.0.67.77:8000/play/a07j/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Varios",47-Fox Sports 2
 http://143.0.67.77:8000/play/a05c/index.m3u8
@@ -301,7 +301,7 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/218
 http://ultra-premium-pro.xyz:8080/32654175/27062022/230
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="Varios",151-TLC
 http://ultra-premium-pro.xyz:8080/32654175/27062022/447
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="Varios",152-TNT Este
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="Varios",152-TNT
 http://ultra-premium-pro.xyz:8080/32654175/27062022/166
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="Varios",153-TNT Series
 http://ultra-premium-pro.xyz:8080/32654175/27062022/170
@@ -489,4 +489,5 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",245-FinRoku
 https://FinRoku
+
 
