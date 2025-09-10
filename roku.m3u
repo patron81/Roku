@@ -139,6 +139,8 @@ http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9594
 http://195.66.210.10:80/Noelia2024/FXXNQ/51263
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/golperu.png" group-title="Varios",70-GOL Peru
 http://netlevel.online:8080/AURELIO933/AQBWS/69495.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/golperu.png" group-title="Varios",70-Movistar Deportes
+http://netlevel.online:8080/AURELIO933/AQBWS/439746.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tigosports.png" group-title="Varios",71-Tigo Sports
 http://netlevel.online:8080/AURELIO933/AQBWS/56706.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports1.png" group-title="Varios",72-MLS  (Roku)
@@ -489,5 +491,6 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",245-FinRoku
 https://FinRoku
+
 
 
