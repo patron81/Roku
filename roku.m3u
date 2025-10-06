@@ -24,17 +24,17 @@ http://201.217.246.177:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="Varios",12-C5N HD (Roku)
 https://www-youtube-com.translate.goog/watch?v=Uo-ziJhrTvI&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",13-TN
-http://186.148.196.82:8001/play/a009
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",14-TN HD
 http://201.217.246.177:8000/play/a058/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tn.png" group-title="Varios",14-TN (Roku)
+https://www-youtube-com.translate.goog/watch?v=cb12KmMMDJA&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png" group-title="Varios",15-LN+
-http://200.55.244.75:8000/play/a01s/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png" group-title="Varios",16-LN+ HD
 http://201.217.246.177:8000/play/a01s/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/ln.png" group-title="Varios",16-LN+ (Roku)
+https://www-youtube-com.translate.goog/watch?v=hexOV2Z0jvA&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/a24.png" group-title="Varios",17-A24
 http://201.217.246.177:8000/play/a01o/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/a24.png" group-title="Varios",18-A24 HD
-http://200.55.244.75:8000/play/a01o/index.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/a24.png" group-title="Varios",18-A24 (Roku)
+https://www-youtube-com.translate.goog/watch?v=ArKbAx1K-2U&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/canal26.png" group-title="Varios",19-Canal 26
 http://201.217.246.177:8000/play/a01r/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/cronicatv.png" group-title="Varios",20-Cronica TV
@@ -43,8 +43,8 @@ http://200.55.244.75:8000/play/a01q/index.m3u8
 http://201.217.246.177:8000/play/a01q/index.m3u8
 #EXTINF:0 tvg-logo="https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Varios",22-IP Noticias
 http://190.123.90.146:8000/play/a01u/index.m3u8
-#EXTINF:0 tvg-logo="https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Varios",23-IP Noticias HD
-https://sae13.playlist.ttvnw.net/v1/playlist/CpwH11Dkjnv9NW-mAFJ4qTeunVQid36IiNkftMyM6YnwxTx27fL9WxgShY5WeaAHW1s5wsTu7EM4MVvzUplLDz_asPOXxVL3asq9myPlm9f9NIy7gwKw_z7CAS8i11zY81AJzdCivTMkcS2qYKQqKXpy-pGN3sCfDpTSLyIb2-o91Z6VkhkmI37xQNfQxxo-xWqo-qjMEc-yWJWpbHrk62D2DBKZ6CJDoVlGI_kIaq8ss0CHxV08UxnvMtTK14b75TId07N4colUGqPeJyqlnff1WYSpOuy1CNDVvQRgohXgPFNWOj76rNTFBvb8saIe2wG1p0-2DbJ_USWLwtTTsDsCn9IJ7ITohkCk-I6L3huqz7dLvM8tMPlzpT0JS13h7fz4QEHnixDSjXG_CQTkcKL-HLKBuoUbNquc8FByQhpeZmU2KhFi61DKXRer0wrgnteKhFStcuPKsiOEO9Rj_6wlM1JZUGAuPfQ1ww05rxejBzXCUxAO_3FcLVSPVwBJ3a_LmsjlKBIzthT7tbXYplnZFB2GCUMgXBEhpkDVA9nQbXX0LvI46PX2PEVYqSbAXXzkHRwJcSTpEdWYbwYps3clcVy3wUQgALftlePMmXYiMaGoedcmrX6PrExAhef3g39P8CMq_oleKBC660AW46MW3efreIajlfyJxC1FP5ZXc11c6AFYKy9arohLw6LhOnO7MWPuIDIX54RRT3dhHNJ54W_AMVkwjPHSjJfwFLuWtoTIBjiLQNygvOM4TBY8O1365pJHM-DPwaFu_j7Zyq-ZGXOmIcqpL0NNHh5jKwIA6ofPzh6-G6z1Fo28oD2JChr_VrQxN9QvEyM_AeHVn7pbpTIzy_rlPm-sdsI5OW8tiiQGg0SF5kJ6rgXl3eg7mG4rQJr8v5tcfmSwoG1Btr_shrSmrMztTzBdf6aokl8Y-rONpiWhTtxvKjivkDgdHt0Mjh9x4IvdYU_HQPRK6bTd1_NIrXwFZtz4eNwkewncakXNzD3MtzgyuBjyBo_B2sbarBG72ltnrCffGmsqkqrRs0WeHaOM3mBXxKBYt4RGqY-pyKuY9X4CL0D42pc7X2SIkQYOHgMm4YvGrvM7Qd15Oy5uY41U-2DJNNYjvYXKWJxEXAbWtUOPQ3DxpEf88RZxLKAKY9XaWhP1sW5l6pAJ_OqH-kIOxYUQx6EDxM05vilJ7LL80HcwBrJE6PBz2ZWB_F6bnQgaVF_KI1NOGgyoUyobyc6tBuO3ySUgASoJdXMtZWFzdC0yMPoM.m3u8
+#EXTINF:0 tvg-logo="https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Varios",23-IP Noticias (Roku)
+https://www-youtube-com.translate.goog/watch?v=yY334SFn0Co&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Canal_10_General_Roca_%28Logo_2016_-_2%29.png/revision/latest?cb=20210823130814&path-prefix=ess" group-title="Varios",24- Canal 10 Rio Negro (Roku)
 https://arcast.net/c10rionegro/index.php
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/bravo.png" group-title="Varios",25-Bravo TV
@@ -81,8 +81,8 @@ http://179.63.6.17:9000/play/a07y
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png" group-title="Varios",41-DSports
 http://200.60.124.19:29000/play/a081/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png" group-title="Varios",42-DSports HD
-http://netlevel.online:8080/AURELIO933/AQBWS/158511.m3u8
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png" group-title="Varios",42-DSports (Roku)
+https://la14hd.com/vivo/canales.php?stream=dsports
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports2.png" group-title="Varios",43-DSports 2
 http://179.63.6.17:9000/play/a08c
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports2.png" group-title="Varios",44-DSports 2 HD
@@ -471,3 +471,4 @@ http://ultra-premium-pro.xyz:8080/32654175/27062022/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",236-FinRoku
 https://FinRoku
+
