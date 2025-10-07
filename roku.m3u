@@ -76,7 +76,7 @@ http://201.217.246.177:8000/play/a02s/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="Varios",38-TyC Sports HD
 http://45.5.151.62:8000/play/a005/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="Varios",39-TyC Sports Internacional
-http://179.63.6.17:9000/play/a07y
+http://195.66.210.10:80/Noelia2024/FXXNQ/454718
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png" group-title="Varios",40-DSports LAT
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/directvsports.png" group-title="Varios",41-DSports
@@ -473,3 +473,4 @@ http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",237-FinRoku
 https://FinRoku
+
