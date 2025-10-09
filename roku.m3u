@@ -215,263 +215,253 @@ http://185.189.225.150:85/Eurosport2/index.m3u8
 http://212.102.60.231:80/NBA_TV/index.m3u8
 #EXTINF:0 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/c/a/z/caza-pesca.jpg" group-title="Varios",108-Caza y Pesca
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/12420
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/film.png" group-title="Varios",109-Pelicula: Cuando mama se convierte en asesina
-http://ultra-premium-pro.xyz:8080/movie/972909963tv/5qt9r6/254182.mp4
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/film.png" group-title="Varios",110-Pelicula: Entre las sombras
-http://ultra-premium-pro.xyz:8080/movie/972909963tv/5qt9r6/253493.mp4
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/film.png" group-title="Varios",111-Pelicula: Cementerio de los Huesos
-http://ultra-premium-pro.xyz:8080/movie/972909963tv/5qt9r6/246247.mp4
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/film.png" group-title="Varios",112-Pelicula: El Justiciero 3
-http://ultra-premium-pro.xyz:8080/movie/972909963tv/5qt9r6/71368.mkv
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/amchd.png" group-title="Varios",113-AMC
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/amchd.png" group-title="Varios",109-AMC
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/104
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/a&e.png" group-title="Varios",114-A&E
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/a&e.png" group-title="Varios",110-A&E
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/100
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/axn.png" group-title="Varios",115-AXN
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/axn.png" group-title="Varios",111-AXN
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/59479
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinelatino.png" group-title="Varios",116-Cine Latino
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinelatino.png" group-title="Varios",112-Cine Latino
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/110
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="Varios",117-Cinemax
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="Varios",113-Cinemax
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/177
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="Varios",118-Cinecanal
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="Varios",114-Cinecanal
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/54468
-#EXTINF:0 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="Varios",119-Cine Premium
+#EXTINF:0 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="Varios",115-Cine Premium
 http://190.102.246.93:9005/play/a036
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es" group-title="Varios",120-DHE HD
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/DHE2019.png/revision/latest?cb=20210514013226&path-prefix=es" group-title="Varios",116-DHE HD
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/121
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/europaeuropa.png" group-title="Varios",121-Europa Europa
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/europaeuropa.png" group-title="Varios",117-Europa Europa
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/187
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/eurochannel.png" group-title="Varios",122-EuroChannel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/eurochannel.png" group-title="Varios",118-EuroChannel
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/184
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/film&arts.png" group-title="Varios",123-Film & Arts
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/film&arts.png" group-title="Varios",119-Film & Arts
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/246
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/fx.png" group-title="Varios",124-FX
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/fx.png" group-title="Varios",120-FX
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/124
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/golden.png" group-title="Varios",125-Golden 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/golden.png" group-title="Varios",121-Golden 
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/127
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenedge.png" group-title="Varios",126-Golden Edge
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenedge.png" group-title="Varios",122-Golden Edge
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/65218
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier.png" group-title="Varios",127-Golden Premier
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier.png" group-title="Varios",123-Golden Premier
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/65223
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier2.png" group-title="Varios",128-Golden Premier 2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenpremier2.png" group-title="Varios",124-Golden Premier 2
 http://179.63.6.17:9000/play/a08r
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenplus.png" group-title="Varios",129-Golden Plus
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/goldenplus.png" group-title="Varios",125-Golden Plus
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/65219
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Varios",130-HBO Este
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Varios",126-HBO Este
 http://200.115.96.66:4000/play/a01z/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Varios",131-HBO Oeste
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Varios",127-HBO Oeste
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/139
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="Varios",132-HBO 2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="Varios",128-HBO 2
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/131
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="Varios",133-HBO+
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="Varios",129-HBO+
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/146
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="Varios",134-HBO Pop
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbopop.png" group-title="Varios",130-HBO Pop
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/147
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="Varios",135-HBO Mundi
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="Varios",131-HBO Mundi
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/142
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="Varios",136-HBO Signature
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="Varios",132-HBO Signature
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/153
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="Varios",137-HBO Xtreme
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="Varios",133-HBO Xtreme
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/156
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="Varios",138-HBO Family
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="Varios",134-HBO Family
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/135
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="Varios",139-Paramount Network
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="Varios",135-Paramount Network
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/54472
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png" group-title="Varios",140-Sony Channel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/sonychannel.png" group-title="Varios",136-Sony Channel
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/201
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/space.png" group-title="Varios",141-Space Este
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/space.png" group-title="Varios",137-Space Este
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/202
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/space.png" group-title="Varios",142-Space Oeste
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/space.png" group-title="Varios",138-Space Oeste
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/203
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/star.png" group-title="Varios",143-Star Channel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/star.png" group-title="Varios",139-Star Channel
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/162
-#EXTINF:0 tvg-logo="https://static.epg.best/us/Sudiouniversal.us.png" group-title="Varios",144-Studio Universal
+#EXTINF:0 tvg-logo="https://static.epg.best/us/Sudiouniversal.us.png" group-title="Varios",140-Studio Universal
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/218
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="Varios",145-TCM
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="Varios",141-TCM
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/230
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="Varios",146-TLC
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="Varios",142-TLC
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/447
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="Varios",147-TNT
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="Varios",143-TNT
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/166
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="Varios",148-TNT Series
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="Varios",144-TNT Series
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/170
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="Varios",149-TNT Series HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="Varios",145-TNT Series HD
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/54450
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/universaltv.png" group-title="Varios",150-Universal TV HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/universaltv.png" group-title="Varios",146-Universal TV HD
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/54462
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="Varios",151-Universal Cinema
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="Varios",147-Universal Cinema
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/54464
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Varios",152-Universal Premiere
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Varios",148-Universal Premiere
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/54463
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="Varios",153-Universal Reality HD
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="Varios",149-Universal Reality HD
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/54467
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&s" group-title="Varios",154-Universal Crime HD
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&s" group-title="Varios",150-Universal Crime HD
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/54466
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="Varios",155-Universal Comedy
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="Varios",151-Universal Comedy
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/54465
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/usa.png" group-title="Varios",156-USA
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/usa.png" group-title="Varios",152-USA
 http://201.217.246.177:8000/play/a023/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/volver.png" group-title="Varios",157-Volver
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/volver.png" group-title="Varios",153-Volver
 http://201.217.246.177:8000/play/a021/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/warner.png" group-title="Varios",158-Warner TV 
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/warner.png" group-title="Varios",154-Warner TV 
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/236
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telemundointernacional.png" group-title="Varios",159-Telemundo Internacional
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telemundointernacional.png" group-title="Varios",155-Telemundo Internacional
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/605
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Large.VTV-2016.png.19c40a29ffa87b697dd3b20327bace7d.png/revision/latest/scale-to-width-down/250?cb=20211003003101&path-prefix=es" group-title="Varios",160-Ve Plus
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Large.VTV-2016.png.19c40a29ffa87b697dd3b20327bace7d.png/revision/latest/scale-to-width-down/250?cb=20211003003101&path-prefix=es" group-title="Varios",156-Ve Plus
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/23181
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/galavision.png" group-title="Varios",161-Galavision
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/galavision.png" group-title="Varios",157-Galavision
 http://tvmate.icu:8080/vNay0H/219352/58770
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/univision.png" group-title="Varios",162-Univision
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/univision.png" group-title="Varios",158-Univision
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/68658
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/holatv.png" group-title="Varios",163-Hola TV
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/holatv.png" group-title="Varios",159-Hola TV
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/630
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/glitz.png" group-title="Varios",164-Glitz
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/glitz.png" group-title="Varios",160-Glitz
 http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9794
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/pasiones.png" group-title="Varios",165-Pasiones
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/pasiones.png" group-title="Varios",161-Pasiones
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/341
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/azcorazon.png" group-title="Varios",166-Corazon
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/azcorazon.png" group-title="Varios",162-Corazon
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/24892
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lasestrellas.png" group-title="Varios",167-Las Estrellas
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lasestrellas.png" group-title="Varios",163-Las Estrellas
 http://190.102.246.93:9005/play/a00u
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tvazteca.png" group-title="Varios",168-TV Azteca
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/tvazteca.png" group-title="Varios",164-TV Azteca
 http://190.102.246.93:9005/play/a02y
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/tve-2010.png" group-title="Varios",169-TVE
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/tve-2010.png" group-title="Varios",165-TVE
 http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/8248
-#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/24h.png" group-title="Varios",170-24 horas
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/24h.png" group-title="Varios",166-24 horas
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/12340
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="Varios",171-Antena 3
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/antena3.png" group-title="Varios",167-Antena 3
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/618
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/mega.png" group-title="Varios",172-Mega
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/mega.png" group-title="Varios",168-Mega
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/12406
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la1.png" group-title="Varios",173-La 1
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la1.png" group-title="Varios",169-La 1
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/12334
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la2.png" group-title="Varios",174-La 2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/la2.png" group-title="Varios",170-La 2
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/35227
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cuatro.png" group-title="Varios",175-Cuatro
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cuatro.png" group-title="Varios",171-Cuatro
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/12331
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telecinco.png" group-title="Varios",176-Telecinco
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telecinco.png" group-title="Varios",172-Telecinco
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/236487
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lasexta.png" group-title="Varios",177-La Sexta
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lasexta.png" group-title="Varios",173-La Sexta
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/236489
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Varios",178-Star TVE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Varios",174-Star TVE
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/59556
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-rL0kaTrRF4Q/X8-4dBU62UI/AAAAAAAA7js/XNBF3OuJa-kQQ67tuYSGgfhlNiWCPdaXwCLcBGAsYHQ/s120/a3series-2020.png" group-title="Varios",179-A3 Series
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-rL0kaTrRF4Q/X8-4dBU62UI/AAAAAAAA7js/XNBF3OuJa-kQQ67tuYSGgfhlNiWCPdaXwCLcBGAsYHQ/s120/a3series-2020.png" group-title="Varios",175-A3 Series
 http://190.102.246.93:9005/play/a00p
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/gourmet.png" group-title="Varios",180-El Gourmet
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/gourmet.png" group-title="Varios",176-El Gourmet
 http://201.217.246.177:8000/play/a06w/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="Varios",181-HGTV
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="Varios",177-HGTV
 http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9819
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/maschic.png" group-title="Varios",182-Mas Chic
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/maschic.png" group-title="Varios",178-Mas Chic
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/623
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="Varios",183-Lifetime
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="Varios",179-Lifetime
 http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/9703
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/history.png" group-title="Varios",184-History Channel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/history.png" group-title="Varios",180-History Channel
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/431
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Varios",185-H2
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/h2.png" group-title="Varios",181-H2
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/54482
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="Varios",186-Nat Geo
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="Varios",182-Nat Geo
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/440
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="Varios",187-Nat Geo Wild
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="Varios",183-Nat Geo Wild
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/445
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeomundo.png" group-title="Varios",188-Nat Geo Mundo
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/natgeomundo.png" group-title="Varios",184-Nat Geo Mundo
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/444
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="Varios",189-Animal Planet
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="Varios",185-Animal Planet
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/402
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lovenature.png" group-title="Varios",190-Love Nature
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/lovenature.png" group-title="Varios",186-Love Nature
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/451
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/sunchannel.png" group-title="Varios",191-Sun Channel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/sunchannel.png" group-title="Varios",187-Sun Channel
 http://190.102.246.93:9005/play/a01j
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/e.png" group-title="Varios",192-E!
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/e.png" group-title="Varios",188-E!
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/627
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="Varios",193-Discovery Channel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="Varios",189-Discovery Channel
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/407
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="Varios",194-Discovery Science
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="Varios",190-Discovery Science
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/414
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryh&h.png" group-title="Varios",195-Discovery H&H
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryh&h.png" group-title="Varios",191-Discovery H&H
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/410
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="Varios",196-Discovery World
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="Varios",192-Discovery World
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/423
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoverytheater.png" group-title="Varios",197-Discovery Theather
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoverytheater.png" group-title="Varios",193-Discovery Theather
 http://201.217.246.177:8000/play/a02z/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryid.png" group-title="Varios",198-Discovery ID
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryid.png" group-title="Varios",194-Discovery ID
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/437
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="Varios",199-Discovery Turbo
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="Varios",195-Discovery Turbo
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/420
-#EXTINF:0 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=PBSK&providerId=DISCOVERY_FAMILY&sourceType=colorHybrid" group-title="Varios",200-Discovery Familia
+#EXTINF:0 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?productId=PBSK&providerId=DISCOVERY_FAMILY&sourceType=colorHybrid" group-title="Varios",196-Discovery Familia
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/23415
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="Varios",201-Comedy Central
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="Varios",197-Comedy Central
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/242
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/htv.png" group-title="Varios",202-HTV
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/htv.png" group-title="Varios",198-HTV
 http://tv.zeuspro.xyz:8080/NersMa/gAWuhp6ffN/8309
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/musictop.png" group-title="Varios",203-Music Top
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/musictop.png" group-title="Varios",199-Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telehit.png" group-title="Varios",204-Telehit
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telehit.png" group-title="Varios",200-Telehit
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/59412
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F_ZpRdMQr1k4ZsY3Iwdxy-7WEquKzwylDTS91uei9rFJsUNo3HcYKSQ7zO8LylRTVi5MJ5qDOEoD9dc33hEcmQjHsUrw-ObgtRzCW39YKmym_ksW08YbRQ3917fKFo5Ap_kzDT9c4azPbn_4xDEy7PHWFVDRJbaL4M6-4BhAE6B57vKVHkUiTGax/s314/q.png" group-title="Varios",205-Quiero Musica
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5F_ZpRdMQr1k4ZsY3Iwdxy-7WEquKzwylDTS91uei9rFJsUNo3HcYKSQ7zO8LylRTVi5MJ5qDOEoD9dc33hEcmQjHsUrw-ObgtRzCW39YKmym_ksW08YbRQ3917fKFo5Ap_kzDT9c4azPbn_4xDEy7PHWFVDRJbaL4M6-4BhAE6B57vKVHkUiTGax/s314/q.png" group-title="Varios",201-Quiero Musica
 http://201.217.246.177:8000/play/a02n/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cm.png" group-title="Varios",206-CM Canal de la Musica
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cm.png" group-title="Varios",202-CM Canal de la Musica
 http://45.5.151.62:8000/play/a050/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/oldmusic.png" group-title="Varios",207-Old Music
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/oldmusic.png" group-title="Varios",203-Old Music
 http://45.184.87.142:8000/play/a02y
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" group-title="Varios",208-Tierra Mia
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" group-title="Varios",204-Tierra Mia
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",209-Stingray Concerts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",205-Stingray Concerts
 http://190.102.246.93:9005/play/a02t
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",210-Karaoke Stingray
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",206-Karaoke Stingray
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="Varios",211-CNN Esp
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="Varios",207-CNN Esp
 http://201.217.246.177:8000/play/a054/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telesur.png" group-title="Varios",212-Telesur HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/telesur.png" group-title="Varios",208-Telesur HD
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/250996
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hispantv.png" group-title="Varios",213-HispanTV
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/hispantv.png" group-title="Varios",209-HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/russiatoday.png" group-title="Varios",214-RT HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/russiatoday.png" group-title="Varios",210-RT HD
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dw.png" group-title="Varios",215-DW
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/dw.png" group-title="Varios",211-DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/rai.png" group-title="Varios",216-Rai
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/rai.png" group-title="Varios",212-Rai
 https://streamcdnc3-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="Varios",217-CNN USA HD
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/cnn.png" group-title="Varios",213-CNN USA HD
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxnews.png" group-title="Varios",218-Fox News Channel
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxnews.png" group-title="Varios",214-Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/abcnews.png" group-title="Varios",219-ABC News
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/abcnews.png" group-title="Varios",215-ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/nbcnews.png" group-title="Varios",220-NBC News
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/nbcnews.png" group-title="Varios",216-NBC News
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/23965
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/msnbc.png" group-title="Varios",221-MSNBC
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/msnbc.png" group-title="Varios",217-MSNBC
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/23637
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/aljazeera.png" group-title="Varios",222-Al Jazeera
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/aljazeera.png" group-title="Varios",218-Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG" group-title="Varios",223-La 100
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG" group-title="Varios",219-La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
-#EXTINF:0 tvg-logo="https://media.minutouno.com/p/e509861f410385310bb4ce776314394a/adjuntos/239/imagenes/040/704/0040704024/radio-megajpg.jpg" group-title="Varios",224-Radio Mega 98.3 (Roku)
+#EXTINF:0 tvg-logo="https://media.minutouno.com/p/e509861f410385310bb4ce776314394a/adjuntos/239/imagenes/040/704/0040704024/radio-megajpg.jpg" group-title="Varios",220-Radio Mega 98.3 (Roku)
 https://www-youtube-com.translate.goog/watch?v=1aXIxjGqs6Yk&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88mhDqf2ZpFFUIcKIQ3-SCv2RoFNY79gjA-y-uO-ewnVTvBFLOrZoqzs7tzvDYb1SfWK2C9zRksuCWtFJ4ECjIBlqkXsOIesspHNPI6JRC1zC_MMgOX3YPj2XO4WFZuaB8rloHlaTHc8/s0/radio10-2020.png" group-title="Varios",225-Radio 10 (Roku)
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88mhDqf2ZpFFUIcKIQ3-SCv2RoFNY79gjA-y-uO-ewnVTvBFLOrZoqzs7tzvDYb1SfWK2C9zRksuCWtFJ4ECjIBlqkXsOIesspHNPI6JRC1zC_MMgOX3YPj2XO4WFZuaB8rloHlaTHc8/s0/radio10-2020.png" group-title="Varios",221-Radio 10 (Roku)
 https://www-youtube-com.translate.goog/watch?v=dkEANC9Q3AY&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
-#EXTINF:0 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/836/pop-1015-fm.f58421ff.png" group-title="Varios",226-Radio Pop (Roku)
+#EXTINF:0 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/836/pop-1015-fm.f58421ff.png" group-title="Varios",222-Radio Pop (Roku)
 https://www-youtube-com.translate.goog/watch?v=wVameoQY0pk&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/_7WgG95XJMGiqohjAOBYpFx5pYFJ19FuiQs7TtlHdzwQlfnvxB8paiVS_IEHJvBZoA" group-title="Varios",227-Radio Cadena 3  (Roku)
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/_7WgG95XJMGiqohjAOBYpFx5pYFJ19FuiQs7TtlHdzwQlfnvxB8paiVS_IEHJvBZoA" group-title="Varios",223-Radio Cadena 3  (Roku)
 https://www-youtube-com.translate.goog/watch?v=CDMErx5fpVI&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/LxXG-3oOpCykA27GwVGpcrWDmfe1KVvTy_69EjBBCkpUAtTjJhNGWmW0WVubfZjOEP8JQ5FO=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",228-Radio Mitre  (Roku)
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/LxXG-3oOpCykA27GwVGpcrWDmfe1KVvTy_69EjBBCkpUAtTjJhNGWmW0WVubfZjOEP8JQ5FO=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",224-Radio Mitre  (Roku)
 https://www-youtube-com.translate.goog/watch?v=jYRCKcoLNqw&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png" group-title="Varios",229-Diputados TV  (Roku)
-https://www-youtube-com.translate.goog/watch?v=HoEZ68EF19g&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="Varios",230-Playboy TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png" group-title="Varios",225-Diputados TV  (Roku)
+https://www-youtube-com.translate.goog/watch?v=YO4EAScWyQY&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="Varios",226-Playboy TV
 http://200.125.170.120:8000/play/a02c
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/venus.png" group-title="Varios",231-Venus
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/venus.png" group-title="Varios",227-Venus
 http://200.55.244.75:8000/play/a033/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",232-Porn
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",228-Porn
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14136
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",233-Erotic
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",229-Erotic
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14141
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",234-XXX
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",230-XXX
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14158
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",235-XXX
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",231-XXX
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14194
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",236-Webcam
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",232-Webcam
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
-#EXTINF:0 tvg-logo="" group-title="Varios",237-FinRoku
+#EXTINF:0 tvg-logo="" group-title="Varios",233-FinRoku
 https://FinRoku
-
-
