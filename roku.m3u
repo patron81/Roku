@@ -44,7 +44,7 @@ http://201.217.246.177:8000/play/a01q/index.m3u8
 #EXTINF:0 tvg-logo="https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Varios",22-IP Noticias
 http://190.123.90.146:8000/play/a01u/index.m3u8
 #EXTINF:0 tvg-logo="https://img.ipnoticias.ar/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png?itok=gzTn1Jjd" group-title="Varios",23-IP Noticias (Roku)
-https://www-youtube-com.translate.goog/watch?v=ECFbTfcv_yE&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+https://youtu.be/ECFbTfcv_yE
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Canal_10_General_Roca_%28Logo_2016_-_2%29.png/revision/latest?cb=20210823130814&path-prefix=ess" group-title="Varios",24- Canal 10 Rio Negro (Roku)
 https://arcast.net/c10rionegro/index.php
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/bravo.png" group-title="Varios",25-Bravo TV
@@ -432,17 +432,17 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG" group-title="Varios",216-La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
 #EXTINF:0 tvg-logo="https://media.minutouno.com/p/e509861f410385310bb4ce776314394a/adjuntos/239/imagenes/040/704/0040704024/radio-megajpg.jpg" group-title="Varios",217-Radio Mega 98.3 (Roku)
-https://www-youtube-com.translate.goog/watch?v=1aXIxjGqs6Yk&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+https://youtu.be/1aXIxjGqs6Yk
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88mhDqf2ZpFFUIcKIQ3-SCv2RoFNY79gjA-y-uO-ewnVTvBFLOrZoqzs7tzvDYb1SfWK2C9zRksuCWtFJ4ECjIBlqkXsOIesspHNPI6JRC1zC_MMgOX3YPj2XO4WFZuaB8rloHlaTHc8/s0/radio10-2020.png" group-title="Varios",218-Radio 10 (Roku)
-https://www-youtube-com.translate.goog/watch?v=dkEANC9Q3AY&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+https://youtu.be/dkEANC9Q3AY
 #EXTINF:0 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/836/pop-1015-fm.f58421ff.png" group-title="Varios",219-Radio Pop (Roku)
-https://www-youtube-com.translate.goog/watch?v=wVameoQY0pk&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+https://youtu.be/wVameoQY0pk
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/_7WgG95XJMGiqohjAOBYpFx5pYFJ19FuiQs7TtlHdzwQlfnvxB8paiVS_IEHJvBZoA" group-title="Varios",220-Radio Cadena 3  (Roku)
-https://www-youtube-com.translate.goog/watch?v=CDMErx5fpVI&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+https://youtu.be/CDMErx5fpVI
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/LxXG-3oOpCykA27GwVGpcrWDmfe1KVvTy_69EjBBCkpUAtTjJhNGWmW0WVubfZjOEP8JQ5FO=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",221-Radio Mitre  (Roku)
-https://www-youtube-com.translate.goog/watch?v=jYRCKcoLNqw&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+https://youtu.be/jYRCKcoLNqw
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_Diputados_TV.png" group-title="Varios",222-Diputados TV  (Roku)
-https://www-youtube-com.translate.goog/watch?v=YO4EAScWyQY&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+https://youtu.be/YO4EAScWyQY
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/playboy.png" group-title="Varios",223-Playboy TV
 http://200.125.170.120:8000/play/a02c
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/venus.png" group-title="Varios",224-Venus
@@ -459,3 +459,4 @@ http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",230-FinRoku
 https://FinRoku
+
