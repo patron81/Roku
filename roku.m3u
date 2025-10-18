@@ -94,7 +94,7 @@ http://45.5.151.62:8000/play/a003/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="Varios",47-Fox Sports 3
 http://45.5.151.62:8000/play/a004/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Varios",48-ESPN
-http://190.102.246.93:9005/play/a02d
+http://201.217.246.166:8000/play/a099/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Varios",49-ESPN SUR
 http://190.102.246.93:9005/play/a01w
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Varios",50-ESPN LAT
@@ -104,7 +104,7 @@ https://la14hd.com/vivo/canales.php?stream=espnplus1
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Varios",52-ESPN Premium Chile
 http://190.102.246.93:9005/play/a00x
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Varios",53-ESPN 2
-http://190.102.246.93:9005/play/a02n
+http://201.217.246.166:8000/play/a098/index.m3u8
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Varios",54-ESPN 2 HD
 http://190.102.246.93:9005/play/a026
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Varios",55-ESPN 2 SUR
@@ -457,5 +457,6 @@ http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14194
 https://envivo.cotesma.coop/stream/s_0/stream_0.m3u8
 #EXTINF:0 tvg-logo="" group-title="Varios",229-FinRoku
 https://FinRoku
+
 
 
