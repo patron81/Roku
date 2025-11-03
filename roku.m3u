@@ -408,7 +408,7 @@ http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/402
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ghCNUD0AkoQx3dlys3micAPg72urRlbvYu98GSBtY5ImdZzx-Nutuf4UILM5AlH54k1VDmfvpGI=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",204-Love Nature
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/451
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sun_Channel_Logo_2022.webp/500px-Sun_Channel_Logo_2022.webp.png" group-title="Varios",205-Sun Channel
-http://190.102.246.93:9005/play/a01j
+http://200.229.147.142:8000/play/a02g/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="Varios",206-E!
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/627
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvgH2yKd9DZWQki7OsGADPNqnfJZuoJSLCA&s" group-title="Varios",207-Discovery Channel
@@ -445,71 +445,73 @@ http://45.5.151.62:8000/play/a050/index.m3u8
 http://45.184.87.142:8000/play/a02y
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYNna0ndvmzxCLvRxux82PhE27Vik6Yw6ksg&s" group-title="Varios",223-Rumba TV
 http://181.119.86.68:8000/play/b054/index.m3u8
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" group-title="Varios",224-Tierra Mia
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Bandamax_2015_Logo.png" group-title="Varios",224-BandaMax
+http://200.229.147.142:8000/play/a07b/index.m3u8
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjYtbXxpTy5v2qUigUmOhWDwszpNDzeygAI25iS-6o_U48rh8YRupIL9BcXVngQob5iTcDrfQxvUsZakueEt9MARWBPeBpkpw92Zex96uIIrGE7Ky0x29r0e4gPp9yU6-MN1Onl0oukep350oTQwLWKqUoqqrq0iEOjzsAaVB4YR3FXPZvwx97iros7" group-title="Varios",225-Tierra Mia
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",225-Stingray Concerts
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",226-Stingray Concerts
 http://190.102.246.93:9005/play/a02t
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",226-Karaoke Stingray
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",227-Karaoke Stingray
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Varios",227-CNN Esp
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Varios",228-CNN Esp
 http://201.217.246.177:8000/play/a054/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="Varios",228-Telesur HD
-http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/35006
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="Varios",229-HispanTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="Varios",229-Telesur HD
+http://200.229.147.142:8000/play/a06e/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="Varios",230-HispanTV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Varios",230-Caracol HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" group-title="Varios",231-Caracol HD
 http://179.51.136.19:8000/play/a1ap/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Varios",231-RT HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Varios",232-RT HD
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Noticias_RCN_%28Colombia%29_logo.png" group-title="Varios",232-RCN Colombia
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Noticias_RCN_%28Colombia%29_logo.png" group-title="Varios",233-RCN Colombia
 http://181.119.85.222:8000/play/a02u/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="Varios",233-DW
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg" group-title="Varios",234-DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSigijjvC4cHyrU_5a2V00fCZFDKVzzarcKfA&s" group-title="Varios",234-Rai
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSigijjvC4cHyrU_5a2V00fCZFDKVzzarcKfA&s" group-title="Varios",235-Rai
 http://201.217.246.177:8000/play/a02p/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="Varios",235-CNN USA HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png" group-title="Varios",236-CNN USA HD
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="Varios",236-Fox News Channel
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="Varios",237-Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/9ZV7_rH_OkAh7N95DCaf6denkZMIldPD5K2nuVxetCym4ixyBx2qk6QBbog3txzwdy4o" group-title="Varios",237-ABC News
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/9ZV7_rH_OkAh7N95DCaf6denkZMIldPD5K2nuVxetCym4ixyBx2qk6QBbog3txzwdy4o" group-title="Varios",238-ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NBC_News_%282023%29.svg" group-title="Varios",238-NBC News
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NBC_News_%282023%29.svg" group-title="Varios",239-NBC News
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/23965
-#EXTINF:0 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newsgroup-logos/msnbc/logo-vertical/default-black-498x404.png" group-title="Varios",239-MSNBC
+#EXTINF:0 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newsgroup-logos/msnbc/logo-vertical/default-black-498x404.png" group-title="Varios",240-MSNBC
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/23637
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/IQJ3YwNpaJRPpOM1Gab8xBZiDhsgq2gtM3KZQKk8JCZjhxOPxuuzyUVCTWpyp9eAEyS-QQsdRA=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",240-Al Jazeera
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/IQJ3YwNpaJRPpOM1Gab8xBZiDhsgq2gtM3KZQKk8JCZjhxOPxuuzyUVCTWpyp9eAEyS-QQsdRA=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",241-Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG" group-title="Varios",241-La 100
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Logo_La100_Verde.JPG" group-title="Varios",242-La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
-#EXTINF:0 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Varios",242-Radio Latina
+#EXTINF:0 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="Varios",243-Radio Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
-#EXTINF:0 tvg-logo="https://media.minutouno.com/p/e509861f410385310bb4ce776314394a/adjuntos/239/imagenes/040/704/0040704024/radio-megajpg.jpg" group-title="Varios",243-Radio Mega 98.3 (Roku)
+#EXTINF:0 tvg-logo="https://media.minutouno.com/p/e509861f410385310bb4ce776314394a/adjuntos/239/imagenes/040/704/0040704024/radio-megajpg.jpg" group-title="Varios",244-Radio Mega 98.3 (Roku)
 https://youtu.be/bpBGrLXDUhs
-#EXTINF:0 tvg-logo="https://media.minutouno.com/p/e509861f410385310bb4ce776314394a/adjuntos/239/imagenes/040/704/0040704024/radio-megajpg.jpg" group-title="Varios",244-Urbana Play
+#EXTINF:0 tvg-logo="https://media.minutouno.com/p/e509861f410385310bb4ce776314394a/adjuntos/239/imagenes/040/704/0040704024/radio-megajpg.jpg" group-title="Varios",245-Urbana Play
 https://youtu.be/nlM9o8FeRMw
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88mhDqf2ZpFFUIcKIQ3-SCv2RoFNY79gjA-y-uO-ewnVTvBFLOrZoqzs7tzvDYb1SfWK2C9zRksuCWtFJ4ECjIBlqkXsOIesspHNPI6JRC1zC_MMgOX3YPj2XO4WFZuaB8rloHlaTHc8/s0/radio10-2020.png" group-title="Varios",245-Radio 10 (Roku)
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh88mhDqf2ZpFFUIcKIQ3-SCv2RoFNY79gjA-y-uO-ewnVTvBFLOrZoqzs7tzvDYb1SfWK2C9zRksuCWtFJ4ECjIBlqkXsOIesspHNPI6JRC1zC_MMgOX3YPj2XO4WFZuaB8rloHlaTHc8/s0/radio10-2020.png" group-title="Varios",246-Radio 10 (Roku)
 https://youtu.be/dkEANC9Q3AY
-#EXTINF:0 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/836/pop-1015-fm.f58421ff.png" group-title="Varios",246-Radio Pop (Roku)
+#EXTINF:0 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/836/pop-1015-fm.f58421ff.png" group-title="Varios",247-Radio Pop (Roku)
 https://youtu.be/xFaPMDuAknM
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/_7WgG95XJMGiqohjAOBYpFx5pYFJ19FuiQs7TtlHdzwQlfnvxB8paiVS_IEHJvBZoA" group-title="Varios",247-Radio Cadena 3  (Roku)
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/_7WgG95XJMGiqohjAOBYpFx5pYFJ19FuiQs7TtlHdzwQlfnvxB8paiVS_IEHJvBZoA" group-title="Varios",248-Radio Cadena 3  (Roku)
 https://youtu.be/CDMErx5fpVI
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/LxXG-3oOpCykA27GwVGpcrWDmfe1KVvTy_69EjBBCkpUAtTjJhNGWmW0WVubfZjOEP8JQ5FO=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",248-Radio Mitre  (Roku)
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/LxXG-3oOpCykA27GwVGpcrWDmfe1KVvTy_69EjBBCkpUAtTjJhNGWmW0WVubfZjOEP8JQ5FO=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",249-Radio Mitre  (Roku)
 https://youtu.be/ybXIVVg6epw
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Aspen102.jpg" group-title="Varios",249-Radio Aspen
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Aspen102.jpg" group-title="Varios",250-Radio Aspen
 https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/120px-Logo_Diputados_TV.png" group-title="Varios",250-Diputados TV  (Roku)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/120px-Logo_Diputados_TV.png" group-title="Varios",251-Diputados TV  (Roku)
 https://youtu.be/YO4EAScWyQY
-#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-playboy-tv-en-un-formato-blanco-ai-aviable-vector-fondo-147814758.jpg" group-title="Varios",251-Playboy TV
+#EXTINF:0 tvg-logo="https://thumbs.dreamstime.com/b/logotipo-del-playboy-tv-en-un-formato-blanco-ai-aviable-vector-fondo-147814758.jpg" group-title="Varios",252-Playboy TV
 http://200.125.170.120:8000/play/a02c
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Varios",252-Venus
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Varios",253-Venus
 http://179.51.136.23:8000/play/a01r/index.m3u8
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",253-Porn
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",254-Porn
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14136
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",254-Erotic
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",255-Erotic
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14141
-#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",255-XXX
-http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14158
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",256-XXX
+http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14158
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/porn.png" group-title="Varios",257-XXX
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14194
-#EXTINF:0 tvg-logo="" group-title="Varios",257-FinRoku
+#EXTINF:0 tvg-logo="" group-title="Varios",258-FinRoku
 https://FinRoku
