@@ -109,10 +109,6 @@ http://190.102.246.93:9005/play/a00x
 http://201.217.246.177:8000/play/a059/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",55-ESPN 2 HD
 http://190.102.246.93:9005/play/a026
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",56-ESPN 2 SUR
-http://201.222.45.70:2082/cc/cc/71
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",57-ESPN 2 LAT
-http://190.102.246.93:9005/play/a02n
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoLn81edf0H0Qc2kT6VUieZ2ueRBQN0xkYg&s" group-title="Varios",58-ESPN 3
 http://190.60.42.86:8000/play/a00n/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoLn81edf0H0Qc2kT6VUieZ2ueRBQN0xkYg&s" group-title="Varios",59-ESPN 3 HD
@@ -131,8 +127,6 @@ http://200.115.96.66:4000/play/a01t/index.m3u8
 http://179.51.136.19:8000/play/a1ai/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="Varios",66-ESPN 6 HD
 http://190.102.246.93:9005/play/a01r
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Varios",67-ESPN 7
-http://181.205.130.194:4000/play/a07s
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Varios",68-ESPN 7 HD
 http://104.238.205.28:8989/278567_.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Gallery_5617_2_102815.png/revision/latest?cb=20210525001847&path-prefix=es" group-title="Varios",69-Garage TV
@@ -515,3 +509,4 @@ http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14158
 http://ultra-premium-pro.xyz:8080/972909963tv/5qt9r6/14194
 #EXTINF:0 tvg-logo="" group-title="Varios",258-FinRoku
 https://FinRoku
+
