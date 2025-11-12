@@ -220,6 +220,8 @@ http://201.217.246.177:8000/play/a024/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cine_Latino_logo.svg" group-title="Varios",110-Cine Latino
 http://ultra-premium-pro.xyz:8080/957860657tv/e5d7a6/110
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Varios",111-Cinemax
+http://ultra-premium-pro.xyz:8080/957860657tv/e5d7a6/119
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Varios",111-Cinemax Sur
 http://ultra-premium-pro.xyz:8080/957860657tv/e5d7a6/177
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Varios",112-Cinemax HD
 http://45.5.151.62:8000/play/a012/index.m3u8
@@ -501,3 +503,4 @@ http://ultra-premium-pro.xyz:8080/957860657tv/e5d7a6/14158
 http://ultra-premium-pro.xyz:8080/957860657tv/e5d7a6/14194
 #EXTINF:0 tvg-logo="" group-title="Varios",251-FinRoku
 https://FinRoku
+
