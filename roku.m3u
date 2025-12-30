@@ -6,7 +6,7 @@ http://201.217.246.177:8000/play/a06c/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Varios",3-America TV
 http://179.51.136.23:8000/play/a04a/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Varios",4-America TV HD
-http://201.217.246.177:8000/play/a055/index.m3u8
+http://190.123.90.146:8000/play/a00l/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" group-title="Varios",5-Canal 13
 http://201.217.246.177:8000/play/a06d/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" group-title="Varios",6-Canal 13 HD
