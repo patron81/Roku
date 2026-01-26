@@ -64,7 +64,7 @@ http://190.104.67.111:234/play/a086/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="Varios",32-TNT Sports
 http://201.217.246.166:8000/play/a06z/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="Varios",33-TNT Sports HD
-http://200.80.230.124:8000/play/a0bk/index.m3u8
+http://190.104.67.111:234/play/a0qc/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="Varios",34-TyC Sports
 http://201.217.246.166:8000/play/a06x/index.m3u8
 #EXTINF:0 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="Varios",35-TyC Sports HD
@@ -427,4 +427,5 @@ http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/14158
 http://ultra-premium-pro.xyz:8080/m2608/m260822/14167
 #EXTINF:0 tvg-logo="" group-title="Varios",214-FinRoku
 https://FinRoku
+
 
