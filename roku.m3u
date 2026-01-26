@@ -68,7 +68,7 @@ http://200.80.230.124:8000/play/a0bk/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="Varios",34-TyC Sports
 http://201.217.246.166:8000/play/a06x/index.m3u8
 #EXTINF:0 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="Varios",35-TyC Sports HD
-http://190.123.90.146:8000/play/a00k/index.m3u8
+http://190.104.67.111:234/play/a0qa/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/blqLvy2eit2v5q0V7fksc0u6M4XUIkGcB_ML8Lc6kFvTnP_Qbg7JypFNKvT_itcFNGks6yO3Tw0=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",36-TyC Sports Internacional
 http://190.60.37.154:45000/play/a05a/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJv-J08hvKCc2AbQusXrgAPmfda2RxIqpHw&s" group-title="Varios",37-Flow Eventos
@@ -427,3 +427,4 @@ http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/14158
 http://ultra-premium-pro.xyz:8080/m2608/m260822/14167
 #EXTINF:0 tvg-logo="" group-title="Varios",214-FinRoku
 https://FinRoku
+
