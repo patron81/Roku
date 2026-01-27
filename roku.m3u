@@ -202,7 +202,7 @@ http://45.5.151.62:8000/play/a012/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Varios",101-Cinecanal
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/54468
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Varios",102-Cinecanal HD
-http://190.123.90.146:8000/play/a00w/index.m3u8
+http://45.5.151.62:8000/play/a011/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/p1pkpkfJ1QjVfFRcTQlUMzdyyLZ9iD2QoNlPIg1-QJKs2uArkwGJqFt0tetiB6W_VVAeXz8e=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",103-DHE HD
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/121
 #EXTINF:0 tvg-logo="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBauvZybnLKT2YylcWMk4EynXnxkAblXMCQ&s" group-title="Varios",104-Europa Europa
@@ -252,7 +252,7 @@ http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/9709
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Varios",126-Sony Channel
 http://45.5.151.62:8000/play/a0ap/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Varios",127-Sony Channel HD
-http://190.123.90.146:8000/play/a016/index.m3u8
+http://45.5.151.62:8000/play/a02w/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOspY0DemQf4NaEMxXnKQQKCpDwOfVCdtnZg&s" group-title="Varios",128-Sony Cine
 http://190.60.42.86:8000/play/a02t/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Varios",129-Sony Movies
@@ -262,7 +262,7 @@ http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/202
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Varios",131-Star Channel
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/162
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Varios",132-Star Channel HD
-http://190.123.90.146:8000/play/a019/index.m3u8
+http://45.5.151.62:8000/play/a08m/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/330px-StudioUniversal2016.png" group-title="Varios",133-Studio Universal
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/218
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Varios",134-TCM
@@ -270,7 +270,7 @@ http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/230
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/500px-TNT_Logo_2016.svg.png" group-title="Varios",135-TNT
 http://45.5.151.62:8000/play/a0af/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/500px-TNT_Logo_2016.svg.png" group-title="Varios",136-TNT HD
-http://190.123.90.146:8000/play/a033/index.m3u8
+http://45.5.151.62:8000/play/a08q/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Varios",137-TNT Series
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/170
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Varios",138-TNT Series HD
@@ -330,11 +330,11 @@ http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/236489
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Varios",165-Star TVE
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/59556
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/El_Gourmet_logo.png/120px-El_Gourmet_logo.png" group-title="Varios",166-El Gourmet
-http://190.123.90.146:8000/play/a02m/index.m3u8
+http://45.5.151.62:8000/play/a07c/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="Varios",167-TLC
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/447
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Varios",168-Lifetime
-http://190.123.90.146:8000/play/a013/index.m3u8
+http://45.5.151.62:8000/play/a078/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Varios",169-History Channel
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/431
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Varios",170-History Channel HD
@@ -392,7 +392,7 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXEVsfrsi2TPUX4GfuEd51e3wYWg5_Qymjg&s" group-title="Varios",196-Karaoke Stingray
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Varios",197-CNN Esp
-http://190.123.90.146:8000/play/a004/index.m3u8
+http://45.5.151.62:8000/play/a06v/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="Varios",198-Telesur HD
 http://200.229.147.142:8000/play/a06e/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="Varios",199-HispanTV
