@@ -98,9 +98,9 @@ http://201.217.246.166:8000/play/a06y/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Varios",49-Fox Sports 3 HD
 http://45.5.151.62:8000/play/a09b/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",50-ESPN
-http://201.217.246.166:8000/play/a099/index.m3u8
+http://45.5.151.62:8000/play/a096/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",51-ESPN HD
-http://190.104.67.111:234/play/a099/index.m3u8
+http://201.217.246.166:8000/play/a099/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",52-ESPN LAT
 http://201.230.121.186:8000/play/a0ki/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",53-ESPN 2
