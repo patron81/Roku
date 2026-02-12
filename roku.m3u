@@ -129,8 +129,8 @@ http://190.123.90.146:8000/play/a00a/index.m3u8
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/577
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuv2RM6KLKp-msUVuODbNbtfJKHcTMFax7g&s" group-title="Varios",65-Eurosports 2
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/578
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczm22Km9HmDrsfeIcNtPcyyPhZ37bNXZ3zA&s" group-title="Varios",66-Movistar Deportes
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/12353
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQczm22Km9HmDrsfeIcNtPcyyPhZ37bNXZ3zA&s" group-title="Varios",66-America TV Peru
+http://181.115.237.3:9560/play/a02d/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="Varios",67-Tigo Sports
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/61975
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/LrKhAmJSa0KFePlYazYYK26ugL2acifv9aGjXWqbMbZ5PAuM_Fo3iwsrbFN6UXyYCaM" group-title="Varios",68-TUDN
@@ -146,7 +146,7 @@ http://160.20.165.246:8000/play/a021/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Universo_2017.svg" group-title="Varios",73-Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.elcanaldelfutbol.com/static/app/online/BOTON_ECDF_TV_.webp" group-title="Varios",74-ECDF
-http://160.20.165.246:8000/play/a026/index.m3u8
+http://205.235.6.29:8000/play/a0ws/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_newAeNdIQKXPR9m4CFkm-QsEouUiGqm61QcIDVArCpjb0=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",75-beIN Sports n
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/23741
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVaQ5q6DOTKQOAq7HqFt5DhDf9US3QVlVdw&s" group-title="Varios",76-beIN Sports Xtra n
@@ -445,3 +445,4 @@ http://tv14s.xyz:8080/15564292/15564292/215555
 http://tv14s.xyz:8080/15564292/15564292/215698
 #EXTINF:0 tvg-logo="" group-title="Varios",223-FinRoku
 https://FinRoku
+
