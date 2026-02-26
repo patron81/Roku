@@ -22,7 +22,7 @@ http://45.5.149.219:8000/play/a03d/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",11-C5N
 http://181.209.37.74:8001/play/a05v/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",12-C5N HD
-http://45.5.151.62:8000/play/a023/index.m3u8
+http://45.5.149.219:8000/play/a035/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsw16eShQ08l9nr4KK9gQKcCt0iKSU5BCvg&s" group-title="Varios",13-TN
 http://45.5.149.219:8000/play/a039/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsw16eShQ08l9nr4KK9gQKcCt0iKSU5BCvg&s" group-title="Varios",14-TN HD
@@ -33,7 +33,7 @@ http://181.209.37.74:8001/play/a05y/index.m3u8
 http://45.5.149.219:8000/play/a038/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="Varios",17-A24
 http://181.209.37.74:8001/play/a05u/index.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="Varios",18-A24 SD
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="Varios",18-A24 HD
 http://45.5.149.219:8000/play/a034/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Varios",19-Canal 26
 http://181.209.37.74:8001/play/a05x/index.m3u8
