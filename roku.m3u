@@ -62,7 +62,7 @@ http://181.94.215.185:4000/play/a0ii/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="Varios",31-ESPN Premium HD
 http://45.5.149.219:8000/play/a03m/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",32-ESPN Disney
-http://201.230.121.186:8000/play/a0ki/index.m3u8
+http://181.78.7.90:12500/play/a0dr/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="Varios",33-TNT Sports
 http://181.209.37.74:8001/play/a06z/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="Varios",34-TNT Sports HD
@@ -78,9 +78,9 @@ http://181.94.215.185:4000/play/a0ic/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJv-J08hvKCc2AbQusXrgAPmfda2RxIqpHw&s" group-title="Varios",39-Flow Eventos 2
 http://181.94.215.185:4000/play/a0id/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFnxrao7Ke7ojaHdJFcKiENWrW4rWCDPt8A&s" group-title="Varios",40-DSports
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/465
+http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFnxrao7Ke7ojaHdJFcKiENWrW4rWCDPt8A&s" group-title="Varios",41-DSports HD
-http://190.117.20.37:8000/play/a08d/index.m3u8
+http://201.230.137.126:8000/play/a1af/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZuzidkljUdpUVMhKC0o-n7c_yA3YBCsf9Q&s" group-title="Varios",42-DSports 2
 http://201.230.121.186:8000/play/a0od/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZuzidkljUdpUVMhKC0o-n7c_yA3YBCsf9Q&s" group-title="Varios",43-DSports 2 HD
@@ -240,7 +240,7 @@ http://181.94.215.185:4000/play/a0he/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Varios",120-FX
 http://181.94.215.185:4000/play/a0h9/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" group-title="Varios",121-Golden 
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/127
+http://201.230.137.204:8000/play/a0li/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Varios",122-Golden Edge
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65217
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXU4JgV5wD-AamgX6ro-fnGxWWEiDpltzeAw&s" group-title="Varios",123-Golden Premier
