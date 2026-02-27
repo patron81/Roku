@@ -106,7 +106,7 @@ http://181.209.37.74:8001/play/a099/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",53-ESPN Chile
 http://167.250.223.26:8085/play/a0an/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",54-ESPN LAT
-http://190.119.195.114:8060/play/a0jb/index.m3u8
+http://45.5.57.132:8000/play/a07o/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",55-ESPN 2
 http://181.209.37.74:8001/play/a098/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",56-ESPN 2 SUR
@@ -467,4 +467,5 @@ http://tv14s.xyz:8080/15564292/15564292/215555
 http://tv14s.xyz:8080/15564292/15564292/215698
 #EXTINF:0 tvg-logo="" group-title="Varios",234-FinRoku
 https://FinRoku
+
 
