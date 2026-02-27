@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Vf6U53xfNmilQP9l30uDez0QOxFC0dBx7Q&s" group-title="Varios",1-Telefe
-http://45.5.149.219:8000/play/a03f/index.m3u8
+http://181.94.215.185:4000/play/a0im/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Vf6U53xfNmilQP9l30uDez0QOxFC0dBx7Q&s" group-title="Varios",2-Telefe HD
 http://181.209.37.74:8001/play/a08a/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Varios",3-America TV
 http://181.209.37.74:8001/play/a094/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Varios",4-America TV HD
-http://45.5.149.219:8000/play/a03b/index.m3u8
+http://181.94.215.185:4000/play/a0eu/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" group-title="Varios",5-Canal 13
-http://45.5.149.219:8000/play/a03e/index.m3u8
+http://181.94.215.185:4000/play/a0ik/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" group-title="Varios",6-Canal 13 HD
 http://181.209.37.74:8001/play/a07b/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png/640px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Varios",7-TV Publica
@@ -18,31 +18,31 @@ http://45.5.149.219:8000/play/a03g/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Varios",9-Canal 9 
 http://181.209.37.74:8001/play/a08k/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Varios",10-Canal 9 HD
-http://45.5.149.219:8000/play/a03d/index.m3u8
+http://181.94.215.185:4000/play/a0ev/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",11-C5N
 http://181.209.37.74:8001/play/a05v/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",12-C5N HD
-http://45.5.149.219:8000/play/a035/index.m3u8
+http://181.94.215.185:4000/play/a0g3/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsw16eShQ08l9nr4KK9gQKcCt0iKSU5BCvg&s" group-title="Varios",13-TN
-http://45.5.149.219:8000/play/a039/index.m3u8
+http://181.94.215.185:4000/play/a0et/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsw16eShQ08l9nr4KK9gQKcCt0iKSU5BCvg&s" group-title="Varios",14-TN HD
 http://181.209.37.74:8001/play/a097/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png" group-title="Varios",15-LN+
 http://181.209.37.74:8001/play/a05y/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png" group-title="Varios",16-LN+ HD
-http://45.5.149.219:8000/play/a038/index.m3u8
+http://181.94.215.185:4000/play/a0g6/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="Varios",17-A24
 http://181.209.37.74:8001/play/a05u/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="Varios",18-A24 HD
-http://45.5.149.219:8000/play/a034/index.m3u8
+http://181.94.215.185:4000/play/a0g2/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Varios",19-Canal 26
 http://181.209.37.74:8001/play/a05x/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Varios",20-Canal 26 HD
-http://45.5.149.219:8000/play/a036/index.m3u8
+http://181.94.215.185:4000/play/a0g5/index.m3u8
 #EXTINF:0 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.pngg" group-title="Varios",21-Cronica TV
 http://181.209.37.74:8001/play/a05w/index.m3u8
 #EXTINF:0 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png" group-title="Varios",22-Cronica TV HD
-http://45.5.149.219:8000/play/a037/index.m3u8
+http://181.209.105.115:2525/play/cronica/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/gqFWJUXKdyAcG7jELHWEW_69zr2744xjkdweBwZ7ixrX9aIJuxpXcngm1pwUCYWgIqwPoPK_0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",23- Canal 10 Rio Negro (Roku)
 https://arcast.net/c10rionegro/index.php
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Varios",24-Bravo TV
@@ -58,19 +58,19 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:0 tvg-logo="https://relacionesdeltrabajo.sociales.uba.ar/wp-content/uploads/sites/21/2019/06/logo-canal22.gif" group-title="Varios",29-Canal 22
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="Varios",30-ESPN Premium
-http://45.5.151.147:8000/play/a00m/index.m3u8
+http://181.94.215.185:4000/play/a0ii/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="Varios",31-ESPN Premium HD
 http://45.5.149.219:8000/play/a03m/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",32-ESPN Disney
 http://201.230.121.186:8000/play/a0ki/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="Varios",33-TNT Sports
-http://45.5.151.147:8000/play/a00r/index.m3u8
+http://181.209.37.74:8001/play/a06z/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_%28Argentina%29.png/330px-TNT_Sports_Premium_%28Argentina%29.png" group-title="Varios",34-TNT Sports HD
-http://45.5.149.219:8000/play/a03r/index.m3u8
+http://181.94.215.185:4000/play/a0h8/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="Varios",35-TyC Sports
 http://181.209.37.74:8001/play/a06x/index.m3u8
 #EXTINF:0 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg" group-title="Varios",36-TyC Sports HD
-http://45.5.149.219:8000/play/a03s/index.m3u8
+http://181.94.215.185:4000/play/a0h6/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/blqLvy2eit2v5q0V7fksc0u6M4XUIkGcB_ML8Lc6kFvTnP_Qbg7JypFNKvT_itcFNGks6yO3Tw0=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",37-TyC Sports Internacional
 http://179.1.68.245:7600/play/a07u/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJv-J08hvKCc2AbQusXrgAPmfda2RxIqpHw&s" group-title="Varios",38-Flow Eventos
@@ -88,19 +88,19 @@ http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/316
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="Varios",44-Dsports +
 http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/477
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sZlO4JrDDYNRwxU3IgeFVZkQTkGUhAyRcg&s" group-title="Varios",45-Fox Sports
-http://45.5.149.219:8000/play/a03n/index.m3u8
+http://181.94.215.185:4000/play/a0ih/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sZlO4JrDDYNRwxU3IgeFVZkQTkGUhAyRcg&s" group-title="Varios",46-Fox Sports HD
 http://181.209.37.74:8001/play/a085/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Varios",47-Fox Sports 2
 http://181.209.37.74:8001/play/a09b/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Varios",48-Fox Sports 2 HD
-http://45.5.149.219:8000/play/a03o/index.m3u8
+http://181.94.215.185:4000/play/a0fn/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Varios",49-Fox Sports 3
 http://181.209.37.74:8001/play/a06y/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Varios",50-Fox Sports 3 HD
-http://45.5.149.219:8000/play/a03p/index.m3u8
+http://181.94.215.185:4000/play/a0h7/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",51-ESPN
-http://45.5.149.219:8000/play/a03i/index.m3u8
+http://181.94.215.185:4000/play/a0fl/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",52-ESPN HD
 http://181.209.37.74:8001/play/a099/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",53-ESPN Chile
@@ -467,5 +467,3 @@ http://tv14s.xyz:8080/15564292/15564292/215555
 http://tv14s.xyz:8080/15564292/15564292/215698
 #EXTINF:0 tvg-logo="" group-title="Varios",234-FinRoku
 https://FinRoku
-
-
