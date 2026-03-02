@@ -222,7 +222,7 @@ http://181.209.37.74:8001/play/a09h/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="Varios",111-A&E HD
 http://181.94.215.185:4000/play/a0ft/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="Varios",112-AXN
-http://45.5.151.62:8000/play/a0at/index.m3u8
+http://45.5.151.62:8000/play/a0ca/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s" group-title="Varios",113-AXN HD
 http://181.94.215.185:4000/play/a0fq/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CINEARLogo.png/120px-CINEARLogo.png" group-title="Varios",114-CineAR
@@ -252,11 +252,11 @@ http://201.230.137.204:8000/play/a0li/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Varios",126-Golden Edge
 http://190.117.20.39:8000/play/a0dh/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXU4JgV5wD-AamgX6ro-fnGxWWEiDpltzeAw&s" group-title="Varios",127-Golden Premier
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65223
+http://45.5.151.62:8000/play/a01u/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Varios",128-Golden Premier 2
 http://200.125.170.120:8000/play/a00m
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es" group-title="Varios",129-Golden Plus
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/65219
+http://45.5.151.62:8000/play/a0cc/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",130-HBO Este
 http://181.94.215.185:4000/play/a0hx/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",131-HBO Este HD
