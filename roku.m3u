@@ -104,7 +104,7 @@ http://190.60.49.242:4000/play/a0fb/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",52-ESPN AR HD
 http://181.209.37.74:8001/play/a099/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",53-ESPN COL
-http://190.60.32.178:8178/play/a0bi/index.m3u8
+http://181.94.215.185:4000/play/a0kj/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",54-ESPN Chile
 http://167.250.223.26:8085/play/a0an/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",55-ESPN MX
@@ -258,19 +258,19 @@ http://200.125.170.120:8000/play/a00m
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es" group-title="Varios",129-Golden Plus
 http://45.5.151.62:8000/play/a0cc/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",130-HBO Este
-http://181.94.215.185:4000/play/a0hx/index.m3u8
+http://45.5.149.219:8000/play/a043/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",131-HBO Este HD
 http://201.230.137.126:8000/play/a17n/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",132-HBO Oeste
-http://181.94.215.185:4000/play/a0kt/index.m3u8
+http://45.5.118.152:8000/play/a0bm/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",133-HBO MX
 http://45.5.118.152:8000/play/a0bm/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="Varios",134-HBO 2
-http://181.94.215.185:4000/play/a0hz/index.m3u8
+http://45.5.116.228:8000/play/a00c/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Hbo_2.png" group-title="Varios",135-HBO 2 HD
 http://45.5.151.147:8000/play/a010/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Varios",136-HBO+
-http://181.94.215.185:4000/play/a0hy/index.m3u8
+http://45.5.116.228:8000/play/a0l4/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Varios",137-HBO+ HD
 http://179.63.6.15:8002/play/a034
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Varios",138-HBO Pop
@@ -284,7 +284,7 @@ http://181.94.215.185:4000/play/a0gq/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Varios",142-HBO Signature HD
 http://179.63.6.15:8002/play/a035
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Varios",143-HBO Xtreme
-http://181.94.215.185:4000/play/a0gp/index.m3u8
+http://45.5.116.228:8000/play/a0l6/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Varios",144-HBO Xtreme HD
 http://201.230.137.126:8000/play/a15c/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Varios",145-HBO Family
@@ -485,5 +485,6 @@ http://tv14s.xyz:8080/15564292/15564292/215555
 http://tv14s.xyz:8080/15564292/15564292/215698
 #EXTINF:0 tvg-logo="" group-title="Varios",243-FinRoku
 https://FinRoku
+
 
 
