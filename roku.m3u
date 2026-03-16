@@ -90,15 +90,15 @@ http://ultra-premium-pro.xyz:8080/m2608/m260822/477
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sZlO4JrDDYNRwxU3IgeFVZkQTkGUhAyRcg&s" group-title="Varios",45-Fox Sports
 http://181.209.37.74:8001/play/a085/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2sZlO4JrDDYNRwxU3IgeFVZkQTkGUhAyRcg&s" group-title="Varios",46-Fox Sports HD
-http://45.5.149.219:8000/play/a03n/index.m3u8
+http://207.246.114.254:25461/live/gabysports/gabysports/3366.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Varios",47-Fox Sports 2
 http://181.209.37.74:8001/play/a09b/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png" group-title="Varios",48-Fox Sports 2 HD
-http://45.5.149.219:8000/play/a03o/index.m3u8
+http://207.246.114.254:25461/live/gabysports/gabysports/3364.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Varios",49-Fox Sports 3
 http://181.209.37.74:8001/play/a06y/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Varios",50-Fox Sports 3 HD
-http://45.5.149.219:8000/play/a03p/index.m3u8
+http://207.246.114.254:25461/live/gabysports/gabysports/3365.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",51-ESPN
 http://181.209.125.236:10000/play/a00g/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",52-ESPN AR HD
