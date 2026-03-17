@@ -24,25 +24,25 @@ http://181.209.125.236:10000/play/a00w/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",12-C5N HD
 http://45.5.151.62:8000/play/a0cf/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/41G-GpD0EBSWwbNFLR0Bf15WAfi4SVpJVDgb-LgR3r80MVwhuKuiEZ2QBQhm-raUw9XNbRQY=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",13-C5N YT
-https://youtu.be/watch?v=SF06Qy1Ct6Y
+https://proxy.corsfix.com/?https://youtu.be/SF06Qy1Ct6Y
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsw16eShQ08l9nr4KK9gQKcCt0iKSU5BCvg&s" group-title="Varios",14-TN
 http://181.209.125.236:10000/play/a00e/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsw16eShQ08l9nr4KK9gQKcCt0iKSU5BCvg&s" group-title="Varios",15-TN HD
 http://45.5.151.62:8000/play/a09e/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsw16eShQ08l9nr4KK9gQKcCt0iKSU5BCvg&s" group-title="Varios",16-TN YT
-https://youtu.be/watch?v=cb12KmMMDJA
+https://proxy.corsfix.com/?https://youtu.be/cb12KmMMDJA
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png" group-title="Varios",17-LN+
 http://181.209.125.236:10000/play/a00z/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png" group-title="Varios",18-LN+ HD
 http://45.5.151.62:8000/play/a09c/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LN%2B.png/120px-LN%2B.png" group-title="Varios",19-LN+ YT
-https://youtu.be/watch?v=DVZ2rJQb_0g
+https://proxy.corsfix.com/?https://youtu.be/DVZ2rJQb_0g
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="Varios",20-A24
 http://138.121.114.91:8000/play/a05u/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="Varios",21-A24 HD
 http://45.5.151.147:8000/play/a006/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="Varios",22-A24 YT
-https://youtu.be/watch?v=ArKbAx1K-2U
+https://proxy.corsfix.com/?https://youtu.be/ArKbAx1K-2U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Varios",23-Canal 26
 http://181.209.37.74:8001/play/a05x/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Varios",24-Canal 26 HD
@@ -52,7 +52,7 @@ http://181.209.37.74:8001/play/a05w/index.m3u8
 #EXTINF:0 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png" group-title="Varios",26-Cronica TV HD
 http://181.209.125.236:10000/play/a00x/index.m3u8
 #EXTINF:0 tvg-logo="https://contarte.com.ar/wp-content/uploads/2025/11/AR12.jpg" group-title="Varios",27-Argentina|12
-https://youtu.be/watch?v=JrmCaXL5GZs
+https://proxy.corsfix.com/?https://youtu.be/JrmCaXL5GZs
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/gqFWJUXKdyAcG7jELHWEW_69zr2744xjkdweBwZ7ixrX9aIJuxpXcngm1pwUCYWgIqwPoPK_0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",28- Canal 10 Rio Negro (Roku)
 https://arcast.net/c10rionegro/index.php
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Varios",29-Bravo TV
