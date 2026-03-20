@@ -44,7 +44,7 @@ http://181.209.37.74:8001/play/a05w/index.m3u8
 #EXTINF:0 tvg-logo="https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16017-1639_import.png" group-title="Varios",22-Cronica TV HD
 http://181.209.125.236:10000/play/a00x/index.m3u8
 #EXTINF:0 tvg-logo="https://contarte.com.ar/wp-content/uploads/2025/11/AR12.jpg" group-title="Varios",23-Argentina|12
-https://www-youtube-com.translate.goog/watch?v=JrmCaXL5GZs&_x_tr_sl=auto&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp
+http://45.5.151.62:8000/play/a0d4/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/gqFWJUXKdyAcG7jELHWEW_69zr2744xjkdweBwZ7ixrX9aIJuxpXcngm1pwUCYWgIqwPoPK_0Q=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",24- Canal 10 Rio Negro (Roku)
 https://arcast.net/c10rionegro/index.php
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Varios",25-Bravo TV
@@ -76,7 +76,7 @@ http://181.209.125.236:10000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/blqLvy2eit2v5q0V7fksc0u6M4XUIkGcB_ML8Lc6kFvTnP_Qbg7JypFNKvT_itcFNGks6yO3Tw0=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",38-TyC Sports Internacional
 http://201.230.137.204:8000/play/a0ej/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJv-J08hvKCc2AbQusXrgAPmfda2RxIqpHw&s" group-title="Varios",39-Flow Eventos
-http://181.209.125.236:10000/play/a02t/index.m3u8
+http://45.238.54.67:8000/play/a0ab/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuJv-J08hvKCc2AbQusXrgAPmfda2RxIqpHw&s" group-title="Varios",40-Flow Eventos 2
 http://181.94.215.185:4000/play/a0id/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFnxrao7Ke7ojaHdJFcKiENWrW4rWCDPt8A&s" group-title="Varios",41-DSports
@@ -84,7 +84,7 @@ http://201.230.121.85:8000/play/a0yv/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFnxrao7Ke7ojaHdJFcKiENWrW4rWCDPt8A&s" group-title="Varios",42-DSports HD
 http://201.230.137.126:8000/play/a1af/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZuzidkljUdpUVMhKC0o-n7c_yA3YBCsf9Q&s" group-title="Varios",43-DSports 2
-http://201.230.121.186:8000/play/a0od/index.m3u8
+http://38.224.73.146:8000/play/a0vr/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKZuzidkljUdpUVMhKC0o-n7c_yA3YBCsf9Q&s" group-title="Varios",44-DSports 2 HD
 http://ultra-premium-pro.xyz:8080/m2608/m260822/316
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFK_heqWba22Mvq468L1tEM42AcS0CHGuiA&s" group-title="Varios",45-Dsports +
@@ -169,8 +169,8 @@ http://212.102.60.231:80/TUDN/index.m3u8
 http://ultra-premium-pro.xyz:8080/m2608/m260822/23022
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HL3gCY5bIhwpB2S6F0M4vfk8ugC2ONcLOA&s" group-title="Varios",85-ESPN Deportes
 http://ultra-premium-pro.xyz:8080/m2608/m260822/23708
-#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/WRlCLbVoxwvCqEc1LP9Z29dIayQ8RMDrrMutBQ2vb_zy5sDAgcDxOh3S0V76vsWEC9Nh5Yik=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",86-ESPN MX
-http://ultra-premium-pro.xyz:8080/m2608/m260822/24815
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/WRlCLbVoxwvCqEc1LP9Z29dIayQ8RMDrrMutBQ2vb_zy5sDAgcDxOh3S0V76vsWEC9Nh5Yik=s900-c-k-c0x00ffffff-no-rj" group-title="Varios",86-ESPN Deportes HD
+http://201.190.41.246:58002/play/a02h/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Universo_2017.svg" group-title="Varios",87-Universo
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.elcanaldelfutbol.com/static/app/online/BOTON_ECDF_TV_.webp" group-title="Varios",88-ECDF
@@ -449,7 +449,7 @@ http://190.119.195.114:8060/play/a0jc/index.m3u8
 http://179.63.6.15:8002/play/a02q
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="Varios",225-Telesur HD
 http://200.229.147.142:8000/play/a06e/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="Varios",226-Venevision
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="Varios",226-Ve Plus
 http://181.78.7.90:12500/play/a0mf/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="Varios",227-HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
