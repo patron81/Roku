@@ -319,8 +319,8 @@ http://45.5.116.228:8000/play/a0l6/index.m3u8
 http://45.186.254.75:8000/play/a05d/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Varios",160-HBO Family
 http://181.94.215.185:4000/play/a0i0/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Varios",161-Paramount Network
-http://45.238.54.67:8000/play/a02r/index.m3u8
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Varios",161-Paramount +
+http://dplatino.net:80//live/MaryRuiz./ArLHLfZqB9HH/317033.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Varios",162-Sony Channel
 http://181.209.37.74:8001/play/a09c/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Varios",163-Sony Channel HD
