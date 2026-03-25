@@ -286,7 +286,7 @@ http://181.189.142.237:40000/play/a08q
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Varios",143-Golden Premier 2
 http://181.189.142.237:40000/play/a08r
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es" group-title="Varios",144-Golden Plus
-http://45.5.151.62:8000/play/a0cc/index.m3u8
+http://dplatino.net:80//live/MaryRuiz./ArLHLfZqB9HH/53941.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",145-HBO
 http://190.151.80.244:9990/play/a0lh/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",146-HBO Este
