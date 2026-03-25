@@ -477,6 +477,8 @@ http://179.63.6.15:8002/play/a02q
 http://200.229.147.142:8000/play/a06e/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Varios",239-Ve Plus
 http://181.78.7.90:12500/play/a0mf/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Ve_Plus_Logo_2019.png" group-title="Varios",239-RCN Colombia
+http://181.205.130.194:4000/play/a0dl
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="Varios",240-HispanTV
 https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Varios",241-RT HD
