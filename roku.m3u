@@ -127,8 +127,8 @@ http://181.209.125.236:10000/play/a01q/index.m3u8
 http://181.209.125.236:10000/play/a00g/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",64-ESPN AR HD
 http://181.209.37.74:8001/play/a099/index.m3u8
-#EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",65-ESPN COL
-http://27.50.12.147:8000/play/a011/index.m3u8
+#EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",65-ESPN LAT
+http://45.70.201.81:8000/play/a001/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",66-ESPN Chile
 http://201.230.121.171:8000/play/a0cu/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",67-ESPN MX
@@ -262,7 +262,7 @@ http://181.78.17.52:8000/play/a02e/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Varios",131-Cinemax
 http://190.151.80.244:9990/play/a0li/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="Varios",132-Cinemax Sur
-http://181.209.125.236:10000/play/a005/index.m3u8
+http://45.186.254.75:8000/play/a0bt/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Varios",133-Cinecanal
 http://181.119.111.25:4000/play/a0gb/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Varios",134-Cinecanal SUR
@@ -280,17 +280,17 @@ http://181.209.125.236:10000/play/a01s/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" group-title="Varios",140-Golden 
 http://201.230.137.204:8000/play/a0li/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Varios",141-Golden Edge
-http://190.117.20.39:8000/play/a0dh/index.m3u8
+http://45.186.254.75:8000/play/a03i/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXU4JgV5wD-AamgX6ro-fnGxWWEiDpltzeAw&s" group-title="Varios",142-Golden Premier
-http://45.5.151.62:8000/play/a01u/index.m3u8
+http://181.189.142.237:40000/play/a08q
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Varios",143-Golden Premier 2
-http://200.125.170.120:8000/play/a00m
+http://181.189.142.237:40000/play/a08r
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es" group-title="Varios",144-Golden Plus
 http://45.5.151.62:8000/play/a0cc/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",145-HBO Este
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",145-HBO
 http://190.151.80.244:9990/play/a0lh/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",146-HBO Este HD
-http://201.230.137.126:8000/play/a17n/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",146-HBO Este
+http://45.186.254.75:8000/play/a04s/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",147-HBO Oeste
 http://45.5.118.152:8000/play/a0bm/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Varios",148-HBO MX
@@ -310,13 +310,13 @@ http://181.205.130.194:4000/play/a0ff
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="Varios",155-HBO Mundi
 http://45.238.54.67:8000/play/a024/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Varios",156-HBO Signature
-tp://45.238.54.67:8000/play/a05s/index.m3u8
+http://45.238.54.67:8000/play/a05s/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Varios",157-HBO Signature HD
 http://179.63.6.15:8002/play/a035
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Varios",158-HBO Xtreme
 http://45.5.116.228:8000/play/a0l6/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Varios",159-HBO Xtreme HD
-http://201.230.137.126:8000/play/a15c/index.m3u8
+http://45.186.254.75:8000/play/a05d/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-3k6SIkRBv3yzOAtT-W1OOm0bODd1c01Eiw&s" group-title="Varios",160-HBO Family
 http://181.94.215.185:4000/play/a0i0/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/ar_paramount-channel_m.png" group-title="Varios",161-Paramount Network
@@ -360,9 +360,9 @@ http://181.119.111.25:4000/play/a0fa/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUJRJumBUgWTzA6sNmJzivdMiRCmNz91Wviw&s" group-title="Varios",180-Universal Premiere HD
 http://45.5.119.43:4000/play/a0i2/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="Varios",181-Universal Reality HD
-http://181.78.17.52:8000/play/a020/index.m3u8
+http://45.167.1.139:8000/play/a065
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTv1azc7VceDWr74jDeBblAm2iIB8flDNfw&s" group-title="Varios",182-Universal Crime HD
-http://181.78.17.52:8000/play/a021/index.m3u8
+http://45.167.1.139:8000/play/a066
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="Varios",183-Universal Comedy
 http://45.238.54.67:8000/play/a0ar/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ujWgilK5VkhbQPHn3cRMeQxa7srK9g8hAw&s" group-title="Varios",184-USA
@@ -408,7 +408,7 @@ http://ultra-premium-pro.xyz:8080/m2608/m260822/236487
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSG71u3qAyFXieVfsHLDfdzmh3fDrulKDJ4Q&s" group-title="Varios",204-La Sexta
 http://ultra-premium-pro.xyz:8080/m2608/m260822/236489
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png" group-title="Varios",205-Star TVE
-http://ultra-premium-pro.xyz:8080/m2608/m260822/59556
+http://45.186.254.75:8000/play/a097/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/El_Gourmet_logo.png/120px-El_Gourmet_logo.png" group-title="Varios",206-El Gourmet
 http://45.5.151.62:8000/play/a07c/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/1200px-TLC_logo_%282023%29.svg.png" group-title="Varios",207-TLC
@@ -436,7 +436,7 @@ http://200.229.147.142:8000/play/a02g/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/E%21_Logo.svg" group-title="Varios",218-E!
 http://181.94.215.185:4000/play/a0fd/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdvgH2yKd9DZWQki7OsGADPNqnfJZuoJSLCA&s" group-title="Varios",219-Discovery Channel
-http://201.230.137.126:8000/play/a16k/index.m3u8
+http://45.186.254.75:8000/play/a06z/index.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Discovery_Science_LA_2011.png/revision/latest?cb=20190925153556&path-prefix=es" group-title="Varios",220-Discovery Science
 http://181.209.125.236:10000/play/a01j/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" group-title="Varios",221-Discovery H&H
