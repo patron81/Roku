@@ -124,7 +124,7 @@ http://45.238.54.67:8000/play/a01p/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png" group-title="Varios",62-Fox Sports 3 HD
 http://138.121.114.91:8000/play/a06y/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",63-ESPN
-http://138.121.114.91:8000/play/a099/index.m3u8
+http://45.186.254.75:8000/play/a07x/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",64-ESPN AR HD
 http://45.238.54.67:8000/play/a052/index.m3u8
 #EXTINF:0 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Varios",65-ESPN LAT
@@ -138,9 +138,9 @@ http://45.238.54.67:8000/play/a051/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",69-ESPN 2 Col
 http://201.230.137.204:8000/play/a0i6/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",70-ESPN 2 SUR
-http://181.205.130.194:4000/play/a07i
+http://45.186.254.75:8000/play/a0ah/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ99S46AptMJtnVRIcGopBYycpJwTS6AeYcrQ&s" group-title="Varios",71-ESPN 2 MX
-http://177.10.184.193:8000/play/a054/index.m3u8
+http://181.189.142.237:40000/play/a08y
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoLn81edf0H0Qc2kT6VUieZ2ueRBQN0xkYg&s" group-title="Varios",72-ESPN 3
 http://45.238.54.67:8000/play/a053/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLoLn81edf0H0Qc2kT6VUieZ2ueRBQN0xkYg&s" group-title="Varios",73-ESPN 3 Sur
@@ -154,7 +154,7 @@ http://181.224.200.5:2277/play/a02o/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png" group-title="Varios",77-ESPN 4 MX
 http://201.216.147.90:8729/play/a0gb
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",78-ESPN 5
-http://181.224.200.5:2277/play/a02k/index.m3u8
+http://45.186.254.75:8000/play/a0bq/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",79-ESPN 5 HD
 http://181.209.125.236:10000/play/a07o/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1200px-ESPN_5_logo.svg.png" group-title="Varios",80-ESPN 5 MX
